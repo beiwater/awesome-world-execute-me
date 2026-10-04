@@ -391,9 +391,13 @@ def write_readme(works):
         text = f.read()
     if README_START not in text or README_END not in text:
         return
+    head, rest = text.split(README_START, 1)
+    tail = rest.split(README_END, 1)[1]
+    # awesome-lint forbids duplicate links: works linked by hand (精选) are not listed again.
+    featured = set(re.findall(r"\]\((https://github\.com/[^/)\s]+/[^/)\s]+)\)", head + tail))
     out = []
     for form, _ in FORM_TITLES:
-        group = [w for w in works if w["form"] == form]
+        group = [w for w in works if w["form"] == form and readme_url(w["url"]) not in featured]
         # Stable headings keep the hand-written Contents links valid after updates.
         heading = {"web": "网页 Web", "terminal": "终端 ASCII Terminal",
                    "video": "代码渲染视频 PV Video", "code": "代码实现 Code"}[form]
@@ -421,8 +425,6 @@ def write_readme(works):
                         for video in w.get("youtube", [])[:1]]
             out.append("- [%s](%s) - %s %s." %
                        (readme_text(w["repo"]), readme_url(w["url"]), desc, "；".join(details)))
-    head, rest = text.split(README_START, 1)
-    tail = rest.split(README_END, 1)[1]
     new = head + README_START + "\n" + "\n".join(out).strip("\n") + "\n" + README_END + tail
     if new != text:
         with open(README, "w", encoding="utf-8") as f:
