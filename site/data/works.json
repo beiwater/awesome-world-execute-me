@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04T11:55:05Z",
- "count": 139,
+ "generated": "2026-10-04T16:52:02Z",
+ "count": 142,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 363,
+   "stars": 374,
    "forks": 34,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 232,
+   "stars": 236,
    "forks": 15,
    "language": "Python",
    "license": null,
@@ -323,7 +323,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/75202340?v=4",
    "url": "https://github.com/bilixxb/world-execute-me-ascii-rust",
    "description": "world.execute(me); —ascii — Rewritten in Rust",
-   "stars": 11,
+   "stars": 12,
    "forks": 0,
    "language": "Rust",
    "license": null,
@@ -449,7 +449,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/178721672?v=4",
    "url": "https://github.com/user-lqt/world-execute-me",
    "description": "World.execute(me); 歌词×代码逐句体验页 · 86 句歌词 → 86 段联想 Java 代码 · 音频同步 + 多层动效",
-   "stars": 6,
+   "stars": 7,
    "forks": 0,
    "language": "HTML",
    "license": "NOASSERTION",
@@ -695,6 +695,34 @@
    "preview": "https://raw.githubusercontent.com/BreadS00/world-execute-me-terminal-mv/main/banner.png",
    "og": "https://opengraph.githubassets.com/1/BreadS00/world-execute-me-terminal-mv",
    "families": []
+  },
+  {
+   "repo": "ZioyeaMu/world.execute-me",
+   "name": "world.execute-me",
+   "owner": "ZioyeaMu",
+   "avatar": "https://avatars.githubusercontent.com/u/210646007?v=4",
+   "url": "https://github.com/ZioyeaMu/world.execute-me",
+   "description": "",
+   "stars": 2,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-04",
+   "pushed": "2026-10-04",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "DeepSeek"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/ZioyeaMu/world.execute-me/main/docs/images/cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/ZioyeaMu/world.execute-me",
+   "families": [
+    "DeepSeek"
+   ]
   },
   {
    "repo": "zhengxiaoyao0716/world.execute",
@@ -1201,6 +1229,32 @@
    "form": "video",
    "preview": "https://raw.githubusercontent.com/eryuemu/ai-passport-world-execute-me/main/docs/images/cover_hd.png",
    "og": "https://opengraph.githubassets.com/1/eryuemu/ai-passport-world-execute-me",
+   "families": []
+  },
+  {
+   "repo": "MingHuanYue/world-execute-me-tui",
+   "name": "world-execute-me-tui",
+   "owner": "MingHuanYue",
+   "avatar": "https://avatars.githubusercontent.com/u/311069227?v=4",
+   "url": "https://github.com/MingHuanYue/world-execute-me-tui",
+   "description": "A two-column TUI music MV rendered frame-by-frame in Python - every frame is a pure function of time f(t). Pillow + ffmpeg, no editing software.",
+   "stars": 1,
+   "forks": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created": "2026-10-04",
+   "pushed": "2026-10-04",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xCai6aE9g"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/MingHuanYue/world-execute-me-tui/main/docs/preview.png",
+   "og": "https://opengraph.githubassets.com/1/MingHuanYue/world-execute-me-tui",
    "families": []
   },
   {
@@ -3448,16 +3502,16 @@
    ]
   },
   {
-   "repo": "ZioyeaMu/world.execute-me",
-   "name": "world.execute-me",
-   "owner": "ZioyeaMu",
-   "avatar": "https://avatars.githubusercontent.com/u/210646007?v=4",
-   "url": "https://github.com/ZioyeaMu/world.execute-me",
+   "repo": "KaedeharaKazuha1029/world.execute-me-opus5.5-1",
+   "name": "world.execute-me-opus5.5-1",
+   "owner": "KaedeharaKazuha1029",
+   "avatar": "https://avatars.githubusercontent.com/u/300164896?v=4",
+   "url": "https://github.com/KaedeharaKazuha1029/world.execute-me-opus5.5-1",
    "description": "",
    "stars": 0,
    "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
+   "language": null,
+   "license": null,
    "created": "2026-10-04",
    "pushed": "2026-10-04",
    "demo": null,
@@ -3465,15 +3519,41 @@
    "bilibili": [],
    "youtube": [],
    "models": [
-    "DeepSeek"
+    "Claude Opus 5.5"
    ],
    "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/ZioyeaMu/world.execute-me/main/docs/images/cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/ZioyeaMu/world.execute-me",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/KaedeharaKazuha1029/world.execute-me-opus5.5-1",
    "families": [
-    "DeepSeek"
+    "Claude"
    ]
+  },
+  {
+   "repo": "MIMISAMA156/world-execute-ascii-crt",
+   "name": "world-execute-ascii-crt",
+   "owner": "MIMISAMA156",
+   "avatar": "https://avatars.githubusercontent.com/u/230704418?v=4",
+   "url": "https://github.com/MIMISAMA156/world-execute-ascii-crt",
+   "description": "Windows ASCII / CRT terminal player for world.execute(me); with native PCM audio sync, portable Windows Terminal setup and Chinese documentation.",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-04",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1Jwhy6BEMJ"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/MIMISAMA156/world-execute-ascii-crt",
+   "families": []
   },
   {
    "repo": "beiwater/awesome-world-execute-me",
