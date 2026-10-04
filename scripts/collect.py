@@ -343,8 +343,44 @@ def main():
     print("works: %d -> %s" % (len(works), os.path.relpath(OUT, ROOT)), file=sys.stderr)
 
 
-def md_cell(s):
-    return re.sub(r"\s+", " ", s or "").replace("|", "\\|").replace("<", "&lt;").strip()
+def readme_text(value, capitalize=False):
+    """Keep untrusted GitHub text on one line, with literal Markdown characters."""
+    text = re.sub(r"\s+", " ", value or "").strip()
+    # GitHub descriptions may contain unfinished quotes or CJK brackets.
+    pairs = dict(zip("“‘『（《「【", "”’』）》」】"))
+    closing = {right: left for left, right in pairs.items()}
+    stack, unmatched = [], set()
+    for index, char in enumerate(text):
+        if char == "’" and index and text[index - 1].isalnum():
+            continue  # Apostrophe, not a closing quotation mark.
+        if char == '"':
+            if stack and stack[-1][0] == char:
+                stack.pop()
+            else:
+                stack.append((char, index))
+        elif char in pairs:
+            stack.append((char, index))
+        elif char in closing:
+            match = next((i for i in range(len(stack) - 1, -1, -1)
+                          if stack[i][0] == closing[char]), None)
+            if match is None:
+                unmatched.add(index)
+            else:
+                stack.pop(match)
+    unmatched.update(index for _, index in stack)
+    text = "".join(char for index, char in enumerate(text) if index not in unmatched)
+    text = re.sub(r"([！!~～,，·?？])\1+", r"\1", text).strip()
+    # Capitalize only an initial Latin letter; Chinese descriptions need no casing.
+    if capitalize:
+        text = re.sub(r"^([^A-Za-z\u3400-\u9fff]*)([a-z])",
+                      lambda match: match[1] + match[2].upper(), text)
+    text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return re.sub(r"([\\`*_\[\]|])", r"\\\1", text)
+
+
+def readme_url(url):
+    """Quote delimiters that would otherwise end a Markdown link destination."""
+    return urllib.parse.quote(url, safe=":/?#@!$&'*+,;=%~-._")
 
 
 def write_readme(works):
@@ -356,22 +392,35 @@ def write_readme(works):
     if README_START not in text or README_END not in text:
         return
     out = []
-    for form, title in FORM_TITLES:
+    for form, _ in FORM_TITLES:
         group = [w for w in works if w["form"] == form]
-        if not group:
-            continue
-        out += ["", "### %s (%d)" % (title, len(group)), "", "| 作品 | ★ | AI 模型 | 链接 |", "|---|--:|---|---|"]
-        for w in group:
-            desc = md_cell(w["description"])
-            if len(desc) > 70:
-                desc = desc[:69] + "…"
-            name = "[%s](%s)" % (md_cell(w["repo"]), w["url"]) + (" — " + desc if desc else "")
-            model = ", ".join(w["models"]) or {"human": "手写", "ai": "AI", "unknown": ""}[w["maker"]]
-            links = []
-            if w["demo"]:
-                links.append("[在线](%s)" % w["demo"])
-            links += ["[B站](https://www.bilibili.com/video/%s)" % bv for bv in w["bilibili"][:1]]
-            out.append("| %s | %d | %s | %s |" % (name, w["stars"], md_cell(model), " ".join(links)))
+        # Stable headings keep the hand-written Contents links valid after updates.
+        heading = {"web": "网页 Web", "terminal": "终端 ASCII Terminal",
+                   "video": "代码渲染视频 PV Video", "code": "代码实现 Code"}[form]
+        out += ["", "### %s" % heading, ""]
+        for w in sorted(group, key=lambda work: -work["stars"]):
+            desc = readme_text(w.get("description"), capitalize=True)
+            if not desc:
+                desc = "%s形式的二创作品" % heading.split(" ")[0]
+            if desc.lower().startswith(w["repo"].lower()):
+                desc = "作品简介：" + desc
+            desc = desc.rstrip(".。") + "."
+            details = ["★ %d" % w["stars"]]
+            model = ", ".join(w["models"])
+            if model:
+                details.append("AI 模型：" + readme_text(model))
+            elif w["maker"] == "ai":
+                details.append("AI 模型：未注明")
+            elif w["maker"] == "human":
+                details.append("制作：手写")
+            if w.get("demo"):
+                details.append("[在线 demo](%s)" % readme_url(w["demo"]))
+            details += ["[B站](https://www.bilibili.com/video/%s)" % readme_url(bv)
+                        for bv in w.get("bilibili", [])[:1]]
+            details += ["[YouTube](https://www.youtube.com/watch?v=%s)" % readme_url(video)
+                        for video in w.get("youtube", [])[:1]]
+            out.append("- [%s](%s) - %s %s." %
+                       (readme_text(w["repo"]), readme_url(w["url"]), desc, "；".join(details)))
     head, rest = text.split(README_START, 1)
     tail = rest.split(README_END, 1)[1]
     new = head + README_START + "\n" + "\n".join(out).strip("\n") + "\n" + README_END + tail
