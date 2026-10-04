@@ -24,7 +24,7 @@
 按形式分组、按 stars 排序。本节由 `scripts/collect.py` 自动生成，请勿手改。
 
 <!-- works:start -->
-### 🌐 网页 Web (46)
+### 🌐 网页 Web (47)
 
 | 作品 | ★ | AI 模型 | 链接 |
 |---|--:|---|---|
@@ -74,6 +74,7 @@
 | [Lxithral/world-execute-me-deepseek-whale-pv](https://github.com/Lxithral/world-execute-me-deepseek-whale-pv) — world.execute(me); · DeepSeek 鲸鱼娘版 — 浏览器音乐可视化 PV（非官方同人，CC BY-NC-SA 4.… | 0 |  |  |
 | [lingcat521/world-execute-me-live](https://github.com/lingcat521/world-execute-me-live) — Browser-native realtime port of the world.execute(me); TUI PV (WIP) | 0 |  | [在线](https://lingcat521.github.io/world-execute-me-live/) |
 | [ZioyeaMu/world.execute-me](https://github.com/ZioyeaMu/world.execute-me) | 0 | DeepSeek |  |
+| [beiwater/awesome-world-execute-me](https://github.com/beiwater/awesome-world-execute-me) — world.execute(gallery); — Mili《world.execute(me);》GitHub 二创作品馆：网页 / 终… | 0 | GPT-6, GPT-6 Ultra | [在线](https://beiwater.github.io/awesome-world-execute-me/) [B站](https://www.bilibili.com/video/BV1RKNAePEKD) |
 
 ### 🖥️ 终端 / ASCII Terminal (39)
 
@@ -124,9 +125,9 @@
 | 作品 | ★ | AI 模型 | 链接 |
 |---|--:|---|---|
 | [MisakaZentai/world-execute-me-dsh-pv](https://github.com/MisakaZentai/world-execute-me-dsh-pv) — Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek … | 360 | Claude Opus, GPT-6 Astra | [B站](https://www.bilibili.com/video/BV1xCai6aE9g) |
+| [eryuemu/ai-passport-world-execute-me](https://github.com/eryuemu/ai-passport-world-execute-me) — world.execute(me); Cyber Whale Player for FoloToy AI Passport (ESP32-… | 1 | AI | [B站](https://www.bilibili.com/video/BV1qMHr6eEyy) |
 | [HFASLTO117/Videos_by_GPT6](https://github.com/HFASLTO117/Videos_by_GPT6) — 由 GPT6 ultra 完成视频制作的主要部分，人类通过提示词提供辅助与反馈。 | 0 | GPT-6 Ultra |  |
 | [Neonflare8052/MV](https://github.com/Neonflare8052/MV) | 0 | Claude | [B站](https://www.bilibili.com/video/BV1SgaY64EG5) |
-| [eryuemu/ai-passport-world-execute-me](https://github.com/eryuemu/ai-passport-world-execute-me) — world.execute(me); Cyber Whale Player for FoloToy AI Passport (ESP32-… | 0 | AI | [B站](https://www.bilibili.com/video/BV1qMHr6eEyy) |
 
 ### ☕ 代码实现 Code (49)
 
