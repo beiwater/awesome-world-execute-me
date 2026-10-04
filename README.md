@@ -85,6 +85,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [YQGHL/world\_execute\_me\_html](https://github.com/YQGHL/world_execute_me_html) - 网页形式的二创作品. ★ 0.
 - [mehtmls/world.execute-me](https://github.com/mehtmls/world.execute-me) - 网页形式的二创作品. ★ 0.
 - [luvchippy/worldexecuteme1](https://github.com/luvchippy/worldexecuteme1) - World-execute-me the music website. ★ 0；[在线 demo](https://luvchippy.github.io/worldexecuteme1/).
+- [f0909172434/f0909172434](https://github.com/f0909172434/f0909172434) - Python and TypeScript tools for inspectable AI and mathematical research. Engineering and AI research portfolio by Chih-Kai Wang. ★ 0；AI 模型：未注明；[在线 demo](https://f0909172434.github.io/)；[YouTube](https://www.youtube.com/watch?v=kQH1PZRkn00).
 - [siliconrecycle/frederica-execute-me](https://github.com/siliconrecycle/frederica-execute-me) - 网页形式的二创作品. ★ 0；[在线 demo](https://siliconrecycle.github.io/frederica-execute-me/).
 - [Te-River/world.execute-me](https://github.com/Te-River/world.execute-me) - 基于Qwen3.8-Flash的Html仓库，用于表现world.execute(me)这首乐曲的视觉效果. ★ 0；AI 模型：Qwen3.8-Flash.
 - [Zeromse/world-execute-ui-source](https://github.com/Zeromse/world-execute-ui-source) - 网页形式的二创作品. ★ 0.
@@ -99,9 +100,9 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 236.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 238.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 121；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
-- [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 12.
+- [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 13.
 - [sanaedesuyo/world-execute-me](https://github.com/sanaedesuyo/world-execute-me) - 在终端上实时生成world.execute(me);的mv. ★ 8.
 - [dingmark1/world\_execute\_me\_win](https://github.com/dingmark1/world_execute_me_win) - 终端形式的二创作品. ★ 5.
 - [fangchudark/world-execute-me](https://github.com/fangchudark/world-execute-me) - The Godot C# implementation of "Mili - world.execute(me)" that plays like the source MV in three different styles. ★ 4；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).

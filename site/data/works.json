@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04T16:52:02Z",
- "count": 142,
+ "generated": "2026-10-04T21:23:10Z",
+ "count": 143,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 374,
+   "stars": 378,
    "forks": 34,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 236,
+   "stars": 238,
    "forks": 15,
    "language": "Python",
    "license": null,
@@ -323,7 +323,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/75202340?v=4",
    "url": "https://github.com/bilixxb/world-execute-me-ascii-rust",
    "description": "world.execute(me); —ascii — Rewritten in Rust",
-   "stars": 12,
+   "stars": 13,
    "forks": 0,
    "language": "Rust",
    "license": null,
@@ -2524,6 +2524,33 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/Aprixia/world.execute-me-",
+   "families": []
+  },
+  {
+   "repo": "f0909172434/f0909172434",
+   "name": "f0909172434",
+   "owner": "f0909172434",
+   "avatar": "https://avatars.githubusercontent.com/u/290806361?v=4",
+   "url": "https://github.com/f0909172434/f0909172434",
+   "description": "Python and TypeScript tools for inspectable AI and mathematical research. Engineering and AI research portfolio by Chih-Kai Wang.",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-08-02",
+   "pushed": "2026-10-04",
+   "demo": "https://f0909172434.github.io/",
+   "homepage": "https://f0909172434.github.io/",
+   "bilibili": [],
+   "youtube": [
+    "kQH1PZRkn00",
+    "ha-ANfqri6g"
+   ],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/f0909172434/f0909172434",
    "families": []
   },
   {
