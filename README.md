@@ -74,7 +74,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Lxithral/world-execute-me-deepseek-whale-pv](https://github.com/Lxithral/world-execute-me-deepseek-whale-pv) - World.execute(me); · DeepSeek 鲸鱼娘版 — 浏览器音乐可视化 PV（非官方同人，CC BY-NC-SA 4.0）. ★ 0.
 - [lingcat521/world-execute-me-live](https://github.com/lingcat521/world-execute-me-live) - Browser-native realtime port of the world.execute(me); TUI PV (WIP). ★ 0；[在线 demo](https://lingcat521.github.io/world-execute-me-live/).
 - [ZioyeaMu/world.execute-me](https://github.com/ZioyeaMu/world.execute-me) - 网页形式的二创作品. ★ 0；AI 模型：DeepSeek.
-- [beiwater/awesome-world-execute-me](https://github.com/beiwater/awesome-world-execute-me) - World.execute(gallery); — Mili《world.execute(me);》GitHub 二创作品馆：网页 / 终端 / PV / AI 擂台，自动更新. ★ 0；AI 模型：GPT-6, GPT-6 Ultra；[在线 demo](https://beiwater.github.io/awesome-world-execute-me/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
+- [beiwater/awesome-world-execute-me](https://github.com/beiwater/awesome-world-execute-me) - World.execute(gallery); — Mili《world.execute(me);》GitHub 二创作品馆：网页 / 终端 / PV / AI 擂台，自动更新. ★ 0；AI 模型：DeepSeek V4.1 Flash, DeepSeek V4 Flash, Claude Opus 5.5, Codex；[在线 demo](https://beiwater.github.io/awesome-world-execute-me/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD)；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 
 ### 终端 ASCII Terminal
 
@@ -120,7 +120,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 ### 代码渲染视频 PV Video
 
-- [MisakaZentai/world-execute-me-dsh-pv](https://github.com/MisakaZentai/world-execute-me-dsh-pv) - Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork. ★ 360；AI 模型：Claude Opus, GPT-6 Astra；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
+- [MisakaZentai/world-execute-me-dsh-pv](https://github.com/MisakaZentai/world-execute-me-dsh-pv) - Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork. ★ 363；AI 模型：Claude Opus, GPT-6 Astra；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 - [eryuemu/ai-passport-world-execute-me](https://github.com/eryuemu/ai-passport-world-execute-me) - World.execute(me); Cyber Whale Player for FoloToy AI Passport (ESP32-C3) \| 赛博大肥鱼离线播放器固件. ★ 1；AI 模型：未注明；[B站](https://www.bilibili.com/video/BV1qMHr6eEyy).
 - [HFASLTO117/Videos\_by\_GPT6](https://github.com/HFASLTO117/Videos_by_GPT6) - 由 GPT6 ultra 完成视频制作的主要部分，人类通过提示词提供辅助与反馈. ★ 0；AI 模型：GPT-6 Ultra.
 - [Neonflare8052/MV](https://github.com/Neonflare8052/MV) - 代码渲染视频形式的二创作品. ★ 0；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV1SgaY64EG5).

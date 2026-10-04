@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T11:06:56Z",
+ "generated": "2026-10-04T11:47:25Z",
  "count": 139,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 360,
+   "stars": 363,
    "forks": 34,
    "language": "Python",
    "license": "MIT",
@@ -3461,7 +3461,7 @@
    "stars": 0,
    "forks": 0,
    "language": "Python",
-   "license": null,
+   "license": "CC0-1.0",
    "created": "2026-10-04",
    "pushed": "2026-10-04",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
@@ -3471,16 +3471,23 @@
     "BV1RHhU63ESq",
     "BV1pGYc6fERv"
    ],
-   "youtube": [],
+   "youtube": [
+    "ESx_hy1n7HA",
+    "uZJgKQ6dTc4"
+   ],
    "models": [
-    "GPT-6",
-    "GPT-6 Ultra"
+    "DeepSeek V4.1 Flash",
+    "DeepSeek V4 Flash",
+    "Claude Opus 5.5",
+    "Codex"
    ],
    "maker": "ai",
    "form": "web",
    "preview": "https://raw.githubusercontent.com/beiwater/awesome-world-execute-me/main/docs/preview.png",
    "og": "https://opengraph.githubassets.com/1/beiwater/awesome-world-execute-me",
    "families": [
+    "DeepSeek",
+    "Claude",
     "GPT / Codex"
    ]
   },
