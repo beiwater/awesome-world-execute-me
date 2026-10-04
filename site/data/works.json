@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T11:47:25Z",
+ "generated": "2026-10-04T11:55:05Z",
  "count": 139,
  "works": [
   {
@@ -1201,6 +1201,30 @@
    "form": "video",
    "preview": "https://raw.githubusercontent.com/eryuemu/ai-passport-world-execute-me/main/docs/images/cover_hd.png",
    "og": "https://opengraph.githubassets.com/1/eryuemu/ai-passport-world-execute-me",
+   "families": []
+  },
+  {
+   "repo": "miaoyouchacha/xaihi-terminal-mv",
+   "name": "xaihi-terminal-mv",
+   "owner": "miaoyouchacha",
+   "avatar": "https://avatars.githubusercontent.com/u/188233935?v=4",
+   "url": "https://github.com/miaoyouchacha/xaihi-terminal-mv",
+   "description": "",
+   "stars": 1,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-10-04",
+   "pushed": "2026-10-04",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/miaoyouchacha/xaihi-terminal-mv/main/previews/124.0.png",
+   "og": "https://opengraph.githubassets.com/1/miaoyouchacha/xaihi-terminal-mv",
    "families": []
   },
   {
@@ -3467,9 +3491,9 @@
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
+    "BV1xCai6aE9g",
     "BV1RKNAePEKD",
-    "BV1RHhU63ESq",
-    "BV1pGYc6fERv"
+    "BV1RHhU63ESq"
    ],
    "youtube": [
     "ESx_hy1n7HA",
@@ -3477,9 +3501,9 @@
    ],
    "models": [
     "DeepSeek V4.1 Flash",
-    "DeepSeek V4 Flash",
-    "Claude Opus 5.5",
-    "Codex"
+    "GPT-6 Astra",
+    "GPT-6",
+    "GPT-6 Ultra"
    ],
    "maker": "ai",
    "form": "web",
@@ -3487,33 +3511,8 @@
    "og": "https://opengraph.githubassets.com/1/beiwater/awesome-world-execute-me",
    "families": [
     "DeepSeek",
-    "Claude",
     "GPT / Codex"
    ]
-  },
-  {
-   "repo": "miaoyouchacha/xaihi-terminal-mv",
-   "name": "xaihi-terminal-mv",
-   "owner": "miaoyouchacha",
-   "avatar": "https://avatars.githubusercontent.com/u/188233935?v=4",
-   "url": "https://github.com/miaoyouchacha/xaihi-terminal-mv",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "license": null,
-   "created": "2026-10-04",
-   "pushed": "2026-10-04",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/miaoyouchacha/xaihi-terminal-mv/main/previews/124.0.png",
-   "og": "https://opengraph.githubassets.com/1/miaoyouchacha/xaihi-terminal-mv",
-   "families": []
   }
  ]
 }

@@ -95,7 +95,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Aimer779/head-orbit](https://github.com/Aimer779/head-orbit) - 网页形式的二创作品. ★ 0.
 - [Lxithral/world-execute-me-deepseek-whale-pv](https://github.com/Lxithral/world-execute-me-deepseek-whale-pv) - World.execute(me); · DeepSeek 鲸鱼娘版 — 浏览器音乐可视化 PV（非官方同人，CC BY-NC-SA 4.0）. ★ 0.
 - [lingcat521/world-execute-me-live](https://github.com/lingcat521/world-execute-me-live) - Browser-native realtime port of the world.execute(me); TUI PV (WIP). ★ 0；[在线 demo](https://lingcat521.github.io/world-execute-me-live/).
-- [beiwater/awesome-world-execute-me](https://github.com/beiwater/awesome-world-execute-me) - World.execute(gallery); — Mili《world.execute(me);》GitHub 二创作品馆：网页 / 终端 / PV / AI 擂台，自动更新. ★ 0；AI 模型：DeepSeek V4.1 Flash, DeepSeek V4 Flash, Claude Opus 5.5, Codex；[在线 demo](https://beiwater.github.io/awesome-world-execute-me/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD)；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
+- [beiwater/awesome-world-execute-me](https://github.com/beiwater/awesome-world-execute-me) - World.execute(gallery); — Mili《world.execute(me);》GitHub 二创作品馆：网页 / 终端 / PV / AI 擂台，自动更新. ★ 0；AI 模型：DeepSeek V4.1 Flash, GPT-6 Astra, GPT-6, GPT-6 Ultra；[在线 demo](https://beiwater.github.io/awesome-world-execute-me/)；[B站](https://www.bilibili.com/video/BV1xCai6aE9g)；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 
 ### 终端 ASCII Terminal
 
@@ -115,6 +115,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [KKBK-233/world-execute-me-ascii-cross-platform](https://github.com/KKBK-233/world-execute-me-ascii-cross-platform) - Windows/Linux adaptation of yym8224961/world.execute-me-ascii. ★ 1.
 - [yifanchen12/wrap-me-in-plastic-gpt-codex-pv](https://github.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv) - GPT x Codex pixel PV adaptation of MisakaZentai/world-execute-me-dsh-pv. Generated key-pose animation; Wrap Me In Plastic audio supplied separately. ★ 1；AI 模型：GPT, Codex；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 - [Alice-Marx/dsh-mv-cli](https://github.com/Alice-Marx/dsh-mv-cli) - DeepSeek Harness plugin: terminal-style world.execute(me); MV (canvas port of world.execute-me-ascii, with permission) + embedded MV terminal. Unofficial fan work; no media bundled. ★ 1.
+- [miaoyouchacha/xaihi-terminal-mv](https://github.com/miaoyouchacha/xaihi-terminal-mv) - 终端形式的二创作品. ★ 1.
 - [penyuhao/terminal-opera](https://github.com/penyuhao/terminal-opera) - 终端形式的二创作品. ★ 1.
 - [Kritzkingvoid/World.Execute.Lyrics](https://github.com/Kritzkingvoid/World.Execute.Lyrics) - A more modular take on a lyrical animation using Console. Used in my world.Execute(Me). Orginal Lyrics was made in Java -&gt; C#. ★ 0.
 - [NiTzuA/world-execute-me](https://github.com/NiTzuA/world-execute-me) - A script animation for the song world.execute(me) by Mili. ★ 0；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
@@ -137,7 +138,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [KurohaneKaoruko/AI-MusicVideo](https://github.com/KurohaneKaoruko/AI-MusicVideo) - 一些用AI做的音乐短片. ★ 0；AI 模型：未注明.
 - [f0909172434/world-execute-me-claude-code](https://github.com/f0909172434/world-execute-me-claude-code) - World.execute(me); as a Claude Code session, played live in your terminal — an unofficial fan PV (pure Node, no dependencies). ★ 0；AI 模型：Claude Opus 5.5, Claude Sonnet 5.5；[B站](https://www.bilibili.com/video/BV1xFHi6vEBq)；[YouTube](https://www.youtube.com/watch?v=iEsGiRECytY).
 - [kz521103-new/world.execute-glm-](https://github.com/kz521103-new/world.execute-glm-) - World.execute(me) 的 CMD 的 "MV". ★ 0；AI 模型：GLM.
-- [miaoyouchacha/xaihi-terminal-mv](https://github.com/miaoyouchacha/xaihi-terminal-mv) - 终端形式的二创作品. ★ 0.
 
 ### 代码渲染视频 PV Video
 
