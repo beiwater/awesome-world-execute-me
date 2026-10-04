@@ -1,0 +1,48 @@
+{
+  "_doc": "Manual curation; always wins over scripts/collect.py heuristics. exclude: repos that only mention the song. include: works the search misses. works: per-repo field overrides (models, maker, form, demo, bilibili, preview, description).",
+  "exclude": [
+    "0livebobolive/RP-farm-list",
+    "129kkkl/129kkkl",
+    "ArsvineZhu/ArsvineZhu",
+    "NiTzuA/NiTzuA",
+    "Nuthfih/Bug-Miku",
+    "Pancake-168/Pancake-Minecraft-Fabric",
+    "Pen-NineCat/dsh-unhappy-pv",
+    "Pi-Man/LaLiLu_Emulator",
+    "Rodert/awesome-deepSeek-harness",
+    "SadS4ndWiCh/gogh",
+    "WMProject1217/WMProject1217",
+    "Walavouchey/osb2mp4",
+    "Wangtk311/Wangtk311",
+    "ekarad1um/JSerializer",
+    "fjzzwxp/awesome-dsh-plugins",
+    "kohs100/arcaea-planner",
+    "leafpmpmp/Lyrics-Visualizer",
+    "mayrchx/mayrchx",
+    "notmaeven/notmaeven",
+    "poju3185/Taiko-no-Tatsujin-A-Rythm-Game",
+    "refi64/CVE-2020-25265-25266",
+    "yuyangalin/KitayamaLaMari",
+    "zmrlft/zmrlft"
+  ],
+  "include": [],
+  "works": {
+    "MisakaZentai/world-execute-me-dsh-pv": {
+      "models": ["Claude Opus", "GPT-6 Astra"],
+      "maker": "ai",
+      "form": "video"
+    },
+    "f0909172434/world-execute-me-claude-code": {
+      "models": ["Claude Opus 5.5", "Claude Sonnet 5.5"],
+      "maker": "ai"
+    },
+    "HFASLTO117/Videos_by_GPT6": {
+      "models": ["GPT-6 Ultra"],
+      "form": "video"
+    },
+    "Alice-Marx/dsh-mv-cli": {
+      "models": [],
+      "maker": "unknown"
+    }
+  }
+}

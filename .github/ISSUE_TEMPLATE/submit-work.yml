@@ -1,0 +1,61 @@
+name: 投稿 / 纠错 · Submit or fix a work
+description: 收录你的 world.execute(me); 二创，或修正已收录作品的信息
+title: "[submit] owner/repo"
+labels: ["submission"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub 仓库
+      description: owner/repo 或完整链接
+      placeholder: yourname/world-execute-me
+    validations:
+      required: true
+  - type: dropdown
+    id: form
+    attributes:
+      label: 形式
+      options:
+        - web 网页
+        - terminal 终端 / ASCII
+        - video 视频 PV（代码渲染）
+        - code 代码实现（各语言重写 GodDrinksJava 等）
+    validations:
+      required: true
+  - type: dropdown
+    id: maker
+    attributes:
+      label: 制作方式
+      options:
+        - AI 生成 / AI 辅助
+        - 手写
+    validations:
+      required: true
+  - type: input
+    id: models
+    attributes:
+      label: 用到的 AI 模型（如有）
+      placeholder: Claude Opus 5.5, DeepSeek V4.1 Flash
+  - type: input
+    id: demo
+    attributes:
+      label: 在线演示链接（如有）
+      placeholder: https://yourname.github.io/world-execute-me/
+  - type: input
+    id: bilibili
+    attributes:
+      label: B 站 / YouTube 视频（如有）
+      placeholder: BV1xxxxxxxxx
+  - type: textarea
+    id: notes
+    attributes:
+      label: 补充说明 / 要纠正的信息
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 确认
+      options:
+        - label: 这是我自己的作品，或我确认作者公开发布了它
+          required: true
+        - label: 仓库里没有直接分发歌曲音频（Mili 版权）
+          required: true

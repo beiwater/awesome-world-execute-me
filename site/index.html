@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>world.execute(gallery); · Mili world.execute(me); 二创作品馆</title>
+<meta name="description" content="收录 GitHub 上所有 Mili《world.execute(me);》二创：网页、终端 ASCII、代码渲染 PV、各语言实现，以及各家 AI 模型的作品擂台。">
+<meta property="og:title" content="world.execute(gallery);">
+<meta property="og:description" content="Mili《world.execute(me);》GitHub 二创作品馆 · AI 模型擂台">
+<meta name="theme-color" content="#08080a">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%2308080a'/%3E%3Ctext x='8' y='44' font-family='monospace' font-size='34' fill='%23ff5c8a'%3E%3B%3C/text%3E%3Crect x='34' y='18' width='6' height='28' fill='%23e8e6e3'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="boot" class="boot" aria-hidden="true">
+  <pre id="boot-log"></pre>
+  <p class="boot-skip">按任意键跳过</p>
+</div>
+
+<div class="scanlines" aria-hidden="true"></div>
+
+<header class="ide">
+  <nav class="tabs" aria-label="files">
+    <span class="tab active">Gallery.java</span>
+    <a class="tab" href="#arena">Arena.java</a>
+    <a class="tab" href="#works">Works.java</a>
+    <a class="tab" id="submit-tab" href="#submit">Submit.md</a>
+  </nav>
+
+  <pre class="code hero"><code><span class="kw">package</span> goddrinksjava;   <span class="cm">// Mili《world.execute(me);》二创作品馆 · 非官方</span>
+
+<span class="kw">public class</span> <span class="ty">Gallery</span> <span class="kw">extends</span> <span class="ty">World</span> {
+    <span class="cm">// 收录 <b id="hero-count">…</b> 个 GitHub 作品 · 自动更新于 <b id="hero-date">…</b></span>
+    <span class="kw">public static void</span> <span class="fn">main</span>(<span class="ty">String</span>[] args) {</code></pre>
+  <h1 class="title"><span class="t-obj">world</span>.<span class="t-fn">execute</span>(<span class="t-arg">me</span>);<span class="caret" aria-hidden="true"></span></h1>
+  <pre class="code hero"><code>    }
+}</code></pre>
+</header>
+
+<main>
+  <section id="arena" class="panel">
+    <h2 class="code"><span class="ty">Map</span>&lt;<span class="ty">Vendor</span>, <span class="ty">Integer</span>&gt; <span class="fn">arena</span> = works.<span class="fn">groupBy</span>(<span class="ty">Work</span>::model);</h2>
+    <p class="cm">// 哪家 AI 做的 world.execute(me) 最多？点击条目只看该家的作品 · 只统计作者在仓库名、描述或 README 里写明制作模型的作品</p>
+    <ol id="arena-bars" class="bars"></ol>
+    <div id="form-stats" class="form-stats"></div>
+  </section>
+
+  <section id="works" class="panel">
+    <div class="query code" role="search">
+      <div class="q-line"><span class="ty">Work</span>[] result = works</div>
+      <div class="q-line">  .<span class="fn">filter</span>(form <span class="op">==</span> <span id="f-form" class="chips"></span>)</div>
+      <div class="q-line">  .<span class="fn">filter</span>(maker <span class="op">==</span> <span id="f-maker" class="chips"></span>)</div>
+      <div class="q-line">  .<span class="fn">filter</span>(model <span class="op">==</span> <span class="select-wrap"><select id="f-model" aria-label="模型"></select></span>)</div>
+      <div class="q-line">  .<span class="fn">grep</span>(<span class="str">"<input id="f-q" type="search" placeholder="搜索 作者 / 仓库 / 描述" aria-label="搜索" spellcheck="false">"</span>)</div>
+      <div class="q-line">  .<span class="fn">sortBy</span>(<span id="f-sort" class="chips"></span>);</div>
+      <div class="q-line q-actions">
+        <span class="cm">// <b id="result-count">0</b> objects instantiated</span>
+        <button id="random" class="btn-exec" type="button"><span class="t-obj">world</span>.<span class="t-fn">execute</span>(<span class="t-arg">random</span>);</button>
+        <button id="reset" class="btn-ghost" type="button">reset()</button>
+      </div>
+    </div>
+
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <p id="empty" class="empty" hidden><span class="err">NullPointerException</span>: 没有符合条件的作品。<button type="button" class="btn-ghost" data-reset>reset()</button></p>
+  </section>
+
+  <section id="submit" class="panel submit">
+    <h2 class="code"><span class="kw">public void</span> <span class="fn">submit</span>(<span class="ty">Work</span> yours)</h2>
+    <p>你的作品没被收录？两种方式：</p>
+    <ol>
+      <li>仓库名或描述里带上 <code>world.execute</code>，每天自动抓取时会收进来；</li>
+      <li>或者 <a id="submit-link" href="#">提交一个 Issue</a>，补充用的 AI 模型、B 站视频等信息。</li>
+    </ol>
+    <p class="cm">// 分类和模型是脚本根据仓库名、描述和 README 自动识别的，难免认错。发现错误也请提 Issue。</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <p><span class="kw">throw new</span> <span class="ty">Disclaimer</span>(<span class="str">"非官方同人合集，与 Mili 及各 AI 厂商无关。作品版权归各自作者，本页不含歌曲音频与歌词。"</span>);</p>
+  <p class="cm">// 原曲：Mili - world.execute(me); (2016, Miracle Milk) · 请支持 <a href="https://projectmili.com/" rel="noopener">Mili 官方</a></p>
+  <p class="cm">// <a id="repo-link" href="#">source on GitHub</a> · data: <a href="data/works.json">works.json</a></p>
+</footer>
+
+<template id="card-tpl">
+  <article class="card">
+    <a class="thumb" target="_blank" rel="noopener">
+      <img loading="lazy" decoding="async" alt="">
+      <span class="badges"></span>
+    </a>
+    <pre class="code obj"><code></code></pre>
+    <p class="desc cm"></p>
+    <div class="actions"></div>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
