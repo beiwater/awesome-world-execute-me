@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04T21:23:10Z",
- "count": 143,
+ "generated": "2026-10-05T05:37:09Z",
+ "count": 144,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 378,
-   "forks": 34,
+   "stars": 380,
+   "forks": 35,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/172923325?v=4",
    "url": "https://github.com/UM7lab/world.execute.me.html",
    "description": "Song world.execute (me) ; Presented in HTML",
-   "stars": 261,
+   "stars": 262,
    "forks": 52,
    "language": "HTML",
    "license": "MIT",
@@ -65,12 +65,12 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 238,
+   "stars": 240,
    "forks": 15,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
-   "pushed": "2026-09-28",
+   "pushed": "2026-10-05",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -467,6 +467,30 @@
    "families": []
   },
   {
+   "repo": "dingmark1/world_execute_me_win",
+   "name": "world_execute_me_win",
+   "owner": "dingmark1",
+   "avatar": "https://avatars.githubusercontent.com/u/210346982?v=4",
+   "url": "https://github.com/dingmark1/world_execute_me_win",
+   "description": "",
+   "stars": 6,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-09-29",
+   "pushed": "2026-09-29",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/dingmark1/world_execute_me_win",
+   "families": []
+  },
+  {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "name": "DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "owner": "Sy2RK",
@@ -493,30 +517,6 @@
    "families": [
     "DeepSeek"
    ]
-  },
-  {
-   "repo": "dingmark1/world_execute_me_win",
-   "name": "world_execute_me_win",
-   "owner": "dingmark1",
-   "avatar": "https://avatars.githubusercontent.com/u/210346982?v=4",
-   "url": "https://github.com/dingmark1/world_execute_me_win",
-   "description": "",
-   "stars": 5,
-   "forks": 0,
-   "language": "Python",
-   "license": null,
-   "created": "2026-09-29",
-   "pushed": "2026-09-29",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/dingmark1/world_execute_me_win",
-   "families": []
   },
   {
    "repo": "fangchudark/world-execute-me",
@@ -723,6 +723,30 @@
    "families": [
     "DeepSeek"
    ]
+  },
+  {
+   "repo": "miaoyouchacha/xaihi-terminal-mv",
+   "name": "xaihi-terminal-mv",
+   "owner": "miaoyouchacha",
+   "avatar": "https://avatars.githubusercontent.com/u/188233935?v=4",
+   "url": "https://github.com/miaoyouchacha/xaihi-terminal-mv",
+   "description": "",
+   "stars": 2,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-10-04",
+   "pushed": "2026-10-04",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/miaoyouchacha/xaihi-terminal-mv/main/previews/124.0.png",
+   "og": "https://opengraph.githubassets.com/1/miaoyouchacha/xaihi-terminal-mv",
+   "families": []
   },
   {
    "repo": "zhengxiaoyao0716/world.execute",
@@ -1255,30 +1279,6 @@
    "form": "terminal",
    "preview": "https://raw.githubusercontent.com/MingHuanYue/world-execute-me-tui/main/docs/preview.png",
    "og": "https://opengraph.githubassets.com/1/MingHuanYue/world-execute-me-tui",
-   "families": []
-  },
-  {
-   "repo": "miaoyouchacha/xaihi-terminal-mv",
-   "name": "xaihi-terminal-mv",
-   "owner": "miaoyouchacha",
-   "avatar": "https://avatars.githubusercontent.com/u/188233935?v=4",
-   "url": "https://github.com/miaoyouchacha/xaihi-terminal-mv",
-   "description": "",
-   "stars": 1,
-   "forks": 0,
-   "language": "Python",
-   "license": null,
-   "created": "2026-10-04",
-   "pushed": "2026-10-04",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/miaoyouchacha/xaihi-terminal-mv/main/previews/124.0.png",
-   "og": "https://opengraph.githubassets.com/1/miaoyouchacha/xaihi-terminal-mv",
    "families": []
   },
   {
@@ -3302,7 +3302,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-02",
-   "pushed": "2026-10-04",
+   "pushed": "2026-10-05",
    "demo": "https://lingcat521.github.io/world-execute-me-live/",
    "homepage": null,
    "bilibili": [],
@@ -3454,7 +3454,7 @@
    "language": "Rust",
    "license": null,
    "created": "2026-10-03",
-   "pushed": "2026-10-03",
+   "pushed": "2026-10-05",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -3604,7 +3604,7 @@
    ],
    "youtube": [
     "ESx_hy1n7HA",
-    "uZJgKQ6dTc4"
+    "kQH1PZRkn00"
    ],
    "models": [
     "DeepSeek V4.1 Flash",
@@ -3619,6 +3619,36 @@
    "families": [
     "DeepSeek",
     "GPT / Codex"
+   ]
+  },
+  {
+   "repo": "Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
+   "name": "Kimi-K3-opus5-World.execute-me-",
+   "owner": "Anontokyo-Mygo",
+   "avatar": "https://avatars.githubusercontent.com/u/231736170?v=4",
+   "url": "https://github.com/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-05",
+   "pushed": "2026-10-05",
+   "demo": "https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/",
+   "homepage": "https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/",
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Kimi K3",
+    "Claude Opus 5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
+   "families": [
+    "Kimi",
+    "Claude"
    ]
   }
  ]
