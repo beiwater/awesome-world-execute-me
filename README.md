@@ -100,18 +100,19 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-](https://github.com/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-) - 网页形式的二创作品. ★ 0；AI 模型：Kimi K3, Claude Opus 5；[在线 demo](https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/).
 - [Chaosnap/world-execute-me](https://github.com/Chaosnap/world-execute-me) - 网页形式的二创作品. ★ 0.
 - [Chaosnap/world\_execute-me](https://github.com/Chaosnap/world_execute-me) - 网页形式的二创作品. ★ 0；[在线 demo](https://chaosnap.github.io/world_execute-me/).
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 0.
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 244.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 248.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 121；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 13.
 - [sanaedesuyo/world-execute-me](https://github.com/sanaedesuyo/world-execute-me) - 在终端上实时生成world.execute(me);的mv. ★ 8.
 - [dingmark1/world\_execute\_me\_win](https://github.com/dingmark1/world_execute_me_win) - 终端形式的二创作品. ★ 7.
 - [fangchudark/world-execute-me](https://github.com/fangchudark/world-execute-me) - The Godot C# implementation of "Mili - world.execute(me)" that plays like the source MV in three different styles. ★ 4；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [tomokaitoh/world.execute\_me](https://github.com/tomokaitoh/world.execute_me) - 使用python在终端播放 world.execute(me);. ★ 3.
+- [miaoyouchacha/xaihi-terminal-mv](https://github.com/miaoyouchacha/xaihi-terminal-mv) - 终端形式的二创作品. ★ 3.
 - [BreadS00/world-execute-me-terminal-mv](https://github.com/BreadS00/world-execute-me-terminal-mv) - 终端形式的二创作品. ★ 2；[B站](https://www.bilibili.com/video/BV1pGYc6fERv).
-- [miaoyouchacha/xaihi-terminal-mv](https://github.com/miaoyouchacha/xaihi-terminal-mv) - 终端形式的二创作品. ★ 2.
 - [Tayzonxperia/world-execute-me-nim](https://github.com/Tayzonxperia/world-execute-me-nim) - The world.execute(me); console music video that has been made in many languages, rewritten in Nim. ★ 1.
 - [XTY64XTY/world.execute-me](https://github.com/XTY64XTY/world.execute-me) - World.execute-me C# 控制台版本. ★ 1；[B站](https://www.bilibili.com/video/BV1KzA3zTE9v).
 - [CogiToast/World.Execute-me-](https://github.com/CogiToast/World.Execute-me-) - A console visualisation of World.Execute(Me); Lyrics. ★ 1.
@@ -123,6 +124,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [MIMISAMA156/world-execute-ascii-crt](https://github.com/MIMISAMA156/world-execute-ascii-crt) - Windows ASCII / CRT terminal player for world.execute(me); with native PCM audio sync, portable Windows Terminal setup and Chinese documentation. ★ 1；[B站](https://www.bilibili.com/video/BV1Jwhy6BEMJ).
 - [MingHuanYue/world-execute-me-tui](https://github.com/MingHuanYue/world-execute-me-tui) - A two-column TUI music MV rendered frame-by-frame in Python - every frame is a pure function of time f(t). Pillow + ffmpeg, no editing software. ★ 1；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 - [penyuhao/terminal-opera](https://github.com/penyuhao/terminal-opera) - 终端形式的二创作品. ★ 1.
+- [Minghao-Fan/world-execute-cmd](https://github.com/Minghao-Fan/world-execute-cmd) - 终端形式的二创作品. ★ 1；AI 模型：未注明；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 - [Kritzkingvoid/World.Execute.Lyrics](https://github.com/Kritzkingvoid/World.Execute.Lyrics) - A more modular take on a lyrical animation using Console. Used in my world.Execute(Me). Orginal Lyrics was made in Java -&gt; C#. ★ 0.
 - [NiTzuA/world-execute-me](https://github.com/NiTzuA/world-execute-me) - A script animation for the song world.execute(me) by Mili. ★ 0；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [VectorSophie/world.executeme](https://github.com/VectorSophie/world.executeme) - Java implementation of https://github.com/KurtVelasco/Execute.SingAlone-Me-. ★ 0.
@@ -152,7 +154,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 ### 代码实现 Code
 
-- [syuchan1005/Mili-song-source-codes](https://github.com/syuchan1005/Mili-song-source-codes) - 代码实现形式的二创作品. ★ 169；制作：手写；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
+- [syuchan1005/Mili-song-source-codes](https://github.com/syuchan1005/Mili-song-source-codes) - 代码实现形式的二创作品. ★ 170；制作：手写；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [daun-io/world.execute.me.py](https://github.com/daun-io/world.execute.me.py) - Python implementation of Mili - world.execute(me). ★ 152；制作：手写；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [alipbudiman/sustain-and-World.Execute-me-but-in-py3](https://github.com/alipbudiman/sustain-and-World.Execute-me-but-in-py3) - Sustain++ and World.Execute(me); but in py3. ★ 43；制作：手写；[YouTube](https://www.youtube.com/watch?v=OnWktOJHrjQ).
 - [DeflatedPickle/GodDrinksJava](https://github.com/DeflatedPickle/GodDrinksJava) - A somewhat working project of the code found in the "world.execute(me);" music video by Mili. ★ 40；制作：手写.
@@ -202,6 +204,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Blackwindy2333/world.execute-me-bymimo2.0](https://github.com/Blackwindy2333/world.execute-me-bymimo2.0) - 代码实现形式的二创作品. ★ 0；AI 模型：Xiaomi MiMo.
 - [Blackwindy2333/world.execute-me-bymimo3.0](https://github.com/Blackwindy2333/world.execute-me-bymimo3.0) - 代码实现形式的二创作品. ★ 0；AI 模型：Xiaomi MiMo.
 - [KaedeharaKazuha1029/world.execute-me-opus5.5-1](https://github.com/KaedeharaKazuha1029/world.execute-me-opus5.5-1) - 代码实现形式的二创作品. ★ 0；AI 模型：Claude Opus 5.5.
+- [Smirk1921/bilibili-collection-skill](https://github.com/Smirk1921/bilibili-collection-skill) - AI-agent skill: 自动整理 B站收藏夹为分类收藏夹 (抓取/类目设计/AI复核/写入) \| Four-step Bilibili favorites collection skill for any AI agent. ★ 0；AI 模型：未注明.
 - [youshengyueye523-code/world-execute-web](https://github.com/youshengyueye523-code/world-execute-web) - 代码实现形式的二创作品. ★ 0.
 <!-- works:end -->
 
