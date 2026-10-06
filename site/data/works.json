@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-06T13:24:51Z",
- "count": 157,
+ "generated": "2026-10-06T22:40:51Z",
+ "count": 163,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 402,
+   "stars": 410,
    "forks": 42,
    "language": "Python",
    "license": "MIT",
@@ -65,8 +65,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 252,
-   "forks": 15,
+   "stars": 256,
+   "forks": 17,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
@@ -237,6 +237,30 @@
    "families": []
   },
   {
+   "repo": "CrackerCat/feed",
+   "name": "feed",
+   "owner": "CrackerCat",
+   "avatar": "https://avatars.githubusercontent.com/u/17995064?v=4",
+   "url": "https://github.com/CrackerCat/feed",
+   "description": "",
+   "stars": 25,
+   "forks": 5,
+   "language": "Python",
+   "license": null,
+   "created": "2025-09-20",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
+   "families": []
+  },
+  {
    "repo": "Galen563/world.execute-me",
    "name": "world.execute-me",
    "owner": "Galen563",
@@ -263,6 +287,30 @@
    "families": [
     "DeepSeek"
    ]
+  },
+  {
+   "repo": "FrostNovaOrg/world-execute-web",
+   "name": "world-execute-web",
+   "owner": "FrostNovaOrg",
+   "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
+   "url": "https://github.com/FrostNovaOrg/world-execute-web",
+   "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
+   "stars": 15,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-10-05",
+   "pushed": "2026-10-05",
+   "demo": null,
+   "homepage": "https://execute.frostnova.org",
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/FrostNovaOrg/world-execute-web",
+   "families": []
   },
   {
    "repo": "LeonspaceX/world-execute-me",
@@ -491,30 +539,6 @@
    "families": []
   },
   {
-   "repo": "FrostNovaOrg/world-execute-web",
-   "name": "world-execute-web",
-   "owner": "FrostNovaOrg",
-   "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
-   "url": "https://github.com/FrostNovaOrg/world-execute-web",
-   "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 7,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "AGPL-3.0",
-   "created": "2026-10-05",
-   "pushed": "2026-10-05",
-   "demo": null,
-   "homepage": "https://execute.frostnova.org",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/FrostNovaOrg/world-execute-web",
-   "families": []
-  },
-  {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "name": "DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "owner": "Sy2RK",
@@ -638,6 +662,30 @@
    "form": "terminal",
    "preview": "https://raw.githubusercontent.com/miaoyouchacha/xaihi-terminal-mv/main/previews/124.0.png",
    "og": "https://opengraph.githubassets.com/1/miaoyouchacha/xaihi-terminal-mv",
+   "families": []
+  },
+  {
+   "repo": "blueink66/world-execute-me",
+   "name": "world-execute-me",
+   "owner": "blueink66",
+   "avatar": "https://avatars.githubusercontent.com/u/313392824?v=4",
+   "url": "https://github.com/blueink66/world-execute-me",
+   "description": "world.execute(me); 网页版 PV — 动态可视化 MV",
+   "stars": 3,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-06",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/blueink66/world-execute-me",
    "families": []
   },
   {
@@ -770,6 +818,36 @@
    "og": "https://opengraph.githubassets.com/1/ZioyeaMu/world.execute-me",
    "families": [
     "DeepSeek"
+   ]
+  },
+  {
+   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
+   "name": "world-execute-me-lyric-mv",
+   "owner": "Nyankomintsu",
+   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
+   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
+   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
+   "stars": 2,
+   "forks": 1,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
+   "bilibili": [
+    "BV186pc65E68"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
+   "families": [
+    "Claude"
    ]
   },
   {
@@ -1224,6 +1302,34 @@
    "og": "https://opengraph.githubassets.com/1/eugenewang5425/world-execute-me",
    "families": [
     "GPT / Codex"
+   ]
+  },
+  {
+   "repo": "Tkingxiao/deepseek-world-execute-me-crt",
+   "name": "deepseek-world-execute-me-crt",
+   "owner": "Tkingxiao",
+   "avatar": "https://avatars.githubusercontent.com/u/143373016?v=4",
+   "url": "https://github.com/Tkingxiao/deepseek-world-execute-me-crt",
+   "description": "",
+   "stars": 1,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-09-30",
+   "pushed": "2026-09-30",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "DeepSeek"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Tkingxiao/deepseek-world-execute-me-crt",
+   "families": [
+    "DeepSeek"
    ]
   },
   {
@@ -2808,6 +2914,37 @@
    ]
   },
   {
+   "repo": "coolbat/awesome-opus-5.5-usecase",
+   "name": "awesome-opus-5.5-usecase",
+   "owner": "coolbat",
+   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
+   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
+   "stars": 0,
+   "forks": 0,
+   "language": null,
+   "license": "CC0-1.0",
+   "created": "2026-09-24",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [
+    "EnmpDgFD3OI",
+    "mGLhVaXlIyg"
+   ],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "HFASLTO117/Videos_by_GPT6",
    "name": "Videos_by_GPT6",
    "owner": "HFASLTO117",
@@ -3106,34 +3243,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/TianLSama/world.execute-me-",
    "families": []
-  },
-  {
-   "repo": "Tkingxiao/deepseek-world-execute-me-crt",
-   "name": "deepseek-world-execute-me-crt",
-   "owner": "Tkingxiao",
-   "avatar": "https://avatars.githubusercontent.com/u/143373016?v=4",
-   "url": "https://github.com/Tkingxiao/deepseek-world-execute-me-crt",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-09-30",
-   "pushed": "2026-09-30",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "DeepSeek"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/Tkingxiao/deepseek-world-execute-me-crt",
-   "families": [
-    "DeepSeek"
-   ]
   },
   {
    "repo": "YricOTF/ycset",
@@ -3750,6 +3859,34 @@
    ]
   },
   {
+   "repo": "lvy010/world-execute-me-kimi",
+   "name": "world-execute-me-kimi",
+   "owner": "lvy010",
+   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
+   "url": "https://github.com/lvy010/world-execute-me-kimi",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Kimi"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
+   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "families": [
+    "Kimi"
+   ]
+  },
+  {
    "repo": "Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
    "name": "Kimi-K3-opus5-World.execute-me-",
    "owner": "Anontokyo-Mygo",
@@ -3904,6 +4041,36 @@
    ]
   },
   {
+   "repo": "Chaosnap/world-execute-me-lyric-mv",
+   "name": "world-execute-me-lyric-mv",
+   "owner": "Chaosnap",
+   "avatar": "https://avatars.githubusercontent.com/u/78152294?v=4",
+   "url": "https://github.com/Chaosnap/world-execute-me-lyric-mv",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-06",
+   "demo": "https://chaosnap.github.io/world-execute-me-lyric-mv/",
+   "homepage": null,
+   "bilibili": [
+    "BV186pc65E68"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Chaosnap/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/Chaosnap/world-execute-me-lyric-mv",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "HMUG12/world-execute-neko",
    "name": "world-execute-neko",
    "owner": "HMUG12",
@@ -3928,27 +4095,27 @@
    "families": []
   },
   {
-   "repo": "blueink66/world-execute-me",
-   "name": "world-execute-me",
-   "owner": "blueink66",
-   "avatar": "https://avatars.githubusercontent.com/u/313392824?v=4",
-   "url": "https://github.com/blueink66/world-execute-me",
-   "description": "world.execute(me); 网页版 PV — 动态可视化 MV",
+   "repo": "dragona-tactica/Unidad-6-worl-execute-me",
+   "name": "Unidad-6-worl-execute-me",
+   "owner": "dragona-tactica",
+   "avatar": "https://avatars.githubusercontent.com/u/109930227?v=4",
+   "url": "https://github.com/dragona-tactica/Unidad-6-worl-execute-me",
+   "description": "",
    "stars": 0,
    "forks": 0,
-   "language": null,
+   "language": "JavaScript",
    "license": null,
    "created": "2026-10-06",
    "pushed": "2026-10-06",
-   "demo": null,
+   "demo": "https://dragona-tactica.github.io/Unidad-6-worl-execute-me/",
    "homepage": null,
    "bilibili": [],
    "youtube": [],
    "models": [],
    "maker": "unknown",
-   "form": "code",
+   "form": "web",
    "preview": null,
-   "og": "https://opengraph.githubassets.com/1/blueink66/world-execute-me",
+   "og": "https://opengraph.githubassets.com/1/dragona-tactica/Unidad-6-worl-execute-me",
    "families": []
   },
   {
