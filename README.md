@@ -72,6 +72,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [bilixuesheng/world-execute-me](https://github.com/bilixuesheng/world-execute-me) - 网页形式的二创作品. ★ 1.
 - [tsingxv/world-execute-me-animation](https://github.com/tsingxv/world-execute-me-animation) - World.execute(me); 网页动画：以 audio.currentTime 为唯一时间基准、每帧都是时间纯函数的 Canvas 运行时；卡点来自 MIDI、歌词时间轴来自 LRC、能量与闪光来自录音实测。仅代码，不含音频/曲谱/歌词. ★ 1.
 - [eugenewang5425/world-execute-me](https://github.com/eugenewang5425/world-execute-me) - Code-rendered world.execute(me); MV — native 4K/60fps, Canvas 2D + WebGL2 + GLSL, storyboards and rendering pipeline. ★ 1；AI 模型：Codex.
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 1.
 - [monSteRhhe/world.execute.me-PV-codeScrolling-Demo](https://github.com/monSteRhhe/world.execute.me-PV-codeScrolling-Demo) - Js/jq写的world.execute(me); PV的代码滚动. ★ 0；制作：手写；[在线 demo](https://monsterhhe.github.io/world.execute.me-PV-codeScrolling-Demo/).
 - [world-executed/world-executed.github.io](https://github.com/world-executed/world-executed.github.io) - 网页形式的二创作品. ★ 0；[在线 demo](https://world-executed.github.io/).
 - [KaitoSugimura/World-Execute-Me](https://github.com/KaitoSugimura/World-Execute-Me) - 1 Hour project for fun. ★ 0；[在线 demo](https://kaitosugimura.github.io/World-Execute-Me/).
@@ -100,11 +101,10 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-](https://github.com/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-) - 网页形式的二创作品. ★ 0；AI 模型：Kimi K3, Claude Opus 5；[在线 demo](https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/).
 - [Chaosnap/world-execute-me](https://github.com/Chaosnap/world-execute-me) - 网页形式的二创作品. ★ 0.
 - [Chaosnap/world\_execute-me](https://github.com/Chaosnap/world_execute-me) - 网页形式的二创作品. ★ 0；[在线 demo](https://chaosnap.github.io/world_execute-me/).
-- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 0.
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 248.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 251.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 121；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 13.
 - [sanaedesuyo/world-execute-me](https://github.com/sanaedesuyo/world-execute-me) - 在终端上实时生成world.execute(me);的mv. ★ 8.
