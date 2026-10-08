@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T23:05:14Z",
+ "generated": "2026-10-08T06:01:23Z",
  "count": 163,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 436,
+   "stars": 441,
    "forks": 44,
    "language": "Python",
    "license": "MIT",
@@ -41,8 +41,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 267,
-   "forks": 17,
+   "stars": 268,
+   "forks": 18,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/172923325?v=4",
    "url": "https://github.com/UM7lab/world.execute.me.html",
    "description": "Song world.execute (me) ; Presented in HTML",
-   "stars": 262,
+   "stars": 263,
    "forks": 52,
    "language": "HTML",
    "license": "MIT",
@@ -237,6 +237,36 @@
    "families": []
   },
   {
+   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
+   "name": "world-execute-me-lyric-mv",
+   "owner": "Nyankomintsu",
+   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
+   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
+   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
+   "stars": 22,
+   "forks": 2,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
+   "bilibili": [
+    "BV186pc65E68"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "Galen563/world.execute-me",
    "name": "world.execute-me",
    "owner": "Galen563",
@@ -271,8 +301,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 19,
-   "forks": 0,
+   "stars": 20,
+   "forks": 1,
    "language": "JavaScript",
    "license": "AGPL-3.0",
    "created": "2026-10-05",
@@ -287,36 +317,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/FrostNovaOrg/world-execute-web",
    "families": []
-  },
-  {
-   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
-   "name": "world-execute-me-lyric-mv",
-   "owner": "Nyankomintsu",
-   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
-   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
-   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 17,
-   "forks": 1,
-   "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-10-06",
-   "pushed": "2026-10-06",
-   "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
-   "bilibili": [
-    "BV186pc65E68"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "LeonspaceX/world-execute-me",
@@ -1170,7 +1170,7 @@
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-10",
-   "pushed": "2026-10-07",
+   "pushed": "2026-10-08",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1411,7 +1411,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-10-07",
+   "pushed": "2026-10-08",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -3593,7 +3593,7 @@
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-03",
-   "pushed": "2026-10-07",
+   "pushed": "2026-10-08",
    "demo": null,
    "homepage": null,
    "bilibili": [],
