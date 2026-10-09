@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T13:15:27Z",
+ "generated": "2026-10-09T22:38:12Z",
  "count": 165,
  "works": [
   {
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 460,
-   "forks": 44,
+   "stars": 465,
+   "forks": 45,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 276,
+   "stars": 279,
    "forks": 20,
    "language": "Python",
    "license": null,
@@ -168,7 +168,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 55,
+   "stars": 62,
    "forks": 5,
    "language": "JavaScript",
    "license": "MIT",
@@ -273,8 +273,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 25,
-   "forks": 2,
+   "stars": 27,
+   "forks": 3,
    "language": "JavaScript",
    "license": "AGPL-3.0",
    "created": "2026-10-05",
@@ -449,6 +449,36 @@
    ]
   },
   {
+   "repo": "lvy010/world-execute-me-kimi",
+   "name": "world-execute-me-kimi",
+   "owner": "lvy010",
+   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
+   "url": "https://github.com/lvy010/world-execute-me-kimi",
+   "description": "",
+   "stars": 9,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-08",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1A6HC6HEij"
+   ],
+   "youtube": [],
+   "models": [
+    "Kimi"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
+   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "families": [
+    "Kimi"
+   ]
+  },
+  {
    "repo": "sanaedesuyo/world-execute-me",
    "name": "world-execute-me",
    "owner": "sanaedesuyo",
@@ -543,36 +573,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/dingmark1/world_execute_me_win",
    "families": []
-  },
-  {
-   "repo": "lvy010/world-execute-me-kimi",
-   "name": "world-execute-me-kimi",
-   "owner": "lvy010",
-   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
-   "url": "https://github.com/lvy010/world-execute-me-kimi",
-   "description": "",
-   "stars": 7,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-04",
-   "pushed": "2026-10-08",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1A6HC6HEij"
-   ],
-   "youtube": [],
-   "models": [
-    "Kimi"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
-   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
-   "families": [
-    "Kimi"
-   ]
   },
   {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
@@ -1226,7 +1226,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-08",
+   "pushed": "2026-10-09",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -2818,7 +2818,7 @@
    "language": "Python",
    "license": null,
    "created": "2026-08-02",
-   "pushed": "2026-10-04",
+   "pushed": "2026-10-09",
    "demo": "https://f0909172434.github.io/",
    "homepage": "https://f0909172434.github.io/",
    "bilibili": [],
@@ -3354,18 +3354,18 @@
    "families": []
   },
   {
-   "repo": "CENSEDAXIS20025/world-execute-me-MV",
-   "name": "world-execute-me-MV",
+   "repo": "CENSEDAXIS20025/AI-Music-MV-Remake",
+   "name": "AI-Music-MV-Remake",
    "owner": "CENSEDAXIS20025",
    "avatar": "https://avatars.githubusercontent.com/u/150315780?v=4",
-   "url": "https://github.com/CENSEDAXIS20025/world-execute-me-MV",
+   "url": "https://github.com/CENSEDAXIS20025/AI-Music-MV-Remake",
    "description": "world.execute(me); - single-file HTML Canvas MV (Mili), generated with DeepSeek Harness",
    "stars": 0,
    "forks": 0,
    "language": "HTML",
    "license": null,
    "created": "2026-10-01",
-   "pushed": "2026-10-01",
+   "pushed": "2026-10-09",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -3376,7 +3376,7 @@
    "maker": "ai",
    "form": "web",
    "preview": null,
-   "og": "https://opengraph.githubassets.com/1/CENSEDAXIS20025/world-execute-me-MV",
+   "og": "https://opengraph.githubassets.com/1/CENSEDAXIS20025/AI-Music-MV-Remake",
    "families": [
     "DeepSeek"
    ]
@@ -4091,7 +4091,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-06",
-   "pushed": "2026-10-08",
+   "pushed": "2026-10-09",
    "demo": "https://dragona-tactica.github.io/Unidad-6-worl-execute-me/",
    "homepage": null,
    "bilibili": [],
