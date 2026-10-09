@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:07:11Z",
+ "generated": "2026-10-09T13:15:27Z",
  "count": 165,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 457,
+   "stars": 460,
    "forks": 44,
    "language": "Python",
    "license": "MIT",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 274,
+   "stars": 276,
    "forks": 20,
    "language": "Python",
    "license": null,
@@ -168,8 +168,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 50,
-   "forks": 3,
+   "stars": 55,
+   "forks": 5,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -273,7 +273,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 22,
+   "stars": 25,
    "forks": 2,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -551,7 +551,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
    "url": "https://github.com/lvy010/world-execute-me-kimi",
    "description": "",
-   "stars": 6,
+   "stars": 7,
    "forks": 0,
    "language": "Python",
    "license": "MIT",
@@ -1579,6 +1579,34 @@
    "form": "terminal",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/IAyousa/world-execute-me-pv",
+   "families": []
+  },
+  {
+   "repo": "DAGAZ05/world.execute-me-nwpu",
+   "name": "world.execute-me-nwpu",
+   "owner": "DAGAZ05",
+   "avatar": "https://avatars.githubusercontent.com/u/65437827?v=4",
+   "url": "https://github.com/DAGAZ05/world.execute-me-nwpu",
+   "description": "",
+   "stars": 1,
+   "forks": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created": "2026-10-08",
+   "pushed": "2026-10-09",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1oxam6kEVh",
+    "BV1xCai6aE9g",
+    "BV1SgaY64EG5"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/DAGAZ05/world.execute-me-nwpu/main/preview/01-school-opening.png",
+   "og": "https://opengraph.githubassets.com/1/DAGAZ05/world.execute-me-nwpu",
    "families": []
   },
   {
@@ -2806,30 +2834,6 @@
    "families": []
   },
   {
-   "repo": "Harris1121/awesome-deepseek-harness",
-   "name": "awesome-deepseek-harness",
-   "owner": "Harris1121",
-   "avatar": "https://avatars.githubusercontent.com/u/24668322?v=4",
-   "url": "https://github.com/Harris1121/awesome-deepseek-harness",
-   "description": "Find the right DeepSeek Harness tools faster — see what’s popular, rising and worth using.",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "created": "2026-08-15",
-   "pushed": "2026-10-08",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "code",
-   "preview": "https://opengraph.githubassets.com/1/deepseek-ai/deepseek-harness",
-   "og": "https://opengraph.githubassets.com/1/Harris1121/awesome-deepseek-harness",
-   "families": []
-  },
-  {
    "repo": "HATSUNEMIKU-001/world.execute-me-C-",
    "name": "world.execute-me-C-",
    "owner": "HATSUNEMIKU-001",
@@ -3840,7 +3844,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-08",
+   "pushed": "2026-10-09",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -4172,32 +4176,32 @@
    "families": []
   },
   {
-   "repo": "DAGAZ05/world.execute-me-nwpu",
-   "name": "world.execute-me-nwpu",
-   "owner": "DAGAZ05",
-   "avatar": "https://avatars.githubusercontent.com/u/65437827?v=4",
-   "url": "https://github.com/DAGAZ05/world.execute-me-nwpu",
-   "description": "",
+   "repo": "xinnong111/-DeepSeekV4.1Flash-world.execute-me-",
+   "name": "-DeepSeekV4.1Flash-world.execute-me-",
+   "owner": "xinnong111",
+   "avatar": "https://avatars.githubusercontent.com/u/192106799?v=4",
+   "url": "https://github.com/xinnong111/-DeepSeekV4.1Flash-world.execute-me-",
+   "description": "实时网页动画 MV，都是用【DeepSeekV4.1Flash】生成的（包括README），点击index.html就可以直接看了，大概率是没有问题的，如果有一些瑕疵那应该就是大肥鱼发力了",
    "stars": 0,
    "forks": 0,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "created": "2026-10-08",
+   "language": "HTML",
+   "license": null,
+   "created": "2026-10-09",
    "pushed": "2026-10-09",
    "demo": null,
    "homepage": null,
-   "bilibili": [
-    "BV1oxam6kEVh",
-    "BV1xCai6aE9g",
-    "BV1SgaY64EG5"
-   ],
+   "bilibili": [],
    "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/DAGAZ05/world.execute-me-nwpu/main/preview/01-school-opening.png",
-   "og": "https://opengraph.githubassets.com/1/DAGAZ05/world.execute-me-nwpu",
-   "families": []
+   "models": [
+    "DeepSeek V4.1 Flash"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/xinnong111/-DeepSeekV4.1Flash-world.execute-me-/main/.",
+   "og": "https://opengraph.githubassets.com/1/xinnong111/-DeepSeekV4.1Flash-world.execute-me-",
+   "families": [
+    "DeepSeek"
+   ]
   }
  ]
 }
