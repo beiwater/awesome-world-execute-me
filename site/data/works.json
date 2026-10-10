@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T05:50:39Z",
+ "generated": "2026-10-10T12:29:46Z",
  "count": 166,
  "works": [
   {
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 467,
-   "forks": 45,
+   "stars": 471,
+   "forks": 46,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 280,
+   "stars": 281,
    "forks": 20,
    "language": "Python",
    "license": null,
@@ -168,8 +168,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 66,
-   "forks": 5,
+   "stars": 78,
+   "forks": 6,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -273,7 +273,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 27,
+   "stars": 28,
    "forks": 3,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -345,6 +345,30 @@
    "families": []
   },
   {
+   "repo": "bilixxb/world-execute-me-ascii-rust",
+   "name": "world-execute-me-ascii-rust",
+   "owner": "bilixxb",
+   "avatar": "https://avatars.githubusercontent.com/u/75202340?v=4",
+   "url": "https://github.com/bilixxb/world-execute-me-ascii-rust",
+   "description": "world.execute(me); —ascii — Rewritten in Rust",
+   "stars": 14,
+   "forks": 0,
+   "language": "Rust",
+   "license": null,
+   "created": "2026-09-28",
+   "pushed": "2026-09-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/bilixxb/world-execute-me-ascii-rust",
+   "families": []
+  },
+  {
    "repo": "OyogurtO/GodDrinksJava",
    "name": "GodDrinksJava",
    "owner": "OyogurtO",
@@ -371,28 +395,34 @@
    "families": []
   },
   {
-   "repo": "bilixxb/world-execute-me-ascii-rust",
-   "name": "world-execute-me-ascii-rust",
-   "owner": "bilixxb",
-   "avatar": "https://avatars.githubusercontent.com/u/75202340?v=4",
-   "url": "https://github.com/bilixxb/world-execute-me-ascii-rust",
-   "description": "world.execute(me); —ascii — Rewritten in Rust",
-   "stars": 13,
+   "repo": "lvy010/world-execute-me-kimi",
+   "name": "world-execute-me-kimi",
+   "owner": "lvy010",
+   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
+   "url": "https://github.com/lvy010/world-execute-me-kimi",
+   "description": "",
+   "stars": 11,
    "forks": 0,
-   "language": "Rust",
-   "license": null,
-   "created": "2026-09-28",
-   "pushed": "2026-09-28",
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-08",
    "demo": null,
    "homepage": null,
-   "bilibili": [],
+   "bilibili": [
+    "BV1A6HC6HEij"
+   ],
    "youtube": [],
-   "models": [],
-   "maker": "unknown",
+   "models": [
+    "Kimi"
+   ],
+   "maker": "ai",
    "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/bilixxb/world-execute-me-ascii-rust",
-   "families": []
+   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
+   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "families": [
+    "Kimi"
+   ]
   },
   {
    "repo": "Cryolitia/artworks",
@@ -419,36 +449,6 @@
    "preview": "https://raw.githubusercontent.com/Cryolitia/artworks/main/biocard/BioCard_v0.3.png",
    "og": "https://opengraph.githubassets.com/1/Cryolitia/artworks",
    "families": []
-  },
-  {
-   "repo": "lvy010/world-execute-me-kimi",
-   "name": "world-execute-me-kimi",
-   "owner": "lvy010",
-   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
-   "url": "https://github.com/lvy010/world-execute-me-kimi",
-   "description": "",
-   "stars": 10,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-04",
-   "pushed": "2026-10-08",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1A6HC6HEij"
-   ],
-   "youtube": [],
-   "models": [
-    "Kimi"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
-   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
-   "families": [
-    "Kimi"
-   ]
   },
   {
    "repo": "Sy2RK/DeepSeek-V4-1-Flash-world.execute-me-",
@@ -1593,7 +1593,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-10-08",
-   "pushed": "2026-10-09",
+   "pushed": "2026-10-10",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -3163,7 +3163,7 @@
    "owner": "SugarNekoE",
    "avatar": "https://avatars.githubusercontent.com/u/25338540?v=4",
    "url": "https://github.com/SugarNekoE/world.execute",
-   "description": "mirror of the asnk forge project",
+   "description": "Fun terminal art, mirror of the asnk forge project, my own project, just not hosted on GitHub.",
    "stars": 0,
    "forks": 0,
    "language": "Go",
@@ -3365,21 +3365,17 @@
    "language": "HTML",
    "license": null,
    "created": "2026-10-01",
-   "pushed": "2026-10-09",
+   "pushed": "2026-10-10",
    "demo": null,
    "homepage": null,
    "bilibili": [],
    "youtube": [],
-   "models": [
-    "DeepSeek V4 Pro"
-   ],
+   "models": [],
    "maker": "ai",
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/CENSEDAXIS20025/AI-Music-MV-Remake",
-   "families": [
-    "DeepSeek"
-   ]
+   "families": []
   },
   {
    "repo": "Neonflare8052/MV",
@@ -3844,7 +3840,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-09",
+   "pushed": "2026-10-10",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
