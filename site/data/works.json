@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-09T22:38:12Z",
- "count": 165,
+ "generated": "2026-10-10T05:50:39Z",
+ "count": 166,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 465,
+   "stars": 467,
    "forks": 45,
    "language": "Python",
    "license": "MIT",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 279,
+   "stars": 280,
    "forks": 20,
    "language": "Python",
    "license": null,
@@ -168,7 +168,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 62,
+   "stars": 66,
    "forks": 5,
    "language": "JavaScript",
    "license": "MIT",
@@ -421,6 +421,36 @@
    "families": []
   },
   {
+   "repo": "lvy010/world-execute-me-kimi",
+   "name": "world-execute-me-kimi",
+   "owner": "lvy010",
+   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
+   "url": "https://github.com/lvy010/world-execute-me-kimi",
+   "description": "",
+   "stars": 10,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-08",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1A6HC6HEij"
+   ],
+   "youtube": [],
+   "models": [
+    "Kimi"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
+   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "families": [
+    "Kimi"
+   ]
+  },
+  {
    "repo": "Sy2RK/DeepSeek-V4-1-Flash-world.execute-me-",
    "name": "DeepSeek-V4-1-Flash-world.execute-me-",
    "owner": "Sy2RK",
@@ -446,36 +476,6 @@
    "og": "https://opengraph.githubassets.com/1/Sy2RK/DeepSeek-V4-1-Flash-world.execute-me-",
    "families": [
     "DeepSeek"
-   ]
-  },
-  {
-   "repo": "lvy010/world-execute-me-kimi",
-   "name": "world-execute-me-kimi",
-   "owner": "lvy010",
-   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
-   "url": "https://github.com/lvy010/world-execute-me-kimi",
-   "description": "",
-   "stars": 9,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-04",
-   "pushed": "2026-10-08",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1A6HC6HEij"
-   ],
-   "youtube": [],
-   "models": [
-    "Kimi"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
-   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
-   "families": [
-    "Kimi"
    ]
   },
   {
@@ -3478,7 +3478,7 @@
    "language": "HTML",
    "license": null,
    "created": "2026-10-01",
-   "pushed": "2026-10-02",
+   "pushed": "2026-10-10",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4202,6 +4202,30 @@
    "families": [
     "DeepSeek"
    ]
+  },
+  {
+   "repo": "Alice-Marx/manim-for-world-execute-me",
+   "name": "manim-for-world-execute-me",
+   "owner": "Alice-Marx",
+   "avatar": "https://avatars.githubusercontent.com/u/70276026?v=4",
+   "url": "https://github.com/Alice-Marx/manim-for-world-execute-me",
+   "description": "manim for world-execute-me",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-10",
+   "pushed": "2026-10-10",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Alice-Marx/manim-for-world-execute-me",
+   "families": []
   }
  ]
 }
