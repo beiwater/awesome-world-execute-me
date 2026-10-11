@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-11T05:45:01Z",
- "count": 172,
+ "generated": "2026-10-11T12:47:33Z",
+ "count": 175,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 480,
+   "stars": 484,
    "forks": 47,
    "language": "Python",
    "license": "MIT",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 286,
+   "stars": 287,
    "forks": 22,
    "language": "Python",
    "license": null,
@@ -168,8 +168,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 96,
-   "forks": 8,
+   "stars": 106,
+   "forks": 11,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -243,6 +243,30 @@
    "families": []
   },
   {
+   "repo": "FrostNovaOrg/world-execute-web",
+   "name": "world-execute-web",
+   "owner": "FrostNovaOrg",
+   "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
+   "url": "https://github.com/FrostNovaOrg/world-execute-web",
+   "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
+   "stars": 31,
+   "forks": 3,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-10-05",
+   "pushed": "2026-10-05",
+   "demo": null,
+   "homepage": "https://execute.frostnova.org",
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/FrostNovaOrg/world-execute-web",
+   "families": []
+  },
+  {
    "repo": "zmrlft/world-execute-me-idea",
    "name": "world-execute-me-idea",
    "owner": "zmrlft",
@@ -264,30 +288,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
-   "families": []
-  },
-  {
-   "repo": "FrostNovaOrg/world-execute-web",
-   "name": "world-execute-web",
-   "owner": "FrostNovaOrg",
-   "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
-   "url": "https://github.com/FrostNovaOrg/world-execute-web",
-   "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 30,
-   "forks": 3,
-   "language": "JavaScript",
-   "license": "AGPL-3.0",
-   "created": "2026-10-05",
-   "pushed": "2026-10-05",
-   "demo": null,
-   "homepage": "https://execute.frostnova.org",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/FrostNovaOrg/world-execute-web",
    "families": []
   },
   {
@@ -401,7 +401,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
    "url": "https://github.com/lvy010/world-execute-me-kimi",
    "description": "",
-   "stars": 11,
+   "stars": 12,
    "forks": 0,
    "language": "Python",
    "license": "MIT",
@@ -677,6 +677,36 @@
    "families": []
   },
   {
+   "repo": "seasnakes/world.execute-me-wallpaper",
+   "name": "world.execute-me-wallpaper",
+   "owner": "seasnakes",
+   "avatar": "https://avatars.githubusercontent.com/u/72481288?v=4",
+   "url": "https://github.com/seasnakes/world.execute-me-wallpaper",
+   "description": "B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码",
+   "stars": 3,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-09-28",
+   "pushed": "2026-09-28",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV1RHhU63ESq/",
+   "bilibili": [
+    "BV1RHhU63ESq"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/seasnakes/world.execute-me-wallpaper/main/docs/preview-original-16x9.jpg",
+   "og": "https://opengraph.githubassets.com/1/seasnakes/world.execute-me-wallpaper",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "miaoyouchacha/xaihi-terminal-mv",
    "name": "xaihi-terminal-mv",
    "owner": "miaoyouchacha",
@@ -773,33 +803,31 @@
    "families": []
   },
   {
-   "repo": "seasnakes/world.execute-me-wallpaper",
-   "name": "world.execute-me-wallpaper",
-   "owner": "seasnakes",
-   "avatar": "https://avatars.githubusercontent.com/u/72481288?v=4",
-   "url": "https://github.com/seasnakes/world.execute-me-wallpaper",
-   "description": "B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码",
+   "repo": "eugenewang5425/world-execute-me",
+   "name": "world-execute-me",
+   "owner": "eugenewang5425",
+   "avatar": "https://avatars.githubusercontent.com/u/110992772?v=4",
+   "url": "https://github.com/eugenewang5425/world-execute-me",
+   "description": "Code-rendered world.execute(me); MV — native 4K/60fps, Canvas 2D + WebGL2 + GLSL, storyboards and rendering pipeline.",
    "stars": 2,
    "forks": 0,
    "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-09-28",
-   "pushed": "2026-09-28",
+   "license": null,
+   "created": "2026-09-29",
+   "pushed": "2026-09-29",
    "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV1RHhU63ESq/",
-   "bilibili": [
-    "BV1RHhU63ESq"
-   ],
+   "homepage": null,
+   "bilibili": [],
    "youtube": [],
    "models": [
-    "Claude Opus 5.5"
+    "Codex"
    ],
    "maker": "ai",
    "form": "web",
-   "preview": "https://raw.githubusercontent.com/seasnakes/world.execute-me-wallpaper/main/docs/preview-original-16x9.jpg",
-   "og": "https://opengraph.githubassets.com/1/seasnakes/world.execute-me-wallpaper",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/eugenewang5425/world-execute-me",
    "families": [
-    "Claude"
+    "GPT / Codex"
    ]
   },
   {
@@ -1226,7 +1254,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-09",
+   "pushed": "2026-10-11",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1342,34 +1370,6 @@
    "families": []
   },
   {
-   "repo": "eugenewang5425/world-execute-me",
-   "name": "world-execute-me",
-   "owner": "eugenewang5425",
-   "avatar": "https://avatars.githubusercontent.com/u/110992772?v=4",
-   "url": "https://github.com/eugenewang5425/world-execute-me",
-   "description": "Code-rendered world.execute(me); MV — native 4K/60fps, Canvas 2D + WebGL2 + GLSL, storyboards and rendering pipeline.",
-   "stars": 1,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-09-29",
-   "pushed": "2026-09-29",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Codex"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/eugenewang5425/world-execute-me",
-   "families": [
-    "GPT / Codex"
-   ]
-  },
-  {
    "repo": "CENSEDAXIS20025/AI-Music-MV-Remake",
    "name": "AI-Music-MV-Remake",
    "owner": "CENSEDAXIS20025",
@@ -1437,7 +1437,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-10-09",
+   "pushed": "2026-10-11",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1631,6 +1631,33 @@
    "form": "terminal",
    "preview": "https://raw.githubusercontent.com/DAGAZ05/world.execute-me-nwpu/main/preview/01-school-opening.png",
    "og": "https://opengraph.githubassets.com/1/DAGAZ05/world.execute-me-nwpu",
+   "families": []
+  },
+  {
+   "repo": "SOH4C4759/dsh-pv-home",
+   "name": "dsh-pv-home",
+   "owner": "SOH4C4759",
+   "avatar": "https://avatars.githubusercontent.com/u/107021339?v=4",
+   "url": "https://github.com/SOH4C4759/dsh-pv-home",
+   "description": "把一支 PV 当作 DeepSeek Harness 的默认主页与屏保：启动即接管、Esc 返回、标题栏跟随影片配色、可选的锁屏按钮",
+   "stars": 1,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-11",
+   "pushed": "2026-10-11",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV1qgpL6cEHv",
+   "bilibili": [
+    "BV1qgpL6cEHv",
+    "BV1xCai6aE9g"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/SOH4C4759/dsh-pv-home",
    "families": []
   },
   {
@@ -3864,7 +3891,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-10",
+   "pushed": "2026-10-11",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -4272,6 +4299,30 @@
    "families": []
   },
   {
+   "repo": "AuthourAkson/RhinE-UI-Web",
+   "name": "RhinE-UI-Web",
+   "owner": "AuthourAkson",
+   "avatar": "https://avatars.githubusercontent.com/u/170527264?v=4",
+   "url": "https://github.com/AuthourAkson/RhinE-UI-Web",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-10",
+   "pushed": "2026-10-11",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/AuthourAkson/RhinE-UI-Web",
+   "families": []
+  },
+  {
    "repo": "game-design-projects/world-execute-me",
    "name": "world-execute-me",
    "owner": "game-design-projects",
@@ -4351,30 +4402,51 @@
    ]
   },
   {
-   "repo": "SOH4C4759/dsh-pv-home",
-   "name": "dsh-pv-home",
-   "owner": "SOH4C4759",
-   "avatar": "https://avatars.githubusercontent.com/u/107021339?v=4",
-   "url": "https://github.com/SOH4C4759/dsh-pv-home",
-   "description": "把一支 PV 当作 DeepSeek Harness 的默认主页与屏保：启动即接管、Esc 返回、标题栏跟随影片配色、可选的锁屏按钮",
+   "repo": "happ-wong/world-execute-mv-windows",
+   "name": "world-execute-mv-windows",
+   "owner": "happ-wong",
+   "avatar": "https://avatars.githubusercontent.com/u/58911189?v=4",
+   "url": "https://github.com/happ-wong/world-execute-mv-windows",
+   "description": "",
    "stars": 0,
    "forks": 0,
-   "language": "JavaScript",
-   "license": "MIT",
+   "language": "Python",
+   "license": null,
    "created": "2026-10-11",
    "pushed": "2026-10-11",
    "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV1qgpL6cEHv",
-   "bilibili": [
-    "BV1qgpL6cEHv",
-    "BV1xCai6aE9g"
-   ],
+   "homepage": null,
+   "bilibili": [],
    "youtube": [],
    "models": [],
    "maker": "unknown",
-   "form": "web",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/happ-wong/world-execute-mv-windows/main/docs/images/mv-cover.png",
+   "og": "https://opengraph.githubassets.com/1/happ-wong/world-execute-mv-windows",
+   "families": []
+  },
+  {
+   "repo": "ryougishiki27340-lang/world-execute-me-universe",
+   "name": "world-execute-me-universe",
+   "owner": "ryougishiki27340-lang",
+   "avatar": "https://avatars.githubusercontent.com/u/311817081?v=4",
+   "url": "https://github.com/ryougishiki27340-lang/world-execute-me-universe",
+   "description": "world.execute(me); - deterministic code-rendered fan MV (silent releases only)",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-10-11",
+   "pushed": "2026-10-11",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
    "preview": null,
-   "og": "https://opengraph.githubassets.com/1/SOH4C4759/dsh-pv-home",
+   "og": "https://opengraph.githubassets.com/1/ryougishiki27340-lang/world-execute-me-universe",
    "families": []
   }
  ]
