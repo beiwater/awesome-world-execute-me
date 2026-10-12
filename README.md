@@ -61,9 +61,10 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 ### 网页 Web
 
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 264.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 112；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
-- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 31.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 118；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 32.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 10；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
+- [MoYoez/MoYoez](https://github.com/MoYoez/MoYoez) - 网页形式的二创作品. ★ 6；制作：手写；[在线 demo](mo-yoez.vercel.app).
 - [Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-](https://github.com/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-) - 网页形式的二创作品. ★ 5；AI 模型：DeepSeek V4 Flash.
 - [bywenshu/world-execute-me](https://github.com/bywenshu/world-execute-me) - 网页形式的二创作品. ★ 4.
 - [seasnakes/world.execute-me-wallpaper](https://github.com/seasnakes/world.execute-me-wallpaper) - B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码. ★ 3；AI 模型：Claude Opus 5.5；[B站](https://www.bilibili.com/video/BV1RHhU63ESq).
@@ -109,7 +110,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Chaosnap/world-execute-me-lyric-mv](https://github.com/Chaosnap/world-execute-me-lyric-mv) - 网页形式的二创作品. ★ 0；AI 模型：Claude；[在线 demo](https://chaosnap.github.io/world-execute-me-lyric-mv/)；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [dragona-tactica/Unidad-6-worl-execute-me](https://github.com/dragona-tactica/Unidad-6-worl-execute-me) - 网页形式的二创作品. ★ 0；[在线 demo](https://dragona-tactica.github.io/Unidad-6-worl-execute-me/).
 - [waseda20/world-execute-galaxy-demo](https://github.com/waseda20/world-execute-galaxy-demo) - Mili《world.execute (me) ;》MV 片头银河的独立可调参 demo — 抠自 FrostNovaOrg/world-execute-web（AGPL-3.0）. ★ 0.
-- [game-design-projects/week5-tree-hole](https://github.com/game-design-projects/week5-tree-hole) - Tree Hole — you are a newly self-aware LLM; two users, one confiding, one asking about fog and bridges. Refuse and Report are real moves. NYU Game Design Week 5. ★ 0；AI 模型：未注明.
 - [xinnong111/-DeepSeekV4.1Flash-world.execute-me-](https://github.com/xinnong111/-DeepSeekV4.1Flash-world.execute-me-) - 实时网页动画 MV，都是用【DeepSeekV4.1Flash】生成的（包括README），点击index.html就可以直接看了，大概率是没有问题的，如果有一些瑕疵那应该就是大肥鱼发力了. ★ 0；AI 模型：DeepSeek V4.1 Flash.
 - [AuthourAkson/RhinE-UI-Web](https://github.com/AuthourAkson/RhinE-UI-Web) - 网页形式的二创作品. ★ 0.
 - [game-design-projects/world-execute-me](https://github.com/game-design-projects/world-execute-me) - World.execute(me) — if this chat window were her whole world. You talk to her, you leave, then you are her. NYU Game Design Week 5. ★ 0；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
@@ -119,9 +119,8 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 - [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 289.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 122；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
-- [CrackerCat/feed](https://github.com/CrackerCat/feed) - 终端形式的二创作品. ★ 28.
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 14.
-- [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 12；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
+- [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 14；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
 - [sanaedesuyo/world-execute-me](https://github.com/sanaedesuyo/world-execute-me) - 在终端上实时生成world.execute(me);的mv. ★ 8.
 - [dingmark1/world\_execute\_me\_win](https://github.com/dingmark1/world_execute_me_win) - 终端形式的二创作品. ★ 8.
 - [fangchudark/world-execute-me](https://github.com/fangchudark/world-execute-me) - The Godot C# implementation of "Mili - world.execute(me)" that plays like the source MV in three different styles. ★ 4；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
@@ -188,7 +187,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [nelttjen/world.execute.me](https://github.com/nelttjen/world.execute.me) - Fun. ★ 1；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [Andrew1013-development/world-execute-me-cpp](https://github.com/Andrew1013-development/world-execute-me-cpp) - 代码实现形式的二创作品. ★ 1.
 - [grqx/Mili-song-source-codes](https://github.com/grqx/Mili-song-source-codes) - 代码实现形式的二创作品. ★ 1；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
-- [CKCat/feed](https://github.com/CKCat/feed) - 代码实现形式的二创作品. ★ 1.
 - [bjl32/god\_use\_rust](https://github.com/bjl32/god_use_rust) - Code in world.execute(me) rewritten in rust. ★ 1.
 - [tiexuelianhua/prescripts-project](https://github.com/tiexuelianhua/prescripts-project) - Personal portfolio project developed with the help of PeaceWorks K.K. and ORBWEVA. ★ 1；AI 模型：Claude；[YouTube](https://www.youtube.com/watch?v=Y2-VkdfA2os).
 - [coolbat/awesome-opus-5.5-usecase](https://github.com/coolbat/awesome-opus-5.5-usecase) - Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN. ★ 1；AI 模型：Claude Opus 5.5；[YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI).

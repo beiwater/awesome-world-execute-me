@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-11T21:57:44Z",
- "count": 179,
+ "generated": "2026-10-12T05:54:53Z",
+ "count": 177,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 495,
+   "stars": 506,
    "forks": 48,
    "language": "Python",
    "license": "MIT",
@@ -168,8 +168,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 112,
-   "forks": 12,
+   "stars": 118,
+   "forks": 13,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -249,7 +249,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 31,
+   "stars": 32,
    "forks": 3,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -288,30 +288,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
-   "families": []
-  },
-  {
-   "repo": "CrackerCat/feed",
-   "name": "feed",
-   "owner": "CrackerCat",
-   "avatar": "https://avatars.githubusercontent.com/u/17995064?v=4",
-   "url": "https://github.com/CrackerCat/feed",
-   "description": "",
-   "stars": 28,
-   "forks": 5,
-   "language": "Python",
-   "license": null,
-   "created": "2025-09-20",
-   "pushed": "2026-10-11",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
    "families": []
   },
   {
@@ -393,6 +369,36 @@
    "families": []
   },
   {
+   "repo": "lvy010/world-execute-me-kimi",
+   "name": "world-execute-me-kimi",
+   "owner": "lvy010",
+   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
+   "url": "https://github.com/lvy010/world-execute-me-kimi",
+   "description": "",
+   "stars": 14,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-08",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1A6HC6HEij"
+   ],
+   "youtube": [],
+   "models": [
+    "Kimi"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
+   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "families": [
+    "Kimi"
+   ]
+  },
+  {
    "repo": "OyogurtO/GodDrinksJava",
    "name": "GodDrinksJava",
    "owner": "OyogurtO",
@@ -417,36 +423,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/OyogurtO/GodDrinksJava",
    "families": []
-  },
-  {
-   "repo": "lvy010/world-execute-me-kimi",
-   "name": "world-execute-me-kimi",
-   "owner": "lvy010",
-   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
-   "url": "https://github.com/lvy010/world-execute-me-kimi",
-   "description": "",
-   "stars": 12,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-04",
-   "pushed": "2026-10-08",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1A6HC6HEij"
-   ],
-   "youtube": [],
-   "models": [
-    "Kimi"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
-   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
-   "families": [
-    "Kimi"
-   ]
   },
   {
    "repo": "Cryolitia/artworks",
@@ -596,6 +572,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/user-lqt/world-execute-me",
+   "families": []
+  },
+  {
+   "repo": "MoYoez/MoYoez",
+   "name": "MoYoez",
+   "owner": "MoYoez",
+   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
+   "url": "https://github.com/MoYoez/MoYoez",
+   "description": "",
+   "stars": 6,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2021-12-13",
+   "pushed": "2026-10-12",
+   "demo": "mo-yoez.vercel.app",
+   "homepage": "mo-yoez.vercel.app",
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "human",
+   "form": "web",
+   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
+   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
    "families": []
   },
   {
@@ -1114,30 +1114,6 @@
    "families": []
   },
   {
-   "repo": "CKCat/feed",
-   "name": "feed",
-   "owner": "CKCat",
-   "avatar": "https://avatars.githubusercontent.com/u/18586344?v=4",
-   "url": "https://github.com/CKCat/feed",
-   "description": "",
-   "stars": 1,
-   "forks": 0,
-   "language": "Python",
-   "license": null,
-   "created": "2025-10-11",
-   "pushed": "2026-10-11",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/CKCat/feed",
-   "families": []
-  },
-  {
    "repo": "Tayzonxperia/world-execute-me-nim",
    "name": "world-execute-me-nim",
    "owner": "Tayzonxperia",
@@ -1278,7 +1254,7 @@
    "language": "Python",
    "license": null,
    "created": "2026-09-18",
-   "pushed": "2026-09-29",
+   "pushed": "2026-10-12",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1665,7 +1641,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-10-08",
-   "pushed": "2026-10-11",
+   "pushed": "2026-10-12",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -4271,30 +4247,6 @@
    "families": []
   },
   {
-   "repo": "game-design-projects/week5-tree-hole",
-   "name": "week5-tree-hole",
-   "owner": "game-design-projects",
-   "avatar": "https://avatars.githubusercontent.com/u/333604587?v=4",
-   "url": "https://github.com/game-design-projects/week5-tree-hole",
-   "description": "Tree Hole — you are a newly self-aware LLM; two users, one confiding, one asking about fog and bridges. Refuse and Report are real moves. NYU Game Design Week 5.",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-10-09",
-   "pushed": "2026-10-11",
-   "demo": null,
-   "homepage": "https://stevenli-phoenix-work.itch.io/tree-hole",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/game-design-projects/week5-tree-hole/main/docs/screenshot.png",
-   "og": "https://opengraph.githubassets.com/1/game-design-projects/week5-tree-hole",
-   "families": []
-  },
-  {
    "repo": "xinnong111/-DeepSeekV4.1Flash-world.execute-me-",
    "name": "-DeepSeekV4.1Flash-world.execute-me-",
    "owner": "xinnong111",
@@ -4358,7 +4310,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-10",
-   "pushed": "2026-10-11",
+   "pushed": "2026-10-12",
    "demo": null,
    "homepage": null,
    "bilibili": [],
