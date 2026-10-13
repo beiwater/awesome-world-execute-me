@@ -61,8 +61,8 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 ### 网页 Web
 
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 264.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 128；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
-- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 32.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 138；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 34.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
 - [MoYoez/MoYoez](https://github.com/MoYoez/MoYoez) - 网页形式的二创作品. ★ 6；制作：手写；[在线 demo](mo-yoez.vercel.app).
 - [Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-](https://github.com/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-) - 网页形式的二创作品. ★ 5；AI 模型：DeepSeek V4 Flash.
@@ -78,6 +78,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [bilixuesheng/world-execute-me](https://github.com/bilixuesheng/world-execute-me) - 网页形式的二创作品. ★ 1.
 - [tsingxv/world-execute-me-animation](https://github.com/tsingxv/world-execute-me-animation) - World.execute(me); 网页动画：以 audio.currentTime 为唯一时间基准、每帧都是时间纯函数的 Canvas 运行时；卡点来自 MIDI、歌词时间轴来自 LRC、能量与闪光来自录音实测。仅代码，不含音频/曲谱/歌词. ★ 1.
 - [CENSEDAXIS20025/AI-Music-MV-Remake](https://github.com/CENSEDAXIS20025/AI-Music-MV-Remake) - World.execute(me); - single-file HTML Canvas MV (Mili), generated with DeepSeek Harness. ★ 1；AI 模型：未注明.
+- [waseda20/world-execute-galaxy-demo](https://github.com/waseda20/world-execute-galaxy-demo) - Mili《world.execute (me) ;》MV 片头银河的独立可调参 demo — 抠自 FrostNovaOrg/world-execute-web（AGPL-3.0）. ★ 1.
 - [SOH4C4759/dsh-pv-home](https://github.com/SOH4C4759/dsh-pv-home) - 把一支 PV 当作 DeepSeek Harness 的默认主页与屏保：启动即接管、Esc 返回、标题栏跟随影片配色、可选的锁屏按钮. ★ 1；[B站](https://www.bilibili.com/video/BV1qgpL6cEHv).
 - [chail233/qwen3.8-world-execute-me](https://github.com/chail233/qwen3.8-world-execute-me) - HyperFrames 歌词同步 MV《world.execute(me);》（Mili）——主角 Qwen3.8 / 千问娘。220s、6600 帧、1920×1080@30；129 句歌词逐句用「会真的改变状态的机构」演绎；画面全部是 HTML+SVG+GSAP，由 tools/spec 生成后逐帧 seek 渲染，无 AE 工程. ★ 1；AI 模型：Qwen3.8；[B站](https://www.bilibili.com/video/BV1tE9XBbErS).
 - [monSteRhhe/world.execute.me-PV-codeScrolling-Demo](https://github.com/monSteRhhe/world.execute.me-PV-codeScrolling-Demo) - Js/jq写的world.execute(me); PV的代码滚动. ★ 0；制作：手写；[在线 demo](https://monsterhhe.github.io/world.execute.me-PV-codeScrolling-Demo/).
@@ -94,6 +95,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [luvchippy/worldexecuteme1](https://github.com/luvchippy/worldexecuteme1) - World-execute-me the music website. ★ 0；[在线 demo](https://luvchippy.github.io/worldexecuteme1/).
 - [f0909172434/f0909172434](https://github.com/f0909172434/f0909172434) - Python and TypeScript tools for inspectable AI and mathematical research. Engineering and AI research portfolio by Chih-Kai Wang. ★ 0；AI 模型：未注明；[在线 demo](https://f0909172434.github.io/)；[YouTube](https://www.youtube.com/watch?v=kQH1PZRkn00).
 - [siliconrecycle/frederica-execute-me](https://github.com/siliconrecycle/frederica-execute-me) - 网页形式的二创作品. ★ 0；[在线 demo](https://siliconrecycle.github.io/frederica-execute-me/).
+- [wyq09/ai-cases](https://github.com/wyq09/ai-cases) - 大模型案例库. ★ 0；AI 模型：未注明.
 - [l4place0/ai-lab](https://github.com/l4place0/ai-lab) - 网页形式的二创作品. ★ 0；AI 模型：未注明.
 - [Te-River/world.execute-me](https://github.com/Te-River/world.execute-me) - 基于Qwen3.8-Flash的Html仓库，用于表现world.execute(me)这首乐曲的视觉效果. ★ 0；AI 模型：Qwen3.8-Flash.
 - [Zeromse/world-execute-ui-source](https://github.com/Zeromse/world-execute-ui-source) - 网页形式的二创作品. ★ 0.
@@ -110,7 +112,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [AIM7F/world-execute-me-interactive](https://github.com/AIM7F/world-execute-me-interactive) - An interactive, code-driven music video for Mili's world.execute(me); - one HTML file, Canvas 2D + Web Audio. Your mouse is 'you'. Bring your own copy of the song. ★ 0；AI 模型：Claude.
 - [Chaosnap/world-execute-me-lyric-mv](https://github.com/Chaosnap/world-execute-me-lyric-mv) - 网页形式的二创作品. ★ 0；AI 模型：Claude；[在线 demo](https://chaosnap.github.io/world-execute-me-lyric-mv/)；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [dragona-tactica/Unidad-6-worl-execute-me](https://github.com/dragona-tactica/Unidad-6-worl-execute-me) - 网页形式的二创作品. ★ 0；[在线 demo](https://dragona-tactica.github.io/Unidad-6-worl-execute-me/).
-- [waseda20/world-execute-galaxy-demo](https://github.com/waseda20/world-execute-galaxy-demo) - Mili《world.execute (me) ;》MV 片头银河的独立可调参 demo — 抠自 FrostNovaOrg/world-execute-web（AGPL-3.0）. ★ 0.
 - [xinnong111/-DeepSeekV4.1Flash-world.execute-me-](https://github.com/xinnong111/-DeepSeekV4.1Flash-world.execute-me-) - 实时网页动画 MV，都是用【DeepSeekV4.1Flash】生成的（包括README），点击index.html就可以直接看了，大概率是没有问题的，如果有一些瑕疵那应该就是大肥鱼发力了. ★ 0；AI 模型：DeepSeek V4.1 Flash.
 - [AuthourAkson/RhinE-UI-Web](https://github.com/AuthourAkson/RhinE-UI-Web) - 网页形式的二创作品. ★ 0.
 - [game-design-projects/world-execute-me](https://github.com/game-design-projects/world-execute-me) - World.execute(me) — if this chat window were her whole world. You talk to her, you leave, then you are her. NYU Game Design Week 5. ★ 0；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
@@ -122,9 +123,9 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 299.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 306.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 122；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
-- [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 16；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
+- [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 17；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 15.
 - [sanaedesuyo/world-execute-me](https://github.com/sanaedesuyo/world-execute-me) - 在终端上实时生成world.execute(me);的mv. ★ 8.
 - [dingmark1/world\_execute\_me\_win](https://github.com/dingmark1/world_execute_me_win) - 终端形式的二创作品. ★ 8.
@@ -153,6 +154,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [GES233/MortalDrinksElixir](https://github.com/GES233/MortalDrinksElixir) - \[WIP\] World.execute(me); // but Elixir. ★ 0.
 - [11413129-glitch/world.execute-me-discord-bot](https://github.com/11413129-glitch/world.execute-me-discord-bot) - 终端形式的二创作品. ★ 0.
 - [reforceN/world.execute-me-animated](https://github.com/reforceN/world.execute-me-animated) - My first console animation, I got the idea from Kritzkingvoid total credits to him, I did like his animation so much that I tried to make my own. ★ 0.
+- [islowlyuuu/islowlyuuu](https://github.com/islowlyuuu/islowlyuuu) - 终端形式的二创作品. ★ 0.
 - [Elyndor01/world-execute-me-ascii-windows](https://github.com/Elyndor01/world-execute-me-ascii-windows) - Windows port of world.execute(me); ASCII MV - terminal music video, no audio bundled. ★ 0.
 - [ITyaolin/world-execute-me-mv](https://github.com/ITyaolin/world-execute-me-mv) - Terminal ASCII-art music video for Mili world.execute (me); — one C program, 49 scenes, no video files. ★ 0.
 - [ahpasserby/world.execute-me](https://github.com/ahpasserby/world.execute-me) - 终端形式的二创作品. ★ 0.
@@ -177,6 +179,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 ### 代码渲染视频 PV Video
 
 - [eryuemu/ai-passport-world-execute-me](https://github.com/eryuemu/ai-passport-world-execute-me) - World.execute(me); Cyber Whale Player for FoloToy AI Passport (ESP32-C3) \| 赛博大肥鱼离线播放器固件. ★ 1；AI 模型：未注明；[B站](https://www.bilibili.com/video/BV1qMHr6eEyy).
+- [yuki-kongbai/AI-creation](https://github.com/yuki-kongbai/AI-creation) - 这是我创建的第一个项目。/This is my first project. ★ 1；AI 模型：未注明；[B站](https://www.bilibili.com/video/BV12XWF6gEqB).
 - [Neonflare8052/MV](https://github.com/Neonflare8052/MV) - 代码渲染视频形式的二创作品. ★ 0；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV1SgaY64EG5).
 
 ### 代码实现 Code
