@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-12T15:20:46Z",
- "count": 183,
+ "generated": "2026-10-13T00:39:36Z",
+ "count": 185,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 524,
-   "forks": 50,
+   "stars": 529,
+   "forks": 51,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -41,8 +41,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 296,
-   "forks": 24,
+   "stars": 299,
+   "forks": 26,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
@@ -142,8 +142,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 123,
-   "forks": 14,
+   "stars": 128,
+   "forks": 16,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -297,8 +297,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/204901949?v=4",
    "url": "https://github.com/Galen563/world.execute-me",
    "description": "【DeepSeekV4.1Flash】world.execute (me) ;README是我用AI写的，你下载整个ZIP就ok了，README我大致看了眼没啥问题",
-   "stars": 20,
-   "forks": 3,
+   "stars": 21,
+   "forks": 4,
    "language": "JavaScript",
    "license": null,
    "created": "2026-09-18",
@@ -431,7 +431,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/23723294?v=4",
    "url": "https://github.com/Cryolitia/artworks",
    "description": "Cryolitia's artworks",
-   "stars": 10,
+   "stars": 11,
    "forks": 0,
    "language": null,
    "license": "CC-BY-SA-4.0",
@@ -1707,6 +1707,36 @@
    "preview": "https://raw.githubusercontent.com/happ-wong/world-execute-mv-windows/main/docs/images/mv-cover.png",
    "og": "https://opengraph.githubassets.com/1/happ-wong/world-execute-mv-windows",
    "families": []
+  },
+  {
+   "repo": "chail233/qwen3.8-world-execute-me",
+   "name": "qwen3.8-world-execute-me",
+   "owner": "chail233",
+   "avatar": "https://avatars.githubusercontent.com/u/218709237?v=4",
+   "url": "https://github.com/chail233/qwen3.8-world-execute-me",
+   "description": "HyperFrames 歌词同步 MV《world.execute(me);》（Mili）——主角 Qwen3.8 / 千问娘。220s、6600 帧、1920×1080@30；129 句歌词逐句用「会真的改变状态的机构」演绎；画面全部是 HTML+SVG+GSAP，由 tools/spec 生成后逐帧 seek 渲染，无 AE 工程。",
+   "stars": 1,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2026-10-12",
+   "pushed": "2026-10-12",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1tE9XBbErS"
+   ],
+   "youtube": [],
+   "models": [
+    "Qwen3.8"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/chail233/qwen3.8-world-execute-me",
+   "families": [
+    "Qwen"
+   ]
   },
   {
    "repo": "2ndERROR/world.execute-me-",
@@ -4634,6 +4664,34 @@
    "og": "https://opengraph.githubassets.com/1/lazuli111/world-execute-me-mv",
    "families": [
     "Claude"
+   ]
+  },
+  {
+   "repo": "mokongnuo/world-execute-me-flash",
+   "name": "world-execute-me-flash",
+   "owner": "mokongnuo",
+   "avatar": "https://avatars.githubusercontent.com/u/283679614?v=4",
+   "url": "https://github.com/mokongnuo/world-execute-me-flash",
+   "description": "用二次元形象对《world.execute(me);》做的一次视觉化演绎 · 画面由 DeepSeek V4.1 Flash 逐帧算出（t 的纯函数）· 音频与歌词不入库",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-12",
+   "pushed": "2026-10-12",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "DeepSeek V4.1 Flash"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/mokongnuo/world-execute-me-flash",
+   "families": [
+    "DeepSeek"
    ]
   },
   {
