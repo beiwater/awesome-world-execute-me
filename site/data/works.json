@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14T04:52:11Z",
- "count": 188,
+ "generated": "2026-10-14T11:50:29Z",
+ "count": 187,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 541,
+   "stars": 547,
    "forks": 50,
    "language": "Python",
    "license": "MIT",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 308,
+   "stars": 313,
    "forks": 28,
    "language": "Python",
    "license": null,
@@ -90,7 +90,7 @@
    "url": "https://github.com/syuchan1005/Mili-song-source-codes",
    "description": "",
    "stars": 171,
-   "forks": 17,
+   "forks": 18,
    "language": "Java",
    "license": null,
    "created": "2016-10-17",
@@ -108,6 +108,36 @@
    "preview": "http://img.youtube.com/vi/ESx_hy1n7HA/0.jpg",
    "og": "https://opengraph.githubassets.com/1/syuchan1005/Mili-song-source-codes",
    "families": []
+  },
+  {
+   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
+   "name": "world-execute-me-lyric-mv",
+   "owner": "Nyankomintsu",
+   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
+   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
+   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
+   "stars": 167,
+   "forks": 19,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
+   "bilibili": [
+    "BV186pc65E68"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
+   "families": [
+    "Claude"
+   ]
   },
   {
    "repo": "daun-io/world.execute.me.py",
@@ -134,36 +164,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/daun-io/world.execute.me.py",
    "families": []
-  },
-  {
-   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
-   "name": "world-execute-me-lyric-mv",
-   "owner": "Nyankomintsu",
-   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
-   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
-   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 150,
-   "forks": 17,
-   "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-10-06",
-   "pushed": "2026-10-06",
-   "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
-   "bilibili": [
-    "BV186pc65E68"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "Kritzkingvoid/Execute.SingAlone-Me-",
@@ -3048,7 +3048,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-13",
+   "pushed": "2026-10-14",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4091,7 +4091,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-13",
+   "pushed": "2026-10-14",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -4678,39 +4678,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/ryougishiki27340-lang/world-execute-me-universe",
    "families": []
-  },
-  {
-   "repo": "jayi0908/Tanjobi-20-Plan",
-   "name": "Tanjobi-20-Plan",
-   "owner": "jayi0908",
-   "avatar": "https://avatars.githubusercontent.com/u/180948899?v=4",
-   "url": "https://github.com/jayi0908/Tanjobi-20-Plan",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-12",
-   "pushed": "2026-10-12",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1xCai6aE9g"
-   ],
-   "youtube": [],
-   "models": [
-    "Codex",
-    "Claude",
-    "GPT-6 Astra"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/jayi0908/Tanjobi-20-Plan",
-   "families": [
-    "GPT / Codex",
-    "Claude"
-   ]
   },
   {
    "repo": "lazuli111/world-execute-me-mv",

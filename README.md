@@ -61,7 +61,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 ### 网页 Web
 
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 264.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 150；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 167；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 35.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
 - [MoYoez/MoYoez](https://github.com/MoYoez/MoYoez) - 网页形式的二创作品. ★ 6；制作：手写；[在线 demo](mo-yoez.vercel.app).
@@ -123,7 +123,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 308.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 313.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 122；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
 - [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 17；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 16.
@@ -174,7 +174,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [OutoriNemuri/world-execute-me-mv](https://github.com/OutoriNemuri/world-execute-me-mv) - Code-generated music video for MILI — world.execute(me); (cairo/Pango + ffmpeg, rendered on GitHub Actions). ★ 0.
 - [Alice-Marx/manim-for-world-execute-me](https://github.com/Alice-Marx/manim-for-world-execute-me) - Manim for world-execute-me. ★ 0.
 - [ryougishiki27340-lang/world-execute-me-paper-pv](https://github.com/ryougishiki27340-lang/world-execute-me-paper-pv) - World.execute(me); - a code-rendered paper-blueprint fan PV starring the DeepSeek whale girl. Every frame is drawn from scratch with Pillow. ★ 0.
-- [jayi0908/Tanjobi-20-Plan](https://github.com/jayi0908/Tanjobi-20-Plan) - 终端形式的二创作品. ★ 0；AI 模型：Codex, Claude, GPT-6 Astra；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 
 ### 代码渲染视频 PV Video
 
