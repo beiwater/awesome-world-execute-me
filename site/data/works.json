@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14T11:50:29Z",
- "count": 187,
+ "generated": "2026-10-14T17:10:22Z",
+ "count": 188,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 547,
-   "forks": 50,
+   "stars": 553,
+   "forks": 51,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -41,8 +41,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 313,
-   "forks": 28,
+   "stars": 318,
+   "forks": 29,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
@@ -83,6 +83,36 @@
    "families": []
   },
   {
+   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
+   "name": "world-execute-me-lyric-mv",
+   "owner": "Nyankomintsu",
+   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
+   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
+   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
+   "stars": 175,
+   "forks": 20,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-06",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
+   "bilibili": [
+    "BV186pc65E68"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "syuchan1005/Mili-song-source-codes",
    "name": "Mili-song-source-codes",
    "owner": "syuchan1005",
@@ -108,36 +138,6 @@
    "preview": "http://img.youtube.com/vi/ESx_hy1n7HA/0.jpg",
    "og": "https://opengraph.githubassets.com/1/syuchan1005/Mili-song-source-codes",
    "families": []
-  },
-  {
-   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
-   "name": "world-execute-me-lyric-mv",
-   "owner": "Nyankomintsu",
-   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
-   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
-   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 167,
-   "forks": 19,
-   "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-10-06",
-   "pushed": "2026-10-06",
-   "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
-   "bilibili": [
-    "BV186pc65E68"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "daun-io/world.execute.me.py",
@@ -249,7 +249,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 35,
+   "stars": 36,
    "forks": 3,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -325,7 +325,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
    "url": "https://github.com/lvy010/world-execute-me-kimi",
    "description": "",
-   "stars": 17,
+   "stars": 18,
    "forks": 0,
    "language": "Python",
    "license": "MIT",
@@ -479,37 +479,13 @@
    ]
   },
   {
-   "repo": "sanaedesuyo/world-execute-me",
-   "name": "world-execute-me",
-   "owner": "sanaedesuyo",
-   "avatar": "https://avatars.githubusercontent.com/u/151539022?v=4",
-   "url": "https://github.com/sanaedesuyo/world-execute-me",
-   "description": "在终端上实时生成world.execute(me);的mv",
-   "stars": 8,
-   "forks": 0,
-   "language": "Rust",
-   "license": null,
-   "created": "2025-08-21",
-   "pushed": "2025-08-25",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/sanaedesuyo/world-execute-me",
-   "families": []
-  },
-  {
    "repo": "user-lqt/world-execute-me",
    "name": "world-execute-me",
    "owner": "user-lqt",
    "avatar": "https://avatars.githubusercontent.com/u/178721672?v=4",
    "url": "https://github.com/user-lqt/world-execute-me",
    "description": "World.execute(me); 歌词×代码逐句体验页 · 86 句歌词 → 86 段联想 Java 代码 · 音频同步 + 多层动效",
-   "stars": 8,
+   "stars": 9,
    "forks": 0,
    "language": "HTML",
    "license": "NOASSERTION",
@@ -533,7 +509,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/210346982?v=4",
    "url": "https://github.com/dingmark1/world_execute_me_win",
    "description": "",
-   "stars": 8,
+   "stars": 9,
    "forks": 0,
    "language": "Python",
    "license": null,
@@ -548,6 +524,30 @@
    "form": "terminal",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/dingmark1/world_execute_me_win",
+   "families": []
+  },
+  {
+   "repo": "sanaedesuyo/world-execute-me",
+   "name": "world-execute-me",
+   "owner": "sanaedesuyo",
+   "avatar": "https://avatars.githubusercontent.com/u/151539022?v=4",
+   "url": "https://github.com/sanaedesuyo/world-execute-me",
+   "description": "在终端上实时生成world.execute(me);的mv",
+   "stars": 8,
+   "forks": 0,
+   "language": "Rust",
+   "license": null,
+   "created": "2025-08-21",
+   "pushed": "2025-08-25",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/sanaedesuyo/world-execute-me",
    "families": []
   },
   {
@@ -677,6 +677,36 @@
    "families": []
   },
   {
+   "repo": "seasnakes/world.execute-me-wallpaper",
+   "name": "world.execute-me-wallpaper",
+   "owner": "seasnakes",
+   "avatar": "https://avatars.githubusercontent.com/u/72481288?v=4",
+   "url": "https://github.com/seasnakes/world.execute-me-wallpaper",
+   "description": "B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码",
+   "stars": 4,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-09-28",
+   "pushed": "2026-09-28",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV1RHhU63ESq/",
+   "bilibili": [
+    "BV1RHhU63ESq"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/seasnakes/world.execute-me-wallpaper/main/docs/preview-original-16x9.jpg",
+   "og": "https://opengraph.githubassets.com/1/seasnakes/world.execute-me-wallpaper",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "tomokaitoh/world.execute_me",
    "name": "world.execute_me",
    "owner": "tomokaitoh",
@@ -699,36 +729,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/tomokaitoh/world.execute_me",
    "families": []
-  },
-  {
-   "repo": "seasnakes/world.execute-me-wallpaper",
-   "name": "world.execute-me-wallpaper",
-   "owner": "seasnakes",
-   "avatar": "https://avatars.githubusercontent.com/u/72481288?v=4",
-   "url": "https://github.com/seasnakes/world.execute-me-wallpaper",
-   "description": "B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码",
-   "stars": 3,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-09-28",
-   "pushed": "2026-09-28",
-   "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV1RHhU63ESq/",
-   "bilibili": [
-    "BV1RHhU63ESq"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/seasnakes/world.execute-me-wallpaper/main/docs/preview-original-16x9.jpg",
-   "og": "https://opengraph.githubassets.com/1/seasnakes/world.execute-me-wallpaper",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "miaoyouchacha/xaihi-terminal-mv",
@@ -1278,7 +1278,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-13",
+   "pushed": "2026-10-14",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4462,7 +4462,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-10",
-   "pushed": "2026-10-13",
+   "pushed": "2026-10-14",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4762,6 +4762,34 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/seasnakes/seasnake-benchmark",
    "families": []
+  },
+  {
+   "repo": "hehe2078/gemini_world.execute-me-",
+   "name": "gemini_world.execute-me-",
+   "owner": "hehe2078",
+   "avatar": "https://avatars.githubusercontent.com/u/100479416?v=4",
+   "url": "https://github.com/hehe2078/gemini_world.execute-me-",
+   "description": "world.execute(me)的gemini版本",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-14",
+   "pushed": "2026-10-14",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Gemini"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/hehe2078/gemini_world.execute-me-",
+   "families": [
+    "Gemini"
+   ]
   }
  ]
 }
