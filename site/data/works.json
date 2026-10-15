@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T04:36:46Z",
+ "generated": "2026-10-15T11:27:05Z",
  "count": 190,
  "works": [
   {
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 554,
-   "forks": 51,
+   "stars": 556,
+   "forks": 53,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 321,
+   "stars": 322,
    "forks": 29,
    "language": "Python",
    "license": null,
@@ -89,7 +89,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 177,
+   "stars": 181,
    "forks": 20,
    "language": "JavaScript",
    "license": "MIT",
@@ -1665,7 +1665,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-10-08",
-   "pushed": "2026-10-12",
+   "pushed": "2026-10-15",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -3048,7 +3048,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-14",
+   "pushed": "2026-10-15",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4091,7 +4091,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-14",
+   "pushed": "2026-10-15",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
