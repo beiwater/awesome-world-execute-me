@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14T21:41:06Z",
- "count": 188,
+ "generated": "2026-10-15T04:36:46Z",
+ "count": 190,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 553,
+   "stars": 554,
    "forks": 51,
    "language": "Python",
    "license": "MIT",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 319,
+   "stars": 321,
    "forks": 29,
    "language": "Python",
    "license": null,
@@ -89,7 +89,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 176,
+   "stars": 177,
    "forks": 20,
    "language": "JavaScript",
    "license": "MIT",
@@ -298,7 +298,7 @@
    "url": "https://github.com/Galen563/world.execute-me",
    "description": "【DeepSeekV4.1Flash】world.execute (me) ;README是我用AI写的，你下载整个ZIP就ok了，README我大致看了眼没啥问题",
    "stars": 21,
-   "forks": 4,
+   "forks": 5,
    "language": "JavaScript",
    "license": null,
    "created": "2026-09-18",
@@ -586,7 +586,7 @@
    "language": "HTML",
    "license": null,
    "created": "2021-12-13",
-   "pushed": "2026-10-14",
+   "pushed": "2026-10-15",
    "demo": "mo-yoez.vercel.app",
    "homepage": "mo-yoez.vercel.app",
    "bilibili": [],
@@ -1224,7 +1224,7 @@
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-10",
-   "pushed": "2026-10-14",
+   "pushed": "2026-10-15",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4764,6 +4764,34 @@
    "families": []
   },
   {
+   "repo": "grafficmedia/vibe-cruiser-picks",
+   "name": "vibe-cruiser-picks",
+   "owner": "grafficmedia",
+   "avatar": "https://avatars.githubusercontent.com/u/13575108?v=4",
+   "url": "https://github.com/grafficmedia/vibe-cruiser-picks",
+   "description": "Awesome vibe-coded games, experiences, art, and more",
+   "stars": 0,
+   "forks": 0,
+   "language": null,
+   "license": "CC0-1.0",
+   "created": "2026-10-14",
+   "pushed": "2026-10-15",
+   "demo": null,
+   "homepage": "https://vibecruiser.com",
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/grafficmedia/vibe-cruiser-picks",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "hehe2078/gemini_world.execute-me-",
    "name": "gemini_world.execute-me-",
    "owner": "hehe2078",
@@ -4790,6 +4818,30 @@
    "families": [
     "Gemini"
    ]
+  },
+  {
+   "repo": "A1haithRui/worldExecuteMeDS",
+   "name": "worldExecuteMeDS",
+   "owner": "A1haithRui",
+   "avatar": "https://avatars.githubusercontent.com/u/73697855?v=4",
+   "url": "https://github.com/A1haithRui/worldExecuteMeDS",
+   "description": "临时仓库",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-10-15",
+   "pushed": "2026-10-15",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/A1haithRui/worldExecuteMeDS",
+   "families": []
   }
  ]
 }
