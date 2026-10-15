@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T17:00:10Z",
+ "generated": "2026-10-15T21:22:25Z",
  "count": 191,
  "works": [
   {
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 324,
+   "stars": 325,
    "forks": 29,
    "language": "Python",
    "license": null,
@@ -89,7 +89,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 190,
+   "stars": 192,
    "forks": 20,
    "language": "JavaScript",
    "license": "MIT",
@@ -4462,7 +4462,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-10",
-   "pushed": "2026-10-14",
+   "pushed": "2026-10-15",
    "demo": null,
    "homepage": null,
    "bilibili": [],
