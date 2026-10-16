@@ -61,7 +61,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 ### 网页 Web
 
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 264.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 196；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 200；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 36.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
 - [Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-](https://github.com/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-) - 网页形式的二创作品. ★ 5；AI 模型：DeepSeek V4 Flash.
@@ -124,7 +124,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 325.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 327.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 122；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
 - [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 18；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 16.
@@ -230,7 +230,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [dominic1305/World.Execute](https://github.com/dominic1305/World.Execute) - 代码实现形式的二创作品. ★ 0.
 - [luvchippy/worldexecuteme2](https://github.com/luvchippy/worldexecuteme2) - 代码实现形式的二创作品. ★ 0.
 - [Aprixia/world.execute-me-](https://github.com/Aprixia/world.execute-me-) - Osu! mapset of Mili's world.execute(me);. ★ 0.
-- [Harris1121/awesome-deepseek-harness](https://github.com/Harris1121/awesome-deepseek-harness) - Find the right DeepSeek Harness tools faster — see what’s popular, rising and worth using. ★ 0.
 - [HATSUNEMIKU-001/world.execute-me-C-](https://github.com/HATSUNEMIKU-001/world.execute-me-C-) - World.execute(me);但是C++语言编写. ★ 0.
 - [5cger/world.execute-me-\_pv](https://github.com/5cger/world.execute-me-_pv) - 代码实现形式的二创作品. ★ 0.
 - [ehrl1225/world\_execute](https://github.com/ehrl1225/world_execute) - 代码实现形式的二创作品. ★ 0.
@@ -246,6 +245,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [ryougishiki27340-lang/world-execute-me-universe](https://github.com/ryougishiki27340-lang/world-execute-me-universe) - World.execute(me); - deterministic code-rendered fan MV (silent releases only). ★ 0.
 - [seasnakes/seasnake-benchmark](https://github.com/seasnakes/seasnake-benchmark) - SeaSnake 的 AI 能力测试用例合集（awesome list 风格）. ★ 0；AI 模型：未注明；[B站](https://www.bilibili.com/video/BV1RHhU63ESq).
 - [A1haithRui/worldExecuteMeDS](https://github.com/A1haithRui/worldExecuteMeDS) - 临时仓库. ★ 0.
+- [hhjh1338-gif/world-execute-me-cc](https://github.com/hhjh1338-gif/world-execute-me-cc) - 酒馆之 world.execute(me); — 时间轴驱动的同人 MV 源码、几何占位演示与本地视频导出工具。MIT · 开车必备导航. ★ 0.
 <!-- works:end -->
 
 ## 本地运行
