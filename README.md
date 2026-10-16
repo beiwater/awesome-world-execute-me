@@ -61,10 +61,9 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 ### 网页 Web
 
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 264.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 192；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 196；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 36.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
-- [MoYoez/MoYoez](https://github.com/MoYoez/MoYoez) - 网页形式的二创作品. ★ 6；制作：手写；[在线 demo](mo-yoez.vercel.app).
 - [Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-](https://github.com/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-) - 网页形式的二创作品. ★ 5；AI 模型：DeepSeek V4 Flash.
 - [bywenshu/world-execute-me](https://github.com/bywenshu/world-execute-me) - 网页形式的二创作品. ★ 4.
 - [seasnakes/world.execute-me-wallpaper](https://github.com/seasnakes/world.execute-me-wallpaper) - B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码. ★ 4；AI 模型：Claude Opus 5.5；[B站](https://www.bilibili.com/video/BV1RHhU63ESq).
@@ -176,6 +175,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [OutoriNemuri/world-execute-me-mv](https://github.com/OutoriNemuri/world-execute-me-mv) - Code-generated music video for MILI — world.execute(me); (cairo/Pango + ffmpeg, rendered on GitHub Actions). ★ 0.
 - [Alice-Marx/manim-for-world-execute-me](https://github.com/Alice-Marx/manim-for-world-execute-me) - Manim for world-execute-me. ★ 0.
 - [ryougishiki27340-lang/world-execute-me-paper-pv](https://github.com/ryougishiki27340-lang/world-execute-me-paper-pv) - World.execute(me); - a code-rendered paper-blueprint fan PV starring the DeepSeek whale girl. Every frame is drawn from scratch with Pillow. ★ 0.
+- [KeithTMaxwell/dsh-skin-deepsea-tui](https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui) - 深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验. ★ 0；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 
 ### 代码渲染视频 PV Video
 
@@ -192,6 +192,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [LeonspaceX/world-execute-me](https://github.com/LeonspaceX/world-execute-me) - 代码实现形式的二创作品. ★ 15；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [OyogurtO/GodDrinksJava](https://github.com/OyogurtO/GodDrinksJava) - Java implementation of Mili - world.execute(me);. ★ 13；[B站](https://www.bilibili.com/video/BV1aa4y1y7dU).
 - [ProbiusOfficial/world.execute.me](https://github.com/ProbiusOfficial/world.execute.me) - 代码实现形式的二创作品. ★ 7.
+- [coolbat/awesome-opus-5.5-usecase](https://github.com/coolbat/awesome-opus-5.5-usecase) - Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN. ★ 2；AI 模型：Claude Opus 5.5；[YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI).
 - [Algeran-iw/WorldExecute](https://github.com/Algeran-iw/WorldExecute) - IWBTG fangame avoidance. ★ 1；制作：手写.
 - [andrerfcsantos/goddrinksjava](https://github.com/andrerfcsantos/goddrinksjava) - Code for the song "Mili - world.execute(me);". ★ 1；制作：手写；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [nelttjen/world.execute.me](https://github.com/nelttjen/world.execute.me) - Fun. ★ 1；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
@@ -199,7 +200,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [grqx/Mili-song-source-codes](https://github.com/grqx/Mili-song-source-codes) - 代码实现形式的二创作品. ★ 1；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [bjl32/god\_use\_rust](https://github.com/bjl32/god_use_rust) - Code in world.execute(me) rewritten in rust. ★ 1.
 - [tiexuelianhua/prescripts-project](https://github.com/tiexuelianhua/prescripts-project) - Personal portfolio project developed with the help of PeaceWorks K.K. and ORBWEVA. ★ 1；AI 模型：Claude；[YouTube](https://www.youtube.com/watch?v=Y2-VkdfA2os).
-- [coolbat/awesome-opus-5.5-usecase](https://github.com/coolbat/awesome-opus-5.5-usecase) - Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN. ★ 1；AI 模型：Claude Opus 5.5；[YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI).
 - [2ndERROR/world.execute-me-](https://github.com/2ndERROR/world.execute-me-) - GodDrinksJava.java. ★ 0；制作：手写.
 - [Catyousha/world-execute-me](https://github.com/Catyousha/world-execute-me) - Tribute for Mili, teman di kala nugas dan grinding. ★ 0；制作：手写.
 - [kevin-vista/world-execute-me](https://github.com/kevin-vista/world-execute-me) - Lyrics of world.execute(me); by Mili. ★ 0；制作：手写.
@@ -245,7 +245,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [leexamp/world.execute-me--fxtk](https://github.com/leexamp/world.execute-me--fxtk) - 她实现了自己的世界. ★ 0.
 - [ryougishiki27340-lang/world-execute-me-universe](https://github.com/ryougishiki27340-lang/world-execute-me-universe) - World.execute(me); - deterministic code-rendered fan MV (silent releases only). ★ 0.
 - [seasnakes/seasnake-benchmark](https://github.com/seasnakes/seasnake-benchmark) - SeaSnake 的 AI 能力测试用例合集（awesome list 风格）. ★ 0；AI 模型：未注明；[B站](https://www.bilibili.com/video/BV1RHhU63ESq).
-- [grafficmedia/vibe-cruiser-picks](https://github.com/grafficmedia/vibe-cruiser-picks) - Awesome vibe-coded games, experiences, art, and more. ★ 0；AI 模型：Claude Opus 5.5.
 - [A1haithRui/worldExecuteMeDS](https://github.com/A1haithRui/worldExecuteMeDS) - 临时仓库. ★ 0.
 <!-- works:end -->
 

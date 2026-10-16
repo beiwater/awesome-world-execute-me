@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-15T21:22:25Z",
- "count": 191,
+ "generated": "2026-10-16T04:29:49Z",
+ "count": 190,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 559,
+   "stars": 560,
    "forks": 53,
    "language": "Python",
    "license": "MIT",
@@ -89,7 +89,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 192,
+   "stars": 196,
    "forks": 20,
    "language": "JavaScript",
    "license": "MIT",
@@ -575,30 +575,6 @@
    "families": []
   },
   {
-   "repo": "MoYoez/MoYoez",
-   "name": "MoYoez",
-   "owner": "MoYoez",
-   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
-   "url": "https://github.com/MoYoez/MoYoez",
-   "description": "",
-   "stars": 6,
-   "forks": 0,
-   "language": "HTML",
-   "license": null,
-   "created": "2021-12-13",
-   "pushed": "2026-10-15",
-   "demo": "mo-yoez.vercel.app",
-   "homepage": "mo-yoez.vercel.app",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "human",
-   "form": "web",
-   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
-   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
-   "families": []
-  },
-  {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "name": "DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "owner": "Sy2RK",
@@ -825,6 +801,37 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/1914018426/world.execute-me",
    "families": []
+  },
+  {
+   "repo": "coolbat/awesome-opus-5.5-usecase",
+   "name": "awesome-opus-5.5-usecase",
+   "owner": "coolbat",
+   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
+   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
+   "stars": 2,
+   "forks": 0,
+   "language": null,
+   "license": "CC0-1.0",
+   "created": "2026-09-24",
+   "pushed": "2026-10-15",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [
+    "EnmpDgFD3OI",
+    "mGLhVaXlIyg"
+   ],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
+   "families": [
+    "Claude"
+   ]
   },
   {
    "repo": "eugenewang5425/world-execute-me",
@@ -1265,37 +1272,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/ZCM8848/world-execute-me-pv",
    "families": []
-  },
-  {
-   "repo": "coolbat/awesome-opus-5.5-usecase",
-   "name": "awesome-opus-5.5-usecase",
-   "owner": "coolbat",
-   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
-   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
-   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
-   "stars": 1,
-   "forks": 0,
-   "language": null,
-   "license": "CC0-1.0",
-   "created": "2026-09-24",
-   "pushed": "2026-10-15",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [
-    "EnmpDgFD3OI",
-    "mGLhVaXlIyg"
-   ],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "DemonPlayer00/world_execute_me-ascii",
@@ -3248,7 +3224,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-09-26",
-   "pushed": "2026-10-15",
+   "pushed": "2026-10-16",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4764,34 +4740,6 @@
    "families": []
   },
   {
-   "repo": "grafficmedia/vibe-cruiser-picks",
-   "name": "vibe-cruiser-picks",
-   "owner": "grafficmedia",
-   "avatar": "https://avatars.githubusercontent.com/u/13575108?v=4",
-   "url": "https://github.com/grafficmedia/vibe-cruiser-picks",
-   "description": "Awesome vibe-coded games, experiences, art, and more",
-   "stars": 0,
-   "forks": 0,
-   "language": null,
-   "license": "CC0-1.0",
-   "created": "2026-10-14",
-   "pushed": "2026-10-15",
-   "demo": null,
-   "homepage": "https://vibecruiser.com",
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/grafficmedia/vibe-cruiser-picks",
-   "families": [
-    "Claude"
-   ]
-  },
-  {
    "repo": "hehe2078/gemini_world.execute-me-",
    "name": "gemini_world.execute-me-",
    "owner": "hehe2078",
@@ -4865,6 +4813,32 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/Starverse032/world.execute-me-",
+   "families": []
+  },
+  {
+   "repo": "KeithTMaxwell/dsh-skin-deepsea-tui",
+   "name": "dsh-skin-deepsea-tui",
+   "owner": "KeithTMaxwell",
+   "avatar": "https://avatars.githubusercontent.com/u/24669432?v=4",
+   "url": "https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui",
+   "description": "深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验。",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-16",
+   "pushed": "2026-10-16",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xCai6aE9g"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
+   "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
    "families": []
   }
  ]
