@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17T04:23:39Z",
- "count": 193,
+ "generated": "2026-10-17T10:42:10Z",
+ "count": 194,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 575,
+   "stars": 579,
    "forks": 54,
    "language": "Python",
    "license": "MIT",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 327,
+   "stars": 328,
    "forks": 29,
    "language": "Python",
    "license": null,
@@ -89,8 +89,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 211,
-   "forks": 22,
+   "stars": 215,
+   "forks": 23,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -603,6 +603,36 @@
    ]
   },
   {
+   "repo": "seasnakes/world.execute-me-wallpaper",
+   "name": "world.execute-me-wallpaper",
+   "owner": "seasnakes",
+   "avatar": "https://avatars.githubusercontent.com/u/72481288?v=4",
+   "url": "https://github.com/seasnakes/world.execute-me-wallpaper",
+   "description": "B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码",
+   "stars": 5,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-09-28",
+   "pushed": "2026-09-28",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV1RHhU63ESq/",
+   "bilibili": [
+    "BV1RHhU63ESq"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/seasnakes/world.execute-me-wallpaper/main/docs/preview-original-16x9.jpg",
+   "og": "https://opengraph.githubassets.com/1/seasnakes/world.execute-me-wallpaper",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "fangchudark/world-execute-me",
    "name": "world-execute-me",
    "owner": "fangchudark",
@@ -653,36 +683,6 @@
    "families": []
   },
   {
-   "repo": "seasnakes/world.execute-me-wallpaper",
-   "name": "world.execute-me-wallpaper",
-   "owner": "seasnakes",
-   "avatar": "https://avatars.githubusercontent.com/u/72481288?v=4",
-   "url": "https://github.com/seasnakes/world.execute-me-wallpaper",
-   "description": "B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码",
-   "stars": 4,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-09-28",
-   "pushed": "2026-09-28",
-   "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV1RHhU63ESq/",
-   "bilibili": [
-    "BV1RHhU63ESq"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/seasnakes/world.execute-me-wallpaper/main/docs/preview-original-16x9.jpg",
-   "og": "https://opengraph.githubassets.com/1/seasnakes/world.execute-me-wallpaper",
-   "families": [
-    "Claude"
-   ]
-  },
-  {
    "repo": "tomokaitoh/world.execute_me",
    "name": "world.execute_me",
    "owner": "tomokaitoh",
@@ -705,6 +705,34 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/tomokaitoh/world.execute_me",
    "families": []
+  },
+  {
+   "repo": "eugenewang5425/world-execute-me",
+   "name": "world-execute-me",
+   "owner": "eugenewang5425",
+   "avatar": "https://avatars.githubusercontent.com/u/110992772?v=4",
+   "url": "https://github.com/eugenewang5425/world-execute-me",
+   "description": "Code-rendered world.execute(me); MV — native 4K/60fps, Canvas 2D + WebGL2 + GLSL, storyboards and rendering pipeline.",
+   "stars": 3,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-09-29",
+   "pushed": "2026-09-29",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Codex"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/eugenewang5425/world-execute-me",
+   "families": [
+    "GPT / Codex"
+   ]
   },
   {
    "repo": "miaoyouchacha/xaihi-terminal-mv",
@@ -831,34 +859,6 @@
    "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
    "families": [
     "Claude"
-   ]
-  },
-  {
-   "repo": "eugenewang5425/world-execute-me",
-   "name": "world-execute-me",
-   "owner": "eugenewang5425",
-   "avatar": "https://avatars.githubusercontent.com/u/110992772?v=4",
-   "url": "https://github.com/eugenewang5425/world-execute-me",
-   "description": "Code-rendered world.execute(me); MV — native 4K/60fps, Canvas 2D + WebGL2 + GLSL, storyboards and rendering pipeline.",
-   "stars": 2,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-09-29",
-   "pushed": "2026-09-29",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Codex"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/eugenewang5425/world-execute-me",
-   "families": [
-    "GPT / Codex"
    ]
   },
   {
@@ -3096,7 +3096,7 @@
    "language": "HTML",
    "license": null,
    "created": "2026-08-22",
-   "pushed": "2026-10-16",
+   "pushed": "2026-10-17",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4067,7 +4067,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-16",
+   "pushed": "2026-10-17",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -4779,7 +4779,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-15",
-   "pushed": "2026-10-16",
+   "pushed": "2026-10-17",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4905,7 +4905,7 @@
    "language": "TypeScript",
    "license": "GPL-3.0",
    "created": "2026-10-16",
-   "pushed": "2026-10-16",
+   "pushed": "2026-10-17",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4915,6 +4915,30 @@
    "form": "terminal",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/tmgr-1/world.execute-me-_ascii_art_video",
+   "families": []
+  },
+  {
+   "repo": "DDFLY2025/TeleAgent-world.execute-me-",
+   "name": "TeleAgent-world.execute-me-",
+   "owner": "DDFLY2025",
+   "avatar": "https://avatars.githubusercontent.com/u/228179623?v=4",
+   "url": "https://github.com/DDFLY2025/TeleAgent-world.execute-me-",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "license": "MIT",
+   "created": "2026-10-17",
+   "pushed": "2026-10-17",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/DDFLY2025/TeleAgent-world.execute-me-",
    "families": []
   }
  ]
