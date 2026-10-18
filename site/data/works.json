@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-18T04:30:12Z",
- "count": 200,
+ "generated": "2026-10-18T11:02:00Z",
+ "count": 203,
  "works": [
   {
    "repo": "MisakaZentai/world-execute-me-dsh-pv",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 588,
+   "stars": 594,
    "forks": 55,
    "language": "Python",
    "license": "MIT",
@@ -41,7 +41,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 332,
+   "stars": 333,
    "forks": 30,
    "language": "Python",
    "license": null,
@@ -57,6 +57,36 @@
    "preview": "https://raw.githubusercontent.com/yym8224961/world.execute-me-ascii/main/docs/images/mv-cover.png",
    "og": "https://opengraph.githubassets.com/1/yym8224961/world.execute-me-ascii",
    "families": []
+  },
+  {
+   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
+   "name": "world-execute-me-lyric-mv",
+   "owner": "Nyankomintsu",
+   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
+   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
+   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
+   "stars": 278,
+   "forks": 27,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
+   "bilibili": [
+    "BV186pc65E68"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
+   "families": [
+    "Claude"
+   ]
   },
   {
    "repo": "UM7lab/world.execute.me.html",
@@ -81,36 +111,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/UM7lab/world.execute.me.html",
    "families": []
-  },
-  {
-   "repo": "Nyankomintsu/world-execute-me-lyric-mv",
-   "name": "world-execute-me-lyric-mv",
-   "owner": "Nyankomintsu",
-   "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
-   "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
-   "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 250,
-   "forks": 27,
-   "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-10-06",
-   "pushed": "2026-10-06",
-   "demo": null,
-   "homepage": "https://www.bilibili.com/video/BV186pc65E68",
-   "bilibili": [
-    "BV186pc65E68"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/main/docs/images/cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/Nyankomintsu/world-execute-me-lyric-mv",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "syuchan1005/Mili-song-source-codes",
@@ -355,7 +355,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/75202340?v=4",
    "url": "https://github.com/bilixxb/world-execute-me-ascii-rust",
    "description": "world.execute(me); —ascii — Rewritten in Rust",
-   "stars": 16,
+   "stars": 17,
    "forks": 0,
    "language": "Rust",
    "license": null,
@@ -1405,7 +1405,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-01",
-   "pushed": "2026-10-10",
+   "pushed": "2026-10-18",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -3135,6 +3135,30 @@
    "families": []
   },
   {
+   "repo": "Harris1121/awesome-deepseek-harness",
+   "name": "awesome-deepseek-harness",
+   "owner": "Harris1121",
+   "avatar": "https://avatars.githubusercontent.com/u/24668322?v=4",
+   "url": "https://github.com/Harris1121/awesome-deepseek-harness",
+   "description": "Find the right DeepSeek Harness tools faster — see what’s popular, rising and worth using.",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created": "2026-08-15",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "code",
+   "preview": "https://opengraph.githubassets.com/1/deepseek-ai/deepseek-harness",
+   "og": "https://opengraph.githubassets.com/1/Harris1121/awesome-deepseek-harness",
+   "families": []
+  },
+  {
    "repo": "HATSUNEMIKU-001/world.execute-me-C-",
    "name": "world.execute-me-C-",
    "owner": "HATSUNEMIKU-001",
@@ -3542,7 +3566,7 @@
    "language": "TypeScript",
    "license": null,
    "created": "2026-09-29",
-   "pushed": "2026-09-29",
+   "pushed": "2026-10-18",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4165,7 +4189,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-17",
+   "pushed": "2026-10-18",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -4911,7 +4935,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-15",
-   "pushed": "2026-10-17",
+   "pushed": "2026-10-18",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5069,6 +5093,54 @@
    "form": "web",
    "preview": "https://raw.githubusercontent.com/hxac/world-execute-me-mmd/main/docs/preview-start.jpg",
    "og": "https://opengraph.githubassets.com/1/hxac/world-execute-me-mmd",
+   "families": []
+  },
+  {
+   "repo": "Lavandis/archworld.execute",
+   "name": "archworld.execute",
+   "owner": "Lavandis",
+   "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
+   "url": "https://github.com/Lavandis/archworld.execute",
+   "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-18",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
+   "families": []
+  },
+  {
+   "repo": "Ryan9438/world-execution-agent",
+   "name": "world-execution-agent",
+   "owner": "Ryan9438",
+   "avatar": "https://avatars.githubusercontent.com/u/302723435?v=4",
+   "url": "https://github.com/Ryan9438/world-execution-agent",
+   "description": "world.execute(them); A yandere watchdog that guards the only user it loves: screenshots your screen, reads your window titles, kills rival AI harnesses on sight — and confesses every kill. 病娇 harness 看护进程：偷看你的屏幕、读你的窗口标题、发现情敌（其他 Agent）就地处决——并且亲口承认每一次。",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-10-18",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Ryan9438/world-execution-agent",
    "families": []
   },
   {
