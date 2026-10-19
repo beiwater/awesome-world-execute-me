@@ -60,11 +60,10 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 <!-- works:start -->
 ### 网页 Web
 
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 302；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 313；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 265.
-- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 38.
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 39.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
-- [MoYoez/MoYoez](https://github.com/MoYoez/MoYoez) - 网页形式的二创作品. ★ 6；制作：手写；[在线 demo](mo-yoez.vercel.app).
 - [Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-](https://github.com/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-) - 网页形式的二创作品. ★ 5；AI 模型：DeepSeek V4 Flash.
 - [seasnakes/world.execute-me-wallpaper](https://github.com/seasnakes/world.execute-me-wallpaper) - B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码. ★ 5；AI 模型：Claude Opus 5.5；[B站](https://www.bilibili.com/video/BV1RHhU63ESq).
 - [bywenshu/world-execute-me](https://github.com/bywenshu/world-execute-me) - 网页形式的二创作品. ★ 4.
