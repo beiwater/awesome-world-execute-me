@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20T04:48:24Z",
- "count": 205,
+ "generated": "2026-10-20T11:34:28Z",
+ "count": 207,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1578,
-   "forks": 118,
+   "stars": 1584,
+   "forks": 119,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 617,
+   "stars": 619,
    "forks": 56,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 346,
+   "stars": 347,
    "forks": 30,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 339,
+   "stars": 343,
    "forks": 30,
    "language": "Python",
    "license": null,
@@ -197,7 +197,7 @@
    "url": "https://github.com/Kritzkingvoid/Execute.SingAlone-Me-",
    "description": "Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it",
    "stars": 123,
-   "forks": 10,
+   "forks": 11,
    "language": "C#",
    "license": null,
    "created": "2023-10-20",
@@ -312,6 +312,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
+   "families": []
+  },
+  {
+   "repo": "CrackerCat/feed",
+   "name": "feed",
+   "owner": "CrackerCat",
+   "avatar": "https://avatars.githubusercontent.com/u/17995064?v=4",
+   "url": "https://github.com/CrackerCat/feed",
+   "description": "",
+   "stars": 30,
+   "forks": 5,
+   "language": "Python",
+   "license": null,
+   "created": "2025-09-20",
+   "pushed": "2026-10-20",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
    "families": []
   },
   {
@@ -1255,7 +1279,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-19",
+   "pushed": "2026-10-20",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1557,7 +1581,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-10-17",
+   "pushed": "2026-10-20",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4237,7 +4261,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-19",
+   "pushed": "2026-10-20",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -5216,6 +5240,34 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/Sakuya398-Yamada/world-execute-xr",
    "families": []
+  },
+  {
+   "repo": "alpha34727/world_execute_me_web",
+   "name": "world_execute_me_web",
+   "owner": "alpha34727",
+   "avatar": "https://avatars.githubusercontent.com/u/121650882?v=4",
+   "url": "https://github.com/alpha34727/world_execute_me_web",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-20",
+   "pushed": "2026-10-20",
+   "demo": "https://alpha34727.github.io/world_execute_me_web/",
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/alpha34727/world_execute_me_web",
+   "families": [
+    "Claude"
+   ]
   }
  ]
 }
