@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T17:02:47Z",
+ "generated": "2026-10-20T21:37:45Z",
  "count": 209,
  "works": [
   {
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 355,
+   "stars": 356,
    "forks": 30,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 344,
+   "stars": 343,
    "forks": 30,
    "language": "Python",
    "license": null,
@@ -143,7 +143,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/8733829?v=4",
    "url": "https://github.com/syuchan1005/Mili-song-source-codes",
    "description": "",
-   "stars": 171,
+   "stars": 173,
    "forks": 18,
    "language": "Java",
    "license": null,
@@ -333,7 +333,7 @@
    "youtube": [],
    "models": [],
    "maker": "ai",
-   "form": "code",
+   "form": "terminal",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
    "families": []
