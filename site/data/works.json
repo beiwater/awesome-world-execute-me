@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20T21:37:45Z",
- "count": 209,
+ "generated": "2026-10-21T04:45:15Z",
+ "count": 208,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1585,
+   "stars": 1586,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 623,
+   "stars": 624,
    "forks": 56,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 356,
+   "stars": 361,
    "forks": 30,
    "language": "JavaScript",
    "license": "MIT",
@@ -312,30 +312,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
-   "families": []
-  },
-  {
-   "repo": "CrackerCat/feed",
-   "name": "feed",
-   "owner": "CrackerCat",
-   "avatar": "https://avatars.githubusercontent.com/u/17995064?v=4",
-   "url": "https://github.com/CrackerCat/feed",
-   "description": "",
-   "stars": 30,
-   "forks": 5,
-   "language": "Python",
-   "license": null,
-   "created": "2025-09-20",
-   "pushed": "2026-10-20",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
    "families": []
   },
   {
@@ -1327,7 +1303,7 @@
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-10",
-   "pushed": "2026-10-19",
+   "pushed": "2026-10-20",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4945,7 +4921,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-10-14",
-   "pushed": "2026-10-20",
+   "pushed": "2026-10-21",
    "demo": null,
    "homepage": "https://vibecruiser.com",
    "bilibili": [],
@@ -4953,7 +4929,8 @@
    "models": [
     "Claude",
     "Gemini",
-    "MiniMax"
+    "MiniMax",
+    "Qwen3.8"
    ],
    "maker": "ai",
    "form": "code",
@@ -4962,7 +4939,8 @@
    "families": [
     "Claude",
     "Gemini",
-    "MiniMax"
+    "MiniMax",
+    "Qwen"
    ]
   },
   {
@@ -5005,7 +4983,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-15",
-   "pushed": "2026-10-20",
+   "pushed": "2026-10-21",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5302,18 +5280,20 @@
    "description": "world.execute(me); — 终端工作台 MV  一支 3 分 32 秒、全部由代码实时生成的动画 MV。 左边是人类看到的那一层（一个 AI 聊天窗口），右边是她自己的那一层 —— 她内部的机器。  Three.js r160 · 原生 ESM，零构建 · 212 s / 60 fps · WebGL 后处理 + Canvas 2D",
    "stars": 0,
    "forks": 0,
-   "language": null,
+   "language": "JavaScript",
    "license": null,
    "created": "2026-10-20",
-   "pushed": "2026-10-20",
-   "demo": null,
+   "pushed": "2026-10-21",
+   "demo": "https://cxmzkla.github.io/world-execute-me-web/",
    "homepage": null,
-   "bilibili": [],
+   "bilibili": [
+    "BV18bnN6nEAh"
+   ],
    "youtube": [],
    "models": [],
    "maker": "ai",
-   "form": "terminal",
-   "preview": null,
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/cxmzkla/world-execute-me-web/main/cover/readme-hero.jpg",
    "og": "https://opengraph.githubassets.com/1/cxmzkla/world-execute-me-web",
    "families": []
   }
