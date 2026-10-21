@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T17:12:20Z",
- "count": 208,
+ "generated": "2026-10-21T21:42:32Z",
+ "count": 209,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1594,
+   "stars": 1595,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -1557,7 +1557,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-10-20",
+   "pushed": "2026-10-21",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5121,6 +5121,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/DDFLY2025/TeleAgent-world.execute-me-",
+   "families": []
+  },
+  {
+   "repo": "JeffeyChou/cueframe-examples",
+   "name": "cueframe-examples",
+   "owner": "JeffeyChou",
+   "avatar": "https://avatars.githubusercontent.com/u/90391082?v=4",
+   "url": "https://github.com/JeffeyChou/cueframe-examples",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "TypeScript",
+   "license": "MIT",
+   "created": "2026-10-17",
+   "pushed": "2026-10-21",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/JeffeyChou/cueframe-examples/main/examples/manim-kepler/preview.webp",
+   "og": "https://opengraph.githubassets.com/1/JeffeyChou/cueframe-examples",
    "families": []
   },
   {
