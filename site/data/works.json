@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T11:47:23Z",
+ "generated": "2026-10-21T17:12:20Z",
  "count": 208,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1592,
+   "stars": 1594,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 625,
+   "stars": 627,
    "forks": 57,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 368,
+   "stars": 378,
    "forks": 30,
    "language": "JavaScript",
    "license": "MIT",
@@ -96,7 +96,7 @@
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
    "stars": 343,
-   "forks": 30,
+   "forks": 31,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
@@ -249,8 +249,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 41,
-   "forks": 4,
+   "stars": 42,
+   "forks": 5,
    "language": "JavaScript",
    "license": "AGPL-3.0",
    "created": "2026-10-05",
@@ -343,6 +343,30 @@
    ]
   },
   {
+   "repo": "bilixxb/world-execute-me-ascii-rust",
+   "name": "world-execute-me-ascii-rust",
+   "owner": "bilixxb",
+   "avatar": "https://avatars.githubusercontent.com/u/75202340?v=4",
+   "url": "https://github.com/bilixxb/world-execute-me-ascii-rust",
+   "description": "world.execute(me); —ascii — Rewritten in Rust",
+   "stars": 19,
+   "forks": 0,
+   "language": "Rust",
+   "license": null,
+   "created": "2026-09-28",
+   "pushed": "2026-09-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/bilixxb/world-execute-me-ascii-rust",
+   "families": []
+  },
+  {
    "repo": "lvy010/world-execute-me-kimi",
    "name": "world-execute-me-kimi",
    "owner": "lvy010",
@@ -371,30 +395,6 @@
    "families": [
     "Kimi"
    ]
-  },
-  {
-   "repo": "bilixxb/world-execute-me-ascii-rust",
-   "name": "world-execute-me-ascii-rust",
-   "owner": "bilixxb",
-   "avatar": "https://avatars.githubusercontent.com/u/75202340?v=4",
-   "url": "https://github.com/bilixxb/world-execute-me-ascii-rust",
-   "description": "world.execute(me); —ascii — Rewritten in Rust",
-   "stars": 18,
-   "forks": 0,
-   "language": "Rust",
-   "license": null,
-   "created": "2026-09-28",
-   "pushed": "2026-09-28",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/bilixxb/world-execute-me-ascii-rust",
-   "families": []
   },
   {
    "repo": "LeonspaceX/world-execute-me",
@@ -755,6 +755,37 @@
    "families": []
   },
   {
+   "repo": "coolbat/awesome-opus-5.5-usecase",
+   "name": "awesome-opus-5.5-usecase",
+   "owner": "coolbat",
+   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
+   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
+   "stars": 3,
+   "forks": 0,
+   "language": null,
+   "license": "CC0-1.0",
+   "created": "2026-09-24",
+   "pushed": "2026-10-21",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [
+    "EnmpDgFD3OI",
+    "mGLhVaXlIyg"
+   ],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "eugenewang5425/world-execute-me",
    "name": "world-execute-me",
    "owner": "eugenewang5425",
@@ -853,37 +884,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/1914018426/world.execute-me",
    "families": []
-  },
-  {
-   "repo": "coolbat/awesome-opus-5.5-usecase",
-   "name": "awesome-opus-5.5-usecase",
-   "owner": "coolbat",
-   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
-   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
-   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
-   "stars": 2,
-   "forks": 0,
-   "language": null,
-   "license": "CC0-1.0",
-   "created": "2026-09-24",
-   "pushed": "2026-10-20",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [
-    "EnmpDgFD3OI",
-    "mGLhVaXlIyg"
-   ],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "BreadS00/world-execute-me-terminal-mv",
@@ -3466,10 +3466,14 @@
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-09-27",
-   "pushed": "2026-09-29",
+   "pushed": "2026-10-21",
    "demo": null,
    "homepage": null,
-   "bilibili": [],
+   "bilibili": [
+    "BV1hVHU65EZz",
+    "BV1dsHL6oEiu",
+    "BV1eGaz6JEi8"
+   ],
    "youtube": [],
    "models": [
     "Qwen3.8-Flash"
