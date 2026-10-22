@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T21:42:32Z",
- "count": 209,
+ "generated": "2026-10-22T04:42:43Z",
+ "count": 210,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1595,
+   "stars": 1598,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -33,8 +33,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 627,
-   "forks": 57,
+   "stars": 628,
+   "forks": 58,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -65,8 +65,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 378,
-   "forks": 30,
+   "stars": 383,
+   "forks": 32,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -596,6 +596,30 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/ProbiusOfficial/world.execute.me",
+   "families": []
+  },
+  {
+   "repo": "MoYoez/MoYoez",
+   "name": "MoYoez",
+   "owner": "MoYoez",
+   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
+   "url": "https://github.com/MoYoez/MoYoez",
+   "description": "",
+   "stars": 6,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2021-12-13",
+   "pushed": "2026-10-22",
+   "demo": "mo-yoez.vercel.app",
+   "homepage": "mo-yoez.vercel.app",
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "human",
+   "form": "web",
+   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
+   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
    "families": []
   },
   {
@@ -4925,26 +4949,26 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-10-14",
-   "pushed": "2026-10-21",
+   "pushed": "2026-10-22",
    "demo": null,
    "homepage": "https://vibecruiser.com",
    "bilibili": [],
    "youtube": [],
    "models": [
-    "Claude",
     "Gemini",
     "MiniMax",
-    "Qwen3.8"
+    "Qwen3.8",
+    "Claude Opus 5.5"
    ],
    "maker": "ai",
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/grafficmedia/vibe-cruiser-picks",
    "families": [
-    "Claude",
     "Gemini",
     "MiniMax",
-    "Qwen"
+    "Qwen",
+    "Claude"
    ]
   },
   {
@@ -4987,7 +5011,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-15",
-   "pushed": "2026-10-21",
+   "pushed": "2026-10-22",
    "demo": null,
    "homepage": null,
    "bilibili": [],
