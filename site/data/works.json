@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-22T17:10:34Z",
- "count": 213,
+ "generated": "2026-10-22T21:35:27Z",
+ "count": 214,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 636,
+   "stars": 637,
    "forks": 60,
    "language": "Python",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 346,
+   "stars": 347,
    "forks": 31,
    "language": "Python",
    "license": null,
@@ -994,6 +994,30 @@
    ]
   },
   {
+   "repo": "CENSEDAXIS20025/AI-Music-MV-Remake",
+   "name": "AI-Music-MV-Remake",
+   "owner": "CENSEDAXIS20025",
+   "avatar": "https://avatars.githubusercontent.com/u/150315780?v=4",
+   "url": "https://github.com/CENSEDAXIS20025/AI-Music-MV-Remake",
+   "description": "world.execute(me); - single-file HTML Canvas MV (Mili), generated with DeepSeek Harness",
+   "stars": 2,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-01",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/CENSEDAXIS20025/AI-Music-MV-Remake",
+   "families": []
+  },
+  {
    "repo": "ZioyeaMu/world.execute-me",
    "name": "world.execute-me",
    "owner": "ZioyeaMu",
@@ -1541,30 +1565,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/maxlen727/world.execute-me",
-   "families": []
-  },
-  {
-   "repo": "CENSEDAXIS20025/AI-Music-MV-Remake",
-   "name": "AI-Music-MV-Remake",
-   "owner": "CENSEDAXIS20025",
-   "avatar": "https://avatars.githubusercontent.com/u/150315780?v=4",
-   "url": "https://github.com/CENSEDAXIS20025/AI-Music-MV-Remake",
-   "description": "world.execute(me); - single-file HTML Canvas MV (Mili), generated with DeepSeek Harness",
-   "stars": 1,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-10-01",
-   "pushed": "2026-10-18",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/CENSEDAXIS20025/AI-Music-MV-Remake",
    "families": []
   },
   {
@@ -5402,6 +5402,36 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/H086677/ikun",
    "families": []
+  },
+  {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-22",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
   },
   {
    "repo": "LouisLu010/world-execute-me-pv",
