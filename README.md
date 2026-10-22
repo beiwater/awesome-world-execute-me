@@ -60,10 +60,10 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 <!-- works:start -->
 ### 网页 Web
 
-- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1601；AI 模型：未注明.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 392；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1606；AI 模型：未注明.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 400；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 265.
-- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 42.
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 43.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
 - [MoYoez/MoYoez](https://github.com/MoYoez/MoYoez) - 网页形式的二创作品. ★ 6；制作：手写；[在线 demo](mo-yoez.vercel.app).
 - [lwmxiaobei/dsh-plugins](https://github.com/lwmxiaobei/dsh-plugins) - DeepSeek Harness 社区插件目录，自动汇总并基础校验 GitHub 插件，支持搜索、筛选、双语详情与最新版本安装命令复制。Community directory for DeepSeek Harness plugins with automated discovery, basic validation, search, filters, bilingual details, and latest version install commands. ★ 5；AI 模型：GPT；[B站](https://www.bilibili.com/video/BV1JAbC6wEWW).
@@ -134,6 +134,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Sakuya398-Yamada/world-execute-xr](https://github.com/Sakuya398-Yamada/world-execute-xr) - 网页形式的二创作品. ★ 0.
 - [alpha34727/world\_execute\_me\_web](https://github.com/alpha34727/world_execute_me_web) - 网页形式的二创作品. ★ 0；AI 模型：Claude Opus 5.5；[在线 demo](https://alpha34727.github.io/world_execute_me_web/).
 - [cxmzkla/world-execute-me-web](https://github.com/cxmzkla/world-execute-me-web) - World.execute(me); — 终端工作台 MV 一支 3 分 32 秒、全部由代码实时生成的动画 MV。 左边是人类看到的那一层（一个 AI 聊天窗口），右边是她自己的那一层 —— 她内部的机器。 Three.js r160 · 原生 ESM，零构建 · 212 s / 60 fps · WebGL 后处理 + Canvas 2D. ★ 0；AI 模型：未注明；[在线 demo](https://cxmzkla.github.io/world-execute-me-web/)；[B站](https://www.bilibili.com/video/BV18bnN6nEAh).
+- [H086677/ikun](https://github.com/H086677/ikun) - 网页形式的二创作品. ★ 0；[在线 demo](https://h086677.github.io/ikun/).
 
 ### 终端 ASCII Terminal
 
@@ -194,6 +195,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [ShingStars/agent-mv-studio](https://github.com/ShingStars/agent-mv-studio) - Deterministic, frame-by-frame music-video studio for AI agents: two fixed styles (three-ink plate / terminal pane), a storyboard compiler, a pure f(t) renderer and a QA harness. ★ 0；AI 模型：GPT.
 - [Vladimir15963/vivy\_subsystem\_lajit](https://github.com/Vladimir15963/vivy_subsystem_lajit) - 我用来搞测试的godot垃圾桶仓库. ★ 0.
 - [curealb/Tonkatsu.-me-](https://github.com/curealb/Tonkatsu.-me-) - 终端形式的二创作品. ★ 0.
+- [LouisLu010/world-execute-me-pv](https://github.com/LouisLu010/world-execute-me-pv) - Code-rendered TUI music PV — GPT / Codex history, continuous chat animation, native 4K60. ★ 0；AI 模型：GPT, Codex.
 
 ### 代码渲染视频 PV Video
 
