@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-23T11:37:29Z",
- "count": 216,
+ "generated": "2026-10-23T17:06:37Z",
+ "count": 218,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1608,
+   "stars": 1607,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 641,
+   "stars": 643,
    "forks": 60,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 406,
+   "stars": 412,
    "forks": 34,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 347,
+   "stars": 349,
    "forks": 30,
    "language": "Python",
    "license": null,
@@ -321,7 +321,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/204901949?v=4",
    "url": "https://github.com/Galen563/world.execute-me",
    "description": "【DeepSeekV4.1Flash】world.execute (me) ;README是我用AI写的，你下载整个ZIP就ok了，README我大致看了眼没啥问题",
-   "stars": 21,
+   "stars": 22,
    "forks": 4,
    "language": "JavaScript",
    "license": null,
@@ -395,6 +395,30 @@
    "families": [
     "Kimi"
    ]
+  },
+  {
+   "repo": "xiaoming6680/xm-video-engine",
+   "name": "xm-video-engine",
+   "owner": "xiaoming6680",
+   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
+   "url": "https://github.com/xiaoming6680/xm-video-engine",
+   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！",
+   "stars": 17,
+   "forks": 0,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-03",
+   "pushed": "2026-10-23",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
+   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
+   "families": []
   },
   {
    "repo": "LeonspaceX/world-execute-me",
@@ -766,7 +790,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-22",
+   "pushed": "2026-10-23",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1013,6 +1037,34 @@
    "og": "https://opengraph.githubassets.com/1/ZioyeaMu/world.execute-me",
    "families": [
     "DeepSeek"
+   ]
+  },
+  {
+   "repo": "YouBaoWW/NancyLu-world-execute-pv",
+   "name": "NancyLu-world-execute-pv",
+   "owner": "YouBaoWW",
+   "avatar": "https://avatars.githubusercontent.com/u/333712909?v=4",
+   "url": "https://github.com/YouBaoWW/NancyLu-world-execute-pv",
+   "description": "NancyLu fan PV for world.execute(me); — deterministic Canvas/WebGL2 rendering, lyric conversations, camera motion, character assets and complete creation prompts.",
+   "stars": 2,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-23",
+   "pushed": "2026-10-23",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Codex"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/YouBaoWW/NancyLu-world-execute-pv/main/docs/images/cover.png",
+   "og": "https://opengraph.githubassets.com/1/YouBaoWW/NancyLu-world-execute-pv",
+   "families": [
+    "GPT / Codex"
    ]
   },
   {
@@ -4793,13 +4845,13 @@
    "language": "C",
    "license": "MIT",
    "created": "2026-10-11",
-   "pushed": "2026-10-19",
+   "pushed": "2026-10-23",
    "demo": null,
    "homepage": null,
    "bilibili": [],
    "youtube": [],
    "models": [],
-   "maker": "unknown",
+   "maker": "ai",
    "form": "code",
    "preview": "https://raw.githubusercontent.com/leexamp/world.execute-me--fxtk/feat/v2.5/screenshot_aa.png",
    "og": "https://opengraph.githubassets.com/1/leexamp/world.execute-me--fxtk",
@@ -5479,15 +5531,15 @@
    "families": []
   },
   {
-   "repo": "YouBaoWW/NancyLu-world-execute-pv",
-   "name": "NancyLu-world-execute-pv",
-   "owner": "YouBaoWW",
-   "avatar": "https://avatars.githubusercontent.com/u/333712909?v=4",
-   "url": "https://github.com/YouBaoWW/NancyLu-world-execute-pv",
-   "description": "NancyLu fan PV for world.execute(me); — deterministic Canvas/WebGL2 rendering, lyric conversations, camera motion, character assets and complete creation prompts.",
+   "repo": "qihanqihan-gif/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "qihanqihan-gif",
+   "avatar": "https://avatars.githubusercontent.com/u/244346522?v=4",
+   "url": "https://github.com/qihanqihan-gif/world-execute-me-mv",
+   "description": "Code-driven music video studies for world.execute(me); — Remotion, React, TypeScript and SVG. Branch 1 source; Branch 2 planned.",
    "stars": 0,
    "forks": 0,
-   "language": "JavaScript",
+   "language": "TypeScript",
    "license": "MIT",
    "created": "2026-10-23",
    "pushed": "2026-10-23",
@@ -5495,16 +5547,12 @@
    "homepage": null,
    "bilibili": [],
    "youtube": [],
-   "models": [
-    "Codex"
-   ],
-   "maker": "ai",
+   "models": [],
+   "maker": "unknown",
    "form": "web",
-   "preview": "https://raw.githubusercontent.com/YouBaoWW/NancyLu-world-execute-pv/main/docs/images/cover.png",
-   "og": "https://opengraph.githubassets.com/1/YouBaoWW/NancyLu-world-execute-pv",
-   "families": [
-    "GPT / Codex"
-   ]
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/qihanqihan-gif/world-execute-me-mv",
+   "families": []
   }
  ]
 }
