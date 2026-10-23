@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-23T17:06:37Z",
- "count": 218,
+ "generated": "2026-10-23T21:24:53Z",
+ "count": 219,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 643,
+   "stars": 644,
    "forks": 60,
    "language": "Python",
    "license": "MIT",
@@ -65,8 +65,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 412,
-   "forks": 34,
+   "stars": 414,
+   "forks": 35,
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-10-06",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 349,
+   "stars": 350,
    "forks": 30,
    "language": "Python",
    "license": null,
@@ -5552,6 +5552,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/qihanqihan-gif/world-execute-me-mv",
+   "families": []
+  },
+  {
+   "repo": "xunfe/mv-renderer",
+   "name": "mv-renderer",
+   "owner": "xunfe",
+   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
+   "url": "https://github.com/xunfe/mv-renderer",
+   "description": "MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0。",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-10-23",
+   "pushed": "2026-10-23",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/xunfe/mv-renderer/main/web/covers/math.jpg",
+   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
    "families": []
   }
  ]
