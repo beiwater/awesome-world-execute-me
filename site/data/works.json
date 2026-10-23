@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-23T04:47:50Z",
- "count": 215,
+ "generated": "2026-10-23T11:37:29Z",
+ "count": 216,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1607,
+   "stars": 1608,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 638,
+   "stars": 641,
    "forks": 60,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 401,
+   "stars": 406,
    "forks": 34,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 346,
+   "stars": 347,
    "forks": 30,
    "language": "Python",
    "license": null,
@@ -599,36 +599,6 @@
    "families": []
   },
   {
-   "repo": "lwmxiaobei/dsh-plugins",
-   "name": "dsh-plugins",
-   "owner": "lwmxiaobei",
-   "avatar": "https://avatars.githubusercontent.com/u/16284775?v=4",
-   "url": "https://github.com/lwmxiaobei/dsh-plugins",
-   "description": "DeepSeek Harness 社区插件目录，自动汇总并基础校验 GitHub 插件，支持搜索、筛选、双语详情与最新版本安装命令复制。Community directory for DeepSeek Harness plugins with automated discovery, basic validation, search, filters, bilingual details, and latest version install commands.",
-   "stars": 5,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "MIT",
-   "created": "2026-08-13",
-   "pushed": "2026-10-22",
-   "demo": null,
-   "homepage": "https://dsh-plugins.org",
-   "bilibili": [
-    "BV1JAbC6wEWW"
-   ],
-   "youtube": [],
-   "models": [
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/lwmxiaobei/dsh-plugins",
-   "families": [
-    "GPT / Codex"
-   ]
-  },
-  {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "name": "DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "owner": "Sy2RK",
@@ -868,6 +838,30 @@
    "families": []
   },
   {
+   "repo": "Lavandis/archworld.execute",
+   "name": "archworld.execute",
+   "owner": "Lavandis",
+   "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
+   "url": "https://github.com/Lavandis/archworld.execute",
+   "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
+   "stars": 3,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-18",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
+   "families": []
+  },
+  {
    "repo": "chaxiteamat/word-execute-me",
    "name": "word-execute-me",
    "owner": "chaxiteamat",
@@ -1020,30 +1014,6 @@
    "families": [
     "DeepSeek"
    ]
-  },
-  {
-   "repo": "Lavandis/archworld.execute",
-   "name": "archworld.execute",
-   "owner": "Lavandis",
-   "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
-   "url": "https://github.com/Lavandis/archworld.execute",
-   "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
-   "stars": 2,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-18",
-   "pushed": "2026-10-18",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
-   "families": []
   },
   {
    "repo": "zhengxiaoyao0716/world.execute",
@@ -1309,7 +1279,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-22",
+   "pushed": "2026-10-23",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1791,7 +1761,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-10-08",
-   "pushed": "2026-10-15",
+   "pushed": "2026-10-23",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -4271,7 +4241,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-22",
+   "pushed": "2026-10-23",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -5461,6 +5431,30 @@
    "families": []
   },
   {
+   "repo": "Mentha-Azure/kine-video",
+   "name": "kine-video",
+   "owner": "Mentha-Azure",
+   "avatar": "https://avatars.githubusercontent.com/u/324333138?v=4",
+   "url": "https://github.com/Mentha-Azure/kine-video",
+   "description": "Kine - deterministic, AI-native video editing/compositing engine",
+   "stars": 0,
+   "forks": 0,
+   "language": "TypeScript",
+   "license": "MIT",
+   "created": "2026-10-23",
+   "pushed": "2026-10-23",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Mentha-Azure/kine-video/master/docs/media/hero-world-execute-me.gif",
+   "og": "https://opengraph.githubassets.com/1/Mentha-Azure/kine-video",
+   "families": []
+  },
+  {
    "repo": "MinString/world.execute-me-terminal-mv",
    "name": "world.execute-me-terminal-mv",
    "owner": "MinString",
@@ -5483,6 +5477,34 @@
    "preview": "https://raw.githubusercontent.com/MinString/world.execute-me-terminal-mv/main/doc/preview.gif",
    "og": "https://opengraph.githubassets.com/1/MinString/world.execute-me-terminal-mv",
    "families": []
+  },
+  {
+   "repo": "YouBaoWW/NancyLu-world-execute-pv",
+   "name": "NancyLu-world-execute-pv",
+   "owner": "YouBaoWW",
+   "avatar": "https://avatars.githubusercontent.com/u/333712909?v=4",
+   "url": "https://github.com/YouBaoWW/NancyLu-world-execute-pv",
+   "description": "NancyLu fan PV for world.execute(me); — deterministic Canvas/WebGL2 rendering, lyric conversations, camera motion, character assets and complete creation prompts.",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-23",
+   "pushed": "2026-10-23",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Codex"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/YouBaoWW/NancyLu-world-execute-pv/main/docs/images/cover.png",
+   "og": "https://opengraph.githubassets.com/1/YouBaoWW/NancyLu-world-execute-pv",
+   "families": [
+    "GPT / Codex"
+   ]
   }
  ]
 }
