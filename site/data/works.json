@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-24T10:57:44Z",
- "count": 220,
+ "generated": "2026-10-24T15:57:24Z",
+ "count": 222,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1610,
+   "stars": 1615,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 651,
+   "stars": 653,
    "forks": 60,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 418,
+   "stars": 424,
    "forks": 35,
    "language": "JavaScript",
    "license": "MIT",
@@ -343,6 +343,36 @@
    ]
   },
   {
+   "repo": "lvy010/world-execute-me-kimi",
+   "name": "world-execute-me-kimi",
+   "owner": "lvy010",
+   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
+   "url": "https://github.com/lvy010/world-execute-me-kimi",
+   "description": "",
+   "stars": 20,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-08",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1A6HC6HEij"
+   ],
+   "youtube": [],
+   "models": [
+    "Kimi"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
+   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "families": [
+    "Kimi"
+   ]
+  },
+  {
    "repo": "bilixxb/world-execute-me-ascii-rust",
    "name": "world-execute-me-ascii-rust",
    "owner": "bilixxb",
@@ -365,36 +395,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/bilixxb/world-execute-me-ascii-rust",
    "families": []
-  },
-  {
-   "repo": "lvy010/world-execute-me-kimi",
-   "name": "world-execute-me-kimi",
-   "owner": "lvy010",
-   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
-   "url": "https://github.com/lvy010/world-execute-me-kimi",
-   "description": "",
-   "stars": 19,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-04",
-   "pushed": "2026-10-08",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1A6HC6HEij"
-   ],
-   "youtube": [],
-   "models": [
-    "Kimi"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
-   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
-   "families": [
-    "Kimi"
-   ]
   },
   {
    "repo": "xiaoming6680/xm-video-engine",
@@ -718,7 +718,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-23",
+   "pushed": "2026-10-24",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1038,6 +1038,32 @@
    "families": [
     "DeepSeek"
    ]
+  },
+  {
+   "repo": "KeithTMaxwell/dsh-skin-deepsea-tui",
+   "name": "dsh-skin-deepsea-tui",
+   "owner": "KeithTMaxwell",
+   "avatar": "https://avatars.githubusercontent.com/u/24669432?v=4",
+   "url": "https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui",
+   "description": "深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验。",
+   "stars": 2,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-16",
+   "pushed": "2026-10-19",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xCai6aE9g"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
+   "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
+   "families": []
   },
   {
    "repo": "YouBaoWW/NancyLu-world-execute-pv",
@@ -1934,32 +1960,6 @@
    "form": "video",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/yuki-kongbai/AI-creation",
-   "families": []
-  },
-  {
-   "repo": "KeithTMaxwell/dsh-skin-deepsea-tui",
-   "name": "dsh-skin-deepsea-tui",
-   "owner": "KeithTMaxwell",
-   "avatar": "https://avatars.githubusercontent.com/u/24669432?v=4",
-   "url": "https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui",
-   "description": "深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验。",
-   "stars": 1,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-16",
-   "pushed": "2026-10-19",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1xCai6aE9g"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
-   "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
    "families": []
   },
   {
@@ -5601,6 +5601,62 @@
    "preview": "https://raw.githubusercontent.com/xunfe/mv-renderer/main/web/covers/math.jpg",
    "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
    "families": []
+  },
+  {
+   "repo": "qwaszxopklnmso/world-execute-me-zcode-pv",
+   "name": "world-execute-me-zcode-pv",
+   "owner": "qwaszxopklnmso",
+   "avatar": "https://avatars.githubusercontent.com/u/159403261?v=4",
+   "url": "https://github.com/qwaszxopklnmso/world-execute-me-zcode-pv",
+   "description": "GLM眼中的世界 | World.execute(me); --mili",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-24",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "GLM"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/qwaszxopklnmso/world-execute-me-zcode-pv",
+   "families": [
+    "GLM"
+   ]
+  },
+  {
+   "repo": "qwaszxopklnmso/world-execute-me-zcode-pv-t",
+   "name": "world-execute-me-zcode-pv-t",
+   "owner": "qwaszxopklnmso",
+   "avatar": "https://avatars.githubusercontent.com/u/159403261?v=4",
+   "url": "https://github.com/qwaszxopklnmso/world-execute-me-zcode-pv-t",
+   "description": "在终端，GLM眼中的世界 | World.execute(me); --mili",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-24",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "GLM"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/qwaszxopklnmso/world-execute-me-zcode-pv-t/main/docs/preview.png",
+   "og": "https://opengraph.githubassets.com/1/qwaszxopklnmso/world-execute-me-zcode-pv-t",
+   "families": [
+    "GLM"
+   ]
   }
  ]
 }
