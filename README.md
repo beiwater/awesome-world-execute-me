@@ -60,11 +60,11 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 <!-- works:start -->
 ### 网页 Web
 
-- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1607；AI 模型：未注明.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 414；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1609；AI 模型：未注明.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 416；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 265.
-- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 43.
-- [xiaoming6680/xm-video-engine](https://github.com/xiaoming6680/xm-video-engine) - 代码生成 MV 的渲染引擎 \| 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！. ★ 17；AI 模型：未注明.
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 44.
+- [xiaoming6680/xm-video-engine](https://github.com/xiaoming6680/xm-video-engine) - 代码生成 MV 的渲染引擎 \| 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！. ★ 18；AI 模型：未注明.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
 - [Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-](https://github.com/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-) - 网页形式的二创作品. ★ 5；AI 模型：DeepSeek V4 Flash.
 - [seasnakes/world.execute-me-wallpaper](https://github.com/seasnakes/world.execute-me-wallpaper) - B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码. ★ 5；AI 模型：Claude Opus 5.5；[B站](https://www.bilibili.com/video/BV1RHhU63ESq).
@@ -135,14 +135,14 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [alpha34727/world\_execute\_me\_web](https://github.com/alpha34727/world_execute_me_web) - 网页形式的二创作品. ★ 0；AI 模型：Claude Opus 5.5；[在线 demo](https://alpha34727.github.io/world_execute_me_web/).
 - [cxmzkla/world-execute-me-web](https://github.com/cxmzkla/world-execute-me-web) - World.execute(me); — 终端工作台 MV 一支 3 分 32 秒、全部由代码实时生成的动画 MV。 左边是人类看到的那一层（一个 AI 聊天窗口），右边是她自己的那一层 —— 她内部的机器。 Three.js r160 · 原生 ESM，零构建 · 212 s / 60 fps · WebGL 后处理 + Canvas 2D. ★ 0；AI 模型：未注明；[在线 demo](https://cxmzkla.github.io/world-execute-me-web/)；[B站](https://www.bilibili.com/video/BV18bnN6nEAh).
 - [HuJK/world-execute-me-mv](https://github.com/HuJK/world-execute-me-mv) - 网页形式的二创作品. ★ 0；AI 模型：Claude, GPT.
+- [2719126468-ship-it/world-execute-me-chatgpt-mv](https://github.com/2719126468-ship-it/world-execute-me-chatgpt-mv) - 网页形式的二创作品. ★ 0.
 - [H086677/world-execute](https://github.com/H086677/world-execute) - 网页形式的二创作品. ★ 0；[在线 demo](https://h086677.github.io/world-execute/).
-- [Mentha-Azure/kine-video](https://github.com/Mentha-Azure/kine-video) - Kine - deterministic, AI-native video editing/compositing engine. ★ 0；AI 模型：未注明.
 - [qihanqihan-gif/world-execute-me-mv](https://github.com/qihanqihan-gif/world-execute-me-mv) - Code-driven music video studies for world.execute(me); — Remotion, React, TypeScript and SVG. Branch 1 source; Branch 2 planned. ★ 0.
 - [xunfe/mv-renderer](https://github.com/xunfe/mv-renderer) - MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0. ★ 0.
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 350.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 352.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 123；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 19.
 - [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 19；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
@@ -201,6 +201,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [curealb/Tonkatsu.-me-](https://github.com/curealb/Tonkatsu.-me-) - 终端形式的二创作品. ★ 0.
 - [LouisLu010/world-execute-me-pv](https://github.com/LouisLu010/world-execute-me-pv) - Code-rendered TUI music PV — GPT / Codex history, continuous chat animation, native 4K60. ★ 0；AI 模型：GPT, Codex.
 - [KONOK-A/World.execute-me-ascii-mv](https://github.com/KONOK-A/World.execute-me-ascii-mv) - 终端形式的二创作品. ★ 0.
+- [Mentha-Azure/kine-video](https://github.com/Mentha-Azure/kine-video) - Kine（/kaɪn/）· 为 AI 智能体设计的确定性视频剪辑/合成引擎：第 N 帧 = f(N)。TypeScript monorepo（8 包）+ Edge CDP 逐帧抓帧 + ffmpeg 分片编码 + Python 侧车。能力：32 个 CLI/MCP 工具，读事实→改 DSL→量结果→验证出片；声明式 timeline.yaml 单一真源；逐帧确定性渲染、字节级复现；8 类指标 + 断言集 + 基线回归；34 个 widget；15 种转场；离线 SFX；字幕；浅色模式。已出片 world.execute(me) MV（25 幕 / 121.9s）等. ★ 0；AI 模型：未注明.
 - [MinString/world.execute-me-terminal-mv](https://github.com/MinString/world.execute-me-terminal-mv) - 世界执行我，世界处决我。借助AI制作的终端动画. ★ 0；AI 模型：未注明.
 
 ### 代码渲染视频 PV Video
