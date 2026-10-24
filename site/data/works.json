@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-24T15:57:24Z",
- "count": 222,
+ "generated": "2026-10-24T20:47:49Z",
+ "count": 223,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1615,
+   "stars": 1617,
    "forks": 119,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 653,
+   "stars": 654,
    "forks": 60,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 424,
+   "stars": 426,
    "forks": 35,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 354,
+   "stars": 355,
    "forks": 30,
    "language": "Python",
    "license": null,
@@ -408,7 +408,7 @@
    "language": "TypeScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-10-23",
+   "pushed": "2026-10-24",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -886,6 +886,32 @@
    "families": []
   },
   {
+   "repo": "KeithTMaxwell/dsh-skin-deepsea-tui",
+   "name": "dsh-skin-deepsea-tui",
+   "owner": "KeithTMaxwell",
+   "avatar": "https://avatars.githubusercontent.com/u/24669432?v=4",
+   "url": "https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui",
+   "description": "深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验。",
+   "stars": 3,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-16",
+   "pushed": "2026-10-19",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xCai6aE9g"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
+   "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
+   "families": []
+  },
+  {
    "repo": "chaxiteamat/word-execute-me",
    "name": "word-execute-me",
    "owner": "chaxiteamat",
@@ -1038,32 +1064,6 @@
    "families": [
     "DeepSeek"
    ]
-  },
-  {
-   "repo": "KeithTMaxwell/dsh-skin-deepsea-tui",
-   "name": "dsh-skin-deepsea-tui",
-   "owner": "KeithTMaxwell",
-   "avatar": "https://avatars.githubusercontent.com/u/24669432?v=4",
-   "url": "https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui",
-   "description": "深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验。",
-   "stars": 2,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-16",
-   "pushed": "2026-10-19",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1xCai6aE9g"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
-   "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
-   "families": []
   },
   {
    "repo": "YouBaoWW/NancyLu-world-execute-pv",
@@ -5437,9 +5437,11 @@
    "created": "2026-10-22",
    "pushed": "2026-10-24",
    "demo": null,
-   "homepage": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
    "bilibili": [],
-   "youtube": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
    "models": [
     "Claude",
     "GPT"
@@ -5590,7 +5592,7 @@
    "language": "JavaScript",
    "license": "AGPL-3.0",
    "created": "2026-10-23",
-   "pushed": "2026-10-23",
+   "pushed": "2026-10-24",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5657,6 +5659,30 @@
    "families": [
     "GLM"
    ]
+  },
+  {
+   "repo": "xunfe/mv-renderer-dsh",
+   "name": "mv-renderer-dsh",
+   "owner": "xunfe",
+   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
+   "url": "https://github.com/xunfe/mv-renderer-dsh",
+   "description": "MV渲染器 DSH 插件：内置默认 MV，其余合集从 Cloudflare R2 按需下载；提供源码/画面工具",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-10-24",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer-dsh",
+   "families": []
   }
  ]
 }
