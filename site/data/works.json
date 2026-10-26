@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T12:59:15Z",
+ "generated": "2026-10-26T22:40:50Z",
  "count": 226,
  "works": [
   {
@@ -9,12 +9,12 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1643,
+   "stars": 1645,
    "forks": 123,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
-   "pushed": "2026-10-20",
+   "pushed": "2026-10-26",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -33,8 +33,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 665,
-   "forks": 61,
+   "stars": 664,
+   "forks": 62,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 448,
+   "stars": 450,
    "forks": 36,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 361,
+   "stars": 363,
    "forks": 31,
    "language": "Python",
    "license": null,
@@ -742,7 +742,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-25",
+   "pushed": "2026-10-26",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -808,6 +808,38 @@
    "preview": "https://raw.githubusercontent.com/miaoyouchacha/xaihi-terminal-mv/main/previews/124.0.png",
    "og": "https://opengraph.githubassets.com/1/miaoyouchacha/xaihi-terminal-mv",
    "families": []
+  },
+  {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 4,
+   "forks": 1,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
   },
   {
    "repo": "tomokaitoh/world.execute_me",
@@ -897,7 +929,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-16",
-   "pushed": "2026-10-19",
+   "pushed": "2026-10-26",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -910,38 +942,6 @@
    "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
    "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
    "families": []
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 3,
-   "forks": 0,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
-   ]
   },
   {
    "repo": "chaxiteamat/word-execute-me",
@@ -4860,32 +4860,6 @@
    ]
   },
   {
-   "repo": "MoYoez/world.execute.me",
-   "name": "world.execute.me",
-   "owner": "MoYoez",
-   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
-   "url": "https://github.com/MoYoez/world.execute.me",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-10-11",
-   "pushed": "2026-10-12",
-   "demo": "https://moyoez.github.io/world.execute.me/",
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [
-    "ESx_hy1n7HA"
-   ],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/MoYoez/world.execute.me/main/docs/preview.png",
-   "og": "https://opengraph.githubassets.com/1/MoYoez/world.execute.me",
-   "families": []
-  },
-  {
    "repo": "gzwz21/gpt_mv",
    "name": "gpt_mv",
    "owner": "gzwz21",
@@ -5117,7 +5091,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-15",
-   "pushed": "2026-10-24",
+   "pushed": "2026-10-26",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5756,6 +5730,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/deveworld/world-execute-me-video",
+   "families": []
+  },
+  {
+   "repo": "startrick-code/seed-ascii-mv",
+   "name": "seed-ascii-mv",
+   "owner": "startrick-code",
+   "avatar": "https://avatars.githubusercontent.com/u/340166795?v=4",
+   "url": "https://github.com/startrick-code/seed-ascii-mv",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "license": "NOASSERTION",
+   "created": "2026-10-26",
+   "pushed": "2026-10-26",
+   "demo": "https://startrick-code.github.io/seed-ascii-mv/",
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/startrick-code/seed-ascii-mv",
    "families": []
   }
  ]
