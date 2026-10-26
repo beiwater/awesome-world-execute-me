@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T04:45:29Z",
+ "generated": "2026-10-26T12:59:15Z",
  "count": 226,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1637,
+   "stars": 1643,
    "forks": 123,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 664,
+   "stars": 665,
    "forks": 61,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 442,
+   "stars": 448,
    "forks": 36,
    "language": "JavaScript",
    "license": "MIT",
@@ -120,7 +120,7 @@
    "url": "https://github.com/UM7lab/world.execute.me.html",
    "description": "Song world.execute (me) ; Presented in HTML",
    "stars": 265,
-   "forks": 52,
+   "forks": 51,
    "language": "HTML",
    "license": "MIT",
    "created": "2025-07-25",
@@ -143,7 +143,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/8733829?v=4",
    "url": "https://github.com/syuchan1005/Mili-song-source-codes",
    "description": "",
-   "stars": 173,
+   "stars": 174,
    "forks": 18,
    "language": "Java",
    "license": null,
@@ -1415,7 +1415,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-25",
+   "pushed": "2026-10-26",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4373,7 +4373,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-25",
+   "pushed": "2026-10-26",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -4382,8 +4382,8 @@
     "BV1RKNAePEKD"
    ],
    "youtube": [
-    "ESx_hy1n7HA",
-    "q89Eze8hYSE"
+    "q89Eze8hYSE",
+    "ESx_hy1n7HA"
    ],
    "models": [
     "DeepSeek V4.1 Flash",
@@ -5744,7 +5744,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-10-25",
-   "pushed": "2026-10-25",
+   "pushed": "2026-10-26",
    "demo": "https://deveworld.github.io/world-execute-me-video/",
    "homepage": null,
    "bilibili": [],
