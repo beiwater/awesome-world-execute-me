@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-25T20:50:35Z",
- "count": 227,
+ "generated": "2026-10-26T04:45:29Z",
+ "count": 226,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1635,
+   "stars": 1637,
    "forks": 123,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 662,
+   "stars": 664,
    "forks": 61,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 440,
+   "stars": 442,
    "forks": 36,
    "language": "JavaScript",
    "license": "MIT",
@@ -288,30 +288,6 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/DeflatedPickle/GodDrinksJava",
-   "families": []
-  },
-  {
-   "repo": "CrackerCat/feed",
-   "name": "feed",
-   "owner": "CrackerCat",
-   "avatar": "https://avatars.githubusercontent.com/u/17995064?v=4",
-   "url": "https://github.com/CrackerCat/feed",
-   "description": "",
-   "stars": 31,
-   "forks": 5,
-   "language": "Python",
-   "license": null,
-   "created": "2025-09-20",
-   "pushed": "2026-10-25",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
    "families": []
   },
   {
@@ -762,7 +738,7 @@
    "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
    "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
    "stars": 4,
-   "forks": 0,
+   "forks": 1,
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
@@ -934,6 +910,38 @@
    "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
    "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
    "families": []
+  },
+  {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 3,
+   "forks": 0,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
   },
   {
    "repo": "chaxiteamat/word-execute-me",
@@ -2091,38 +2099,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/Ryan9438/world-execution-agent",
    "families": []
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 1,
-   "forks": 0,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
-   ]
   },
   {
    "repo": "Mentha-Azure/kine-video",
@@ -5081,7 +5057,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-10-14",
-   "pushed": "2026-10-25",
+   "pushed": "2026-10-26",
    "demo": null,
    "homepage": "https://vibecruiser.com",
    "bilibili": [],
