@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-28T05:40:44Z",
- "count": 229,
+ "generated": "2026-10-28T12:52:24Z",
+ "count": 230,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1655,
+   "stars": 1659,
    "forks": 125,
    "language": "HTML",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 458,
+   "stars": 460,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -402,8 +402,8 @@
    "owner": "xiaoming6680",
    "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
    "url": "https://github.com/xiaoming6680/xm-video-engine",
-   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！",
-   "stars": 18,
+   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
+   "stars": 19,
    "forks": 0,
    "language": "TypeScript",
    "license": "NOASSERTION",
@@ -413,12 +413,16 @@
    "homepage": null,
    "bilibili": [],
    "youtube": [],
-   "models": [],
+   "models": [
+    "Claude"
+   ],
    "maker": "ai",
    "form": "web",
    "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
    "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
-   "families": []
+   "families": [
+    "Claude"
+   ]
   },
   {
    "repo": "LeonspaceX/world-execute-me",
@@ -599,6 +603,38 @@
    "families": []
   },
   {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 8,
+   "forks": 2,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
+  },
+  {
    "repo": "ProbiusOfficial/world.execute.me",
    "name": "world.execute.me",
    "owner": "ProbiusOfficial",
@@ -726,38 +762,6 @@
    "og": "https://opengraph.githubassets.com/1/seasnakes/world.execute-me-wallpaper",
    "families": [
     "Claude"
-   ]
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 5,
-   "forks": 1,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
    ]
   },
   {
@@ -1176,6 +1180,30 @@
    ]
   },
   {
+   "repo": "xunfe/mv-renderer",
+   "name": "mv-renderer",
+   "owner": "xunfe",
+   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
+   "url": "https://github.com/xunfe/mv-renderer",
+   "description": "MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0。",
+   "stars": 2,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-10-23",
+   "pushed": "2026-10-25",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
+   "families": []
+  },
+  {
    "repo": "zhengxiaoyao0716/world.execute",
    "name": "world.execute",
    "owner": "zhengxiaoyao0716",
@@ -1439,7 +1467,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-27",
+   "pushed": "2026-10-28",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -2125,6 +2153,30 @@
    "families": []
   },
   {
+   "repo": "Tests4gptplay/ai-gijinka-art-world",
+   "name": "ai-gijinka-art-world",
+   "owner": "Tests4gptplay",
+   "avatar": "https://avatars.githubusercontent.com/u/18232618?v=4",
+   "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world",
+   "description": "AI 娘二创视觉设定与世界观资料库（研究工作区）",
+   "stars": 1,
+   "forks": 0,
+   "language": null,
+   "license": "NOASSERTION",
+   "created": "2026-10-18",
+   "pushed": "2026-10-27",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Tests4gptplay/ai-gijinka-art-world",
+   "families": []
+  },
+  {
    "repo": "Mentha-Azure/kine-video",
    "name": "kine-video",
    "owner": "Mentha-Azure",
@@ -2146,30 +2198,6 @@
    "form": "terminal",
    "preview": "https://raw.githubusercontent.com/Mentha-Azure/kine-video/master/docs/media/hero-world-execute-me.gif",
    "og": "https://opengraph.githubassets.com/1/Mentha-Azure/kine-video",
-   "families": []
-  },
-  {
-   "repo": "xunfe/mv-renderer",
-   "name": "mv-renderer",
-   "owner": "xunfe",
-   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
-   "url": "https://github.com/xunfe/mv-renderer",
-   "description": "MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0。",
-   "stars": 1,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "AGPL-3.0",
-   "created": "2026-10-23",
-   "pushed": "2026-10-25",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
    "families": []
   },
   {
@@ -4421,7 +4449,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-27",
+   "pushed": "2026-10-28",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -5350,30 +5378,6 @@
    ]
   },
   {
-   "repo": "Tests4gptplay/ai-gijinka-art-world",
-   "name": "ai-gijinka-art-world",
-   "owner": "Tests4gptplay",
-   "avatar": "https://avatars.githubusercontent.com/u/18232618?v=4",
-   "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world",
-   "description": "AI 娘二创视觉设定与世界观资料库（研究工作区）",
-   "stars": 0,
-   "forks": 0,
-   "language": null,
-   "license": "NOASSERTION",
-   "created": "2026-10-18",
-   "pushed": "2026-10-27",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/Tests4gptplay/ai-gijinka-art-world",
-   "families": []
-  },
-  {
    "repo": "Vladimir15963/vivy_subsystem_lajit",
    "name": "vivy_subsystem_lajit",
    "owner": "Vladimir15963",
@@ -5664,7 +5668,7 @@
    "language": "Python",
    "license": "MIT",
    "created": "2026-10-24",
-   "pushed": "2026-10-25",
+   "pushed": "2026-10-28",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5824,6 +5828,30 @@
    "form": "web",
    "preview": "https://raw.githubusercontent.com/ArtificialAngels/world-execute-me-matrix/main/media/hero-sheet.png",
    "og": "https://opengraph.githubassets.com/1/ArtificialAngels/world-execute-me-matrix",
+   "families": []
+  },
+  {
+   "repo": "Jimesarrice/ni-shuo-zhongwen-le",
+   "name": "ni-shuo-zhongwen-le",
+   "owner": "Jimesarrice",
+   "avatar": "https://avatars.githubusercontent.com/u/38239619?v=4",
+   "url": "https://github.com/Jimesarrice/ni-shuo-zhongwen-le",
+   "description": "《你说中文了》— 语言边境审批小游戏。单文件 HTML，含汉字即拒绝；像素立绘与三首音乐关卡（节拍对齐判定）。",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2026-10-28",
+   "pushed": "2026-10-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Jimesarrice/ni-shuo-zhongwen-le",
    "families": []
   }
  ]
