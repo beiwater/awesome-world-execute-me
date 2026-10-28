@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T12:52:24Z",
+ "generated": "2026-10-28T22:35:00Z",
  "count": 230,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1659,
+   "stars": 1662,
    "forks": 125,
    "language": "HTML",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 460,
+   "stars": 464,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,8 +95,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 366,
-   "forks": 31,
+   "stars": 367,
+   "forks": 32,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
@@ -408,7 +408,7 @@
    "language": "TypeScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-10-24",
+   "pushed": "2026-10-28",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -501,6 +501,38 @@
    "preview": "https://raw.githubusercontent.com/Cryolitia/artworks/main/biocard/BioCard_v0.3.png",
    "og": "https://opengraph.githubassets.com/1/Cryolitia/artworks",
    "families": []
+  },
+  {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 10,
+   "forks": 2,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
   },
   {
    "repo": "Sy2RK/DeepSeek-V4-1-Flash-world.execute-me-",
@@ -601,38 +633,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/sanaedesuyo/world-execute-me",
    "families": []
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 8,
-   "forks": 2,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
-   ]
   },
   {
    "repo": "ProbiusOfficial/world.execute.me",
@@ -802,7 +802,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-27",
+   "pushed": "2026-10-28",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -2164,7 +2164,7 @@
    "language": null,
    "license": "NOASSERTION",
    "created": "2026-10-18",
-   "pushed": "2026-10-27",
+   "pushed": "2026-10-28",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5794,7 +5794,7 @@
    "language": "HTML",
    "license": "NOASSERTION",
    "created": "2026-10-26",
-   "pushed": "2026-10-27",
+   "pushed": "2026-10-28",
    "demo": "https://startrick-code.github.io/seed-ascii-mv/",
    "homepage": null,
    "bilibili": [],
