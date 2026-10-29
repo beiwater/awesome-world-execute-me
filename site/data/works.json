@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-29T12:59:24Z",
- "count": 230,
+ "generated": "2026-10-29T22:46:05Z",
+ "count": 232,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1668,
+   "stars": 1670,
    "forks": 126,
    "language": "HTML",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 469,
+   "stars": 471,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -425,6 +425,38 @@
    "families": []
   },
   {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 17,
+   "forks": 4,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
+  },
+  {
    "repo": "LeonspaceX/world-execute-me",
    "name": "world-execute-me",
    "owner": "LeonspaceX",
@@ -475,38 +507,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/OyogurtO/GodDrinksJava",
    "families": []
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 13,
-   "forks": 3,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
-   ]
   },
   {
    "repo": "Cryolitia/artworks",
@@ -778,7 +778,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-28",
+   "pushed": "2026-10-29",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -948,6 +948,30 @@
    "families": []
   },
   {
+   "repo": "xunfe/mv-renderer",
+   "name": "mv-renderer",
+   "owner": "xunfe",
+   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
+   "url": "https://github.com/xunfe/mv-renderer",
+   "description": "MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0。",
+   "stars": 3,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-10-23",
+   "pushed": "2026-10-25",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
+   "families": []
+  },
+  {
    "repo": "ruziniuuuuu/awesome-hajimi",
    "name": "awesome-hajimi",
    "owner": "ruziniuuuuu",
@@ -1021,6 +1045,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/1914018426/world.execute-me",
+   "families": []
+  },
+  {
+   "repo": "ITyaolin/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "ITyaolin",
+   "avatar": "https://avatars.githubusercontent.com/u/140808798?v=4",
+   "url": "https://github.com/ITyaolin/world-execute-me-mv",
+   "description": "Terminal ASCII-art music video for Mili world.execute (me); — one C program, 49 scenes, no video files.",
+   "stars": 2,
+   "forks": 0,
+   "language": "C",
+   "license": null,
+   "created": "2026-09-28",
+   "pushed": "2026-09-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/ITyaolin/world-execute-me-mv",
    "families": []
   },
   {
@@ -1210,30 +1258,6 @@
    "families": [
     "GPT / Codex"
    ]
-  },
-  {
-   "repo": "xunfe/mv-renderer",
-   "name": "mv-renderer",
-   "owner": "xunfe",
-   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
-   "url": "https://github.com/xunfe/mv-renderer",
-   "description": "MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0。",
-   "stars": 2,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "AGPL-3.0",
-   "created": "2026-10-23",
-   "pushed": "2026-10-25",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
-   "families": []
   },
   {
    "repo": "zhengxiaoyao0716/world.execute",
@@ -1635,30 +1659,6 @@
    "form": "web",
    "preview": "https://raw.githubusercontent.com/bilixuesheng/world-execute-me/claude/world-execute-me-mv-r22gbz/docs/storyboard.jpg",
    "og": "https://opengraph.githubassets.com/1/bilixuesheng/world-execute-me",
-   "families": []
-  },
-  {
-   "repo": "ITyaolin/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "ITyaolin",
-   "avatar": "https://avatars.githubusercontent.com/u/140808798?v=4",
-   "url": "https://github.com/ITyaolin/world-execute-me-mv",
-   "description": "Terminal ASCII-art music video for Mili world.execute (me); — one C program, 49 scenes, no video files.",
-   "stars": 1,
-   "forks": 0,
-   "language": "C",
-   "license": null,
-   "created": "2026-09-28",
-   "pushed": "2026-09-28",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/ITyaolin/world-execute-me-mv",
    "families": []
   },
   {
@@ -5787,6 +5787,30 @@
    "families": []
   },
   {
+   "repo": "llz121517/WorldExecuteMe",
+   "name": "WorldExecuteMe",
+   "owner": "llz121517",
+   "avatar": "https://avatars.githubusercontent.com/u/273588291?v=4",
+   "url": "https://github.com/llz121517/WorldExecuteMe",
+   "description": "world.execute(me); as a live UEFI performance - Wem.efi draws the show on GOP and prints the lyrics in sync with audio DMA position",
+   "stars": 0,
+   "forks": 0,
+   "language": "C",
+   "license": null,
+   "created": "2026-10-25",
+   "pushed": "2026-10-29",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/llz121517/WorldExecuteMe",
+   "families": []
+  },
+  {
    "repo": "startrick-code/seed-ascii-mv",
    "name": "seed-ascii-mv",
    "owner": "startrick-code",
@@ -5857,6 +5881,37 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/Jimesarrice/ni-shuo-zhongwen-le",
    "families": []
+  },
+  {
+   "repo": "qianlantut/world-execute-me-interactive-mv",
+   "name": "world-execute-me-interactive-mv",
+   "owner": "qianlantut",
+   "avatar": "https://avatars.githubusercontent.com/u/103415114?v=4",
+   "url": "https://github.com/qianlantut/world-execute-me-interactive-mv",
+   "description": "Mili《world.execute(me);》可交互 HTML MV · Astra / GPT 娘 · 离线游玩 · Canvas & WebGL",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-29",
+   "pushed": "2026-10-29",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1ds411e7df",
+    "BV1tE9XBbErS"
+   ],
+   "youtube": [],
+   "models": [
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/qianlantut/world-execute-me-interactive-mv/main/docs/cover.png",
+   "og": "https://opengraph.githubassets.com/1/qianlantut/world-execute-me-interactive-mv",
+   "families": [
+    "GPT / Codex"
+   ]
   }
  ]
 }
