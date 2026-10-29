@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-28T22:35:00Z",
- "count": 230,
+ "generated": "2026-10-29T05:46:58Z",
+ "count": 229,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1662,
+   "stars": 1661,
    "forks": 125,
    "language": "HTML",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 464,
+   "stars": 466,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -373,6 +373,34 @@
    ]
   },
   {
+   "repo": "xiaoming6680/xm-video-engine",
+   "name": "xm-video-engine",
+   "owner": "xiaoming6680",
+   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
+   "url": "https://github.com/xiaoming6680/xm-video-engine",
+   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
+   "stars": 20,
+   "forks": 0,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-03",
+   "pushed": "2026-10-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
+   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "bilixxb/world-execute-me-ascii-rust",
    "name": "world-execute-me-ascii-rust",
    "owner": "bilixxb",
@@ -395,34 +423,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/bilixxb/world-execute-me-ascii-rust",
    "families": []
-  },
-  {
-   "repo": "xiaoming6680/xm-video-engine",
-   "name": "xm-video-engine",
-   "owner": "xiaoming6680",
-   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
-   "url": "https://github.com/xiaoming6680/xm-video-engine",
-   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
-   "stars": 19,
-   "forks": 0,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-03",
-   "pushed": "2026-10-28",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
-   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "LeonspaceX/world-execute-me",
@@ -477,6 +477,38 @@
    "families": []
   },
   {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 12,
+   "forks": 2,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
+  },
+  {
    "repo": "Cryolitia/artworks",
    "name": "artworks",
    "owner": "Cryolitia",
@@ -501,38 +533,6 @@
    "preview": "https://raw.githubusercontent.com/Cryolitia/artworks/main/biocard/BioCard_v0.3.png",
    "og": "https://opengraph.githubassets.com/1/Cryolitia/artworks",
    "families": []
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 10,
-   "forks": 2,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
-   ]
   },
   {
    "repo": "Sy2RK/DeepSeek-V4-1-Flash-world.execute-me-",
@@ -680,30 +680,6 @@
    "form": "terminal",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
-   "families": []
-  },
-  {
-   "repo": "MoYoez/MoYoez",
-   "name": "MoYoez",
-   "owner": "MoYoez",
-   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
-   "url": "https://github.com/MoYoez/MoYoez",
-   "description": "",
-   "stars": 6,
-   "forks": 0,
-   "language": "HTML",
-   "license": null,
-   "created": "2021-12-13",
-   "pushed": "2026-10-28",
-   "demo": "mo-yoez.vercel.app",
-   "homepage": "mo-yoez.vercel.app",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "human",
-   "form": "web",
-   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
-   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
    "families": []
   },
   {
@@ -1124,6 +1100,34 @@
    "families": [
     "DeepSeek"
    ]
+  },
+  {
+   "repo": "DAGAZ05/world.execute-me-nwpu",
+   "name": "world.execute-me-nwpu",
+   "owner": "DAGAZ05",
+   "avatar": "https://avatars.githubusercontent.com/u/65437827?v=4",
+   "url": "https://github.com/DAGAZ05/world.execute-me-nwpu",
+   "description": "",
+   "stars": 2,
+   "forks": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created": "2026-10-08",
+   "pushed": "2026-10-23",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1oxam6kEVh",
+    "BV1xCai6aE9g",
+    "BV1SgaY64EG5"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/DAGAZ05/world.execute-me-nwpu/main/preview/01-school-opening.png",
+   "og": "https://opengraph.githubassets.com/1/DAGAZ05/world.execute-me-nwpu",
+   "families": []
   },
   {
    "repo": "yuki-kongbai/AI-creation",
@@ -1969,34 +1973,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/waseda20/world-execute-galaxy-demo",
-   "families": []
-  },
-  {
-   "repo": "DAGAZ05/world.execute-me-nwpu",
-   "name": "world.execute-me-nwpu",
-   "owner": "DAGAZ05",
-   "avatar": "https://avatars.githubusercontent.com/u/65437827?v=4",
-   "url": "https://github.com/DAGAZ05/world.execute-me-nwpu",
-   "description": "",
-   "stars": 1,
-   "forks": 0,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "created": "2026-10-08",
-   "pushed": "2026-10-23",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1oxam6kEVh",
-    "BV1xCai6aE9g",
-    "BV1SgaY64EG5"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/DAGAZ05/world.execute-me-nwpu/main/preview/01-school-opening.png",
-   "og": "https://opengraph.githubassets.com/1/DAGAZ05/world.execute-me-nwpu",
    "families": []
   },
   {
@@ -5107,7 +5083,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-10-14",
-   "pushed": "2026-10-28",
+   "pushed": "2026-10-29",
    "demo": null,
    "homepage": "https://vibecruiser.com",
    "bilibili": [],
