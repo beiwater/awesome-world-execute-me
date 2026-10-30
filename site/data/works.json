@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-29T22:46:05Z",
- "count": 232,
+ "generated": "2026-10-30T05:46:35Z",
+ "count": 233,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1670,
+   "stars": 1672,
    "forks": 126,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 669,
+   "stars": 670,
    "forks": 62,
    "language": "Python",
    "license": "MIT",
@@ -3560,7 +3560,7 @@
    "language": "HTML",
    "license": null,
    "created": "2026-08-22",
-   "pushed": "2026-10-24",
+   "pushed": "2026-10-30",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5111,7 +5111,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-10-14",
-   "pushed": "2026-10-29",
+   "pushed": "2026-10-30",
    "demo": null,
    "homepage": "https://vibecruiser.com",
    "bilibili": [],
@@ -5912,6 +5912,30 @@
    "families": [
     "GPT / Codex"
    ]
+  },
+  {
+   "repo": "grapeblowbubble/world.execute-me-",
+   "name": "world.execute-me-",
+   "owner": "grapeblowbubble",
+   "avatar": "https://avatars.githubusercontent.com/u/322076601?v=4",
+   "url": "https://github.com/grapeblowbubble/world.execute-me-",
+   "description": "PV",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2026-10-30",
+   "pushed": "2026-10-30",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/grapeblowbubble/world.execute-me-",
+   "families": []
   }
  ]
 }
