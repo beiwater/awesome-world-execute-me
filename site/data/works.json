@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-30T05:46:35Z",
- "count": 233,
+ "generated": "2026-10-30T12:52:41Z",
+ "count": 232,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1672,
-   "forks": 126,
+   "stars": 1677,
+   "forks": 127,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 670,
+   "stars": 672,
    "forks": 62,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 471,
+   "stars": 475,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -120,7 +120,7 @@
    "url": "https://github.com/UM7lab/world.execute.me.html",
    "description": "Song world.execute (me) ; Presented in HTML",
    "stars": 265,
-   "forks": 51,
+   "forks": 52,
    "language": "HTML",
    "license": "MIT",
    "created": "2025-07-25",
@@ -222,7 +222,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 50,
+   "stars": 51,
    "forks": 7,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -288,6 +288,30 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/DeflatedPickle/GodDrinksJava",
+   "families": []
+  },
+  {
+   "repo": "CrackerCat/feed",
+   "name": "feed",
+   "owner": "CrackerCat",
+   "avatar": "https://avatars.githubusercontent.com/u/17995064?v=4",
+   "url": "https://github.com/CrackerCat/feed",
+   "description": "",
+   "stars": 32,
+   "forks": 5,
+   "language": "Python",
+   "license": null,
+   "created": "2025-09-20",
+   "pushed": "2026-10-30",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
    "families": []
   },
   {
@@ -431,8 +455,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 17,
-   "forks": 4,
+   "stars": 19,
+   "forks": 5,
    "language": "TypeScript",
    "license": null,
    "created": "2026-10-22",
@@ -972,34 +996,6 @@
    "families": []
   },
   {
-   "repo": "ruziniuuuuu/awesome-hajimi",
-   "name": "awesome-hajimi",
-   "owner": "ruziniuuuuu",
-   "avatar": "https://avatars.githubusercontent.com/u/54934297?v=4",
-   "url": "https://github.com/ruziniuuuuu/awesome-hajimi",
-   "description": "A collection of hajimi (哈基米 in Chinese) on the Internet.",
-   "stars": 2,
-   "forks": 0,
-   "language": "Python",
-   "license": null,
-   "created": "2025-07-04",
-   "pushed": "2026-10-29",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1X8so6LEJH",
-    "BV176sZ6tE9H",
-    "BV176sZ6tE11"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "code",
-   "preview": "https://raw.githubusercontent.com/ruziniuuuuu/awesome-hajimi/main/assets/covers/BV1X8so6LEJH.jpg",
-   "og": "https://opengraph.githubassets.com/1/ruziniuuuuu/awesome-hajimi",
-   "families": []
-  },
-  {
    "repo": "chaxiteamat/word-execute-me",
    "name": "word-execute-me",
    "owner": "chaxiteamat",
@@ -1148,6 +1144,40 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/CENSEDAXIS20025/AI-Music-MV-Remake",
    "families": []
+  },
+  {
+   "repo": "f0909172434/world-execute-me-claude-code",
+   "name": "world-execute-me-claude-code",
+   "owner": "f0909172434",
+   "avatar": "https://avatars.githubusercontent.com/u/290806361?v=4",
+   "url": "https://github.com/f0909172434/world-execute-me-claude-code",
+   "description": "world.execute(me); as a Claude Code session, played live in your terminal — an unofficial fan PV (pure Node, no dependencies)",
+   "stars": 2,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-03",
+   "pushed": "2026-10-03",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xFHi6vEBq",
+    "BV1oxam6kEVh"
+   ],
+   "youtube": [
+    "iEsGiRECytY"
+   ],
+   "models": [
+    "Claude Opus 5.5",
+    "Claude Sonnet 5.5"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/f0909172434/world-execute-me-claude-code/main/docs/preview.png",
+   "og": "https://opengraph.githubassets.com/1/f0909172434/world-execute-me-claude-code",
+   "families": [
+    "Claude"
+   ]
   },
   {
    "repo": "ZioyeaMu/world.execute-me",
@@ -1523,7 +1553,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-29",
+   "pushed": "2026-10-30",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1721,7 +1751,7 @@
    "language": "TypeScript",
    "license": null,
    "created": "2026-09-29",
-   "pushed": "2026-10-18",
+   "pushed": "2026-10-30",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1729,7 +1759,7 @@
    "models": [],
    "maker": "ai",
    "form": "web",
-   "preview": null,
+   "preview": "https://raw.githubusercontent.com/maxlen727/world.execute-me/ascii-terminal-mv/docs/stills/f26.jpg",
    "og": "https://opengraph.githubassets.com/1/maxlen727/world.execute-me",
    "families": []
   },
@@ -1815,40 +1845,6 @@
    "preview": "https://raw.githubusercontent.com/eryuemu/ai-passport-world-execute-me/main/docs/images/cover_hd.png",
    "og": "https://opengraph.githubassets.com/1/eryuemu/ai-passport-world-execute-me",
    "families": []
-  },
-  {
-   "repo": "f0909172434/world-execute-me-claude-code",
-   "name": "world-execute-me-claude-code",
-   "owner": "f0909172434",
-   "avatar": "https://avatars.githubusercontent.com/u/290806361?v=4",
-   "url": "https://github.com/f0909172434/world-execute-me-claude-code",
-   "description": "world.execute(me); as a Claude Code session, played live in your terminal — an unofficial fan PV (pure Node, no dependencies)",
-   "stars": 1,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-03",
-   "pushed": "2026-10-03",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1xFHi6vEBq",
-    "BV1oxam6kEVh"
-   ],
-   "youtube": [
-    "iEsGiRECytY"
-   ],
-   "models": [
-    "Claude Opus 5.5",
-    "Claude Sonnet 5.5"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/f0909172434/world-execute-me-claude-code/main/docs/preview.png",
-   "og": "https://opengraph.githubassets.com/1/f0909172434/world-execute-me-claude-code",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "MIMISAMA156/world-execute-ascii-crt",
@@ -4453,7 +4449,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-29",
+   "pushed": "2026-10-30",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -5784,30 +5780,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/deveworld/world-execute-me-video",
-   "families": []
-  },
-  {
-   "repo": "llz121517/WorldExecuteMe",
-   "name": "WorldExecuteMe",
-   "owner": "llz121517",
-   "avatar": "https://avatars.githubusercontent.com/u/273588291?v=4",
-   "url": "https://github.com/llz121517/WorldExecuteMe",
-   "description": "world.execute(me); as a live UEFI performance - Wem.efi draws the show on GOP and prints the lyrics in sync with audio DMA position",
-   "stars": 0,
-   "forks": 0,
-   "language": "C",
-   "license": null,
-   "created": "2026-10-25",
-   "pushed": "2026-10-29",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/llz121517/WorldExecuteMe",
    "families": []
   },
   {
