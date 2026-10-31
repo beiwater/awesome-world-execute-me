@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31T05:38:49Z",
- "count": 232,
+ "generated": "2026-10-31T12:24:48Z",
+ "count": 231,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 479,
+   "stars": 485,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -373,13 +373,41 @@
    ]
   },
   {
+   "repo": "xiaoming6680/xm-video-engine",
+   "name": "xm-video-engine",
+   "owner": "xiaoming6680",
+   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
+   "url": "https://github.com/xiaoming6680/xm-video-engine",
+   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
+   "stars": 22,
+   "forks": 1,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-03",
+   "pushed": "2026-10-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
+   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "HuJK/world-execute-me-mv",
    "name": "world-execute-me-mv",
    "owner": "HuJK",
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 21,
+   "stars": 22,
    "forks": 5,
    "language": "TypeScript",
    "license": null,
@@ -402,34 +430,6 @@
    "families": [
     "Claude",
     "GPT / Codex"
-   ]
-  },
-  {
-   "repo": "xiaoming6680/xm-video-engine",
-   "name": "xm-video-engine",
-   "owner": "xiaoming6680",
-   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
-   "url": "https://github.com/xiaoming6680/xm-video-engine",
-   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
-   "stars": 20,
-   "forks": 0,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-03",
-   "pushed": "2026-10-28",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
-   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
-   "families": [
-    "Claude"
    ]
   },
   {
@@ -1529,7 +1529,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-30",
+   "pushed": "2026-10-31",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -2140,7 +2140,7 @@
    "language": null,
    "license": "NOASSERTION",
    "created": "2026-10-18",
-   "pushed": "2026-10-28",
+   "pushed": "2026-10-31",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -3398,30 +3398,6 @@
    "families": []
   },
   {
-   "repo": "islowlyuuu/islowlyuuu",
-   "name": "islowlyuuu",
-   "owner": "islowlyuuu",
-   "avatar": "https://avatars.githubusercontent.com/u/282787954?v=4",
-   "url": "https://github.com/islowlyuuu/islowlyuuu",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": null,
-   "license": null,
-   "created": "2026-06-24",
-   "pushed": "2026-10-13",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://avatars.githubusercontent.com/u/282787954?v=4",
-   "og": "https://opengraph.githubassets.com/1/islowlyuuu/islowlyuuu",
-   "families": []
-  },
-  {
    "repo": "igugyj/ShiningStars",
    "name": "ShiningStars",
    "owner": "igugyj",
@@ -4425,7 +4401,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-30",
+   "pushed": "2026-10-31",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -5130,11 +5106,11 @@
    ]
   },
   {
-   "repo": "A1haithRui/worldExecuteMeDS",
+   "repo": "Fanrui117/worldExecuteMeDS",
    "name": "worldExecuteMeDS",
-   "owner": "A1haithRui",
+   "owner": "Fanrui117",
    "avatar": "https://avatars.githubusercontent.com/u/73697855?v=4",
-   "url": "https://github.com/A1haithRui/worldExecuteMeDS",
+   "url": "https://github.com/Fanrui117/worldExecuteMeDS",
    "description": "临时仓库",
    "stars": 0,
    "forks": 0,
@@ -5150,7 +5126,7 @@
    "maker": "unknown",
    "form": "web",
    "preview": null,
-   "og": "https://opengraph.githubassets.com/1/A1haithRui/worldExecuteMeDS",
+   "og": "https://opengraph.githubassets.com/1/Fanrui117/worldExecuteMeDS",
    "families": []
   },
   {
