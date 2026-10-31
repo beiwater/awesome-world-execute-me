@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31T12:24:48Z",
- "count": 231,
+ "generated": "2026-10-31T21:32:59Z",
+ "count": 232,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1678,
+   "stars": 1680,
    "forks": 127,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 676,
+   "stars": 679,
    "forks": 62,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 485,
+   "stars": 488,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -222,7 +222,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 51,
+   "stars": 52,
    "forks": 7,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -315,6 +315,38 @@
    "families": []
   },
   {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 26,
+   "forks": 5,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
+  },
+  {
    "repo": "Galen563/world.execute-me",
    "name": "world.execute-me",
    "owner": "Galen563",
@@ -398,38 +430,6 @@
    "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
    "families": [
     "Claude"
-   ]
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 22,
-   "forks": 5,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
    ]
   },
   {
@@ -532,6 +532,30 @@
    "form": "web",
    "preview": "https://raw.githubusercontent.com/Cryolitia/artworks/main/biocard/BioCard_v0.3.png",
    "og": "https://opengraph.githubassets.com/1/Cryolitia/artworks",
+   "families": []
+  },
+  {
+   "repo": "Lavandis/archworld.execute",
+   "name": "archworld.execute",
+   "owner": "Lavandis",
+   "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
+   "url": "https://github.com/Lavandis/archworld.execute",
+   "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
+   "stars": 10,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-18",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
    "families": []
   },
   {
@@ -659,30 +683,6 @@
    "families": []
   },
   {
-   "repo": "Lavandis/archworld.execute",
-   "name": "archworld.execute",
-   "owner": "Lavandis",
-   "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
-   "url": "https://github.com/Lavandis/archworld.execute",
-   "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
-   "stars": 7,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-18",
-   "pushed": "2026-10-18",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
-   "families": []
-  },
-  {
    "repo": "MoYoez/MoYoez",
    "name": "MoYoez",
    "owner": "MoYoez",
@@ -802,7 +802,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-30",
+   "pushed": "2026-10-31",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -957,7 +957,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-16",
-   "pushed": "2026-10-26",
+   "pushed": "2026-10-31",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -1796,6 +1796,30 @@
    "families": []
   },
   {
+   "repo": "KurohaneKaoruko/AI-MusicVideo",
+   "name": "AI-MusicVideo",
+   "owner": "KurohaneKaoruko",
+   "avatar": "https://avatars.githubusercontent.com/u/101451942?v=4",
+   "url": "https://github.com/KurohaneKaoruko/AI-MusicVideo",
+   "description": "一些用AI做的音乐短片",
+   "stars": 1,
+   "forks": 0,
+   "language": "Rust",
+   "license": null,
+   "created": "2026-10-03",
+   "pushed": "2026-10-05",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/KurohaneKaoruko/AI-MusicVideo",
+   "families": []
+  },
+  {
    "repo": "eryuemu/ai-passport-world-execute-me",
    "name": "ai-passport-world-execute-me",
    "owner": "eryuemu",
@@ -1873,6 +1897,45 @@
    "preview": "https://raw.githubusercontent.com/MingHuanYue/world-execute-me-tui/main/docs/preview.png",
    "og": "https://opengraph.githubassets.com/1/MingHuanYue/world-execute-me-tui",
    "families": []
+  },
+  {
+   "repo": "beiwater/awesome-world-execute-me",
+   "name": "awesome-world-execute-me",
+   "owner": "beiwater",
+   "avatar": "https://avatars.githubusercontent.com/u/232562124?v=4",
+   "url": "https://github.com/beiwater/awesome-world-execute-me",
+   "description": "world.execute(gallery); — Mili《world.execute(me);》GitHub 二创作品馆：网页 / 终端 / PV / AI 擂台，自动更新",
+   "stars": 1,
+   "forks": 0,
+   "language": "Python",
+   "license": "CC0-1.0",
+   "created": "2026-10-04",
+   "pushed": "2026-10-31",
+   "demo": "https://beiwater.github.io/awesome-world-execute-me/",
+   "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
+   "bilibili": [
+    "BV1xCai6aE9g",
+    "BV186pc65E68",
+    "BV1RKNAePEKD"
+   ],
+   "youtube": [
+    "q89Eze8hYSE",
+    "ESx_hy1n7HA"
+   ],
+   "models": [
+    "DeepSeek V4.1 Flash",
+    "GPT-6 Astra",
+    "GPT-6",
+    "GPT-6 Ultra"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/beiwater/awesome-world-execute-me/main/docs/preview.png",
+   "og": "https://opengraph.githubassets.com/1/beiwater/awesome-world-execute-me",
+   "families": [
+    "DeepSeek",
+    "GPT / Codex"
+   ]
   },
   {
    "repo": "penyuhao/terminal-opera",
@@ -2198,6 +2261,30 @@
    "form": "web",
    "preview": "https://raw.githubusercontent.com/TQSY114514/world-execute-me-mv/master/docs/preview-01-boot.png",
    "og": "https://opengraph.githubassets.com/1/TQSY114514/world-execute-me-mv",
+   "families": []
+  },
+  {
+   "repo": "swat22544/procedural-pv-skill",
+   "name": "procedural-pv-skill",
+   "owner": "swat22544",
+   "avatar": "https://avatars.githubusercontent.com/u/180035727?v=4",
+   "url": "https://github.com/swat22544/procedural-pv-skill",
+   "description": "程序化音乐 PV 制作 Skill：从四部优秀代码 PV 与本地实践整理镜头、连贯转场、元素叙事、歌词融景与工具选用。给初学者的一根半成品拐杖。",
+   "stars": 1,
+   "forks": 0,
+   "language": null,
+   "license": "MIT",
+   "created": "2026-10-31",
+   "pushed": "2026-10-31",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
+   "preview": "https://img.mengyilong.vip/ew16q3.png",
+   "og": "https://opengraph.githubassets.com/1/swat22544/procedural-pv-skill",
    "families": []
   },
   {
@@ -4310,30 +4397,6 @@
    ]
   },
   {
-   "repo": "KurohaneKaoruko/AI-MusicVideo",
-   "name": "AI-MusicVideo",
-   "owner": "KurohaneKaoruko",
-   "avatar": "https://avatars.githubusercontent.com/u/101451942?v=4",
-   "url": "https://github.com/KurohaneKaoruko/AI-MusicVideo",
-   "description": "一些用AI做的音乐短片",
-   "stars": 0,
-   "forks": 0,
-   "language": "Rust",
-   "license": null,
-   "created": "2026-10-03",
-   "pushed": "2026-10-05",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/KurohaneKaoruko/AI-MusicVideo",
-   "families": []
-  },
-  {
    "repo": "kz521103-new/world.execute-glm-",
    "name": "world.execute-glm-",
    "owner": "kz521103-new",
@@ -4387,45 +4450,6 @@
    "og": "https://opengraph.githubassets.com/1/KaedeharaKazuha1029/world.execute-me-opus5.5-1",
    "families": [
     "Claude"
-   ]
-  },
-  {
-   "repo": "beiwater/awesome-world-execute-me",
-   "name": "awesome-world-execute-me",
-   "owner": "beiwater",
-   "avatar": "https://avatars.githubusercontent.com/u/232562124?v=4",
-   "url": "https://github.com/beiwater/awesome-world-execute-me",
-   "description": "world.execute(gallery); — Mili《world.execute(me);》GitHub 二创作品馆：网页 / 终端 / PV / AI 擂台，自动更新",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "license": "CC0-1.0",
-   "created": "2026-10-04",
-   "pushed": "2026-10-31",
-   "demo": "https://beiwater.github.io/awesome-world-execute-me/",
-   "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
-   "bilibili": [
-    "BV1xCai6aE9g",
-    "BV186pc65E68",
-    "BV1RKNAePEKD"
-   ],
-   "youtube": [
-    "q89Eze8hYSE",
-    "ESx_hy1n7HA"
-   ],
-   "models": [
-    "DeepSeek V4.1 Flash",
-    "GPT-6 Astra",
-    "GPT-6",
-    "GPT-6 Ultra"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/beiwater/awesome-world-execute-me/main/docs/preview.png",
-   "og": "https://opengraph.githubassets.com/1/beiwater/awesome-world-execute-me",
-   "families": [
-    "DeepSeek",
-    "GPT / Codex"
    ]
   },
   {
@@ -5818,7 +5842,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-29",
-   "pushed": "2026-10-29",
+   "pushed": "2026-10-31",
    "demo": null,
    "homepage": null,
    "bilibili": [
