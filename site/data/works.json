@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31T21:32:59Z",
- "count": 232,
+ "generated": "2026-11-01T06:00:44Z",
+ "count": 231,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1680,
+   "stars": 1683,
    "forks": 127,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 679,
+   "stars": 681,
    "forks": 62,
    "language": "Python",
    "license": "MIT",
@@ -321,8 +321,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 26,
-   "forks": 5,
+   "stars": 27,
+   "forks": 6,
    "language": "TypeScript",
    "license": null,
    "created": "2026-10-22",
@@ -375,6 +375,34 @@
    ]
   },
   {
+   "repo": "xiaoming6680/xm-video-engine",
+   "name": "xm-video-engine",
+   "owner": "xiaoming6680",
+   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
+   "url": "https://github.com/xiaoming6680/xm-video-engine",
+   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
+   "stars": 23,
+   "forks": 1,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-03",
+   "pushed": "2026-10-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
+   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "lvy010/world-execute-me-kimi",
    "name": "world-execute-me-kimi",
    "owner": "lvy010",
@@ -402,34 +430,6 @@
    "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
    "families": [
     "Kimi"
-   ]
-  },
-  {
-   "repo": "xiaoming6680/xm-video-engine",
-   "name": "xm-video-engine",
-   "owner": "xiaoming6680",
-   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
-   "url": "https://github.com/xiaoming6680/xm-video-engine",
-   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
-   "stars": 22,
-   "forks": 1,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-03",
-   "pushed": "2026-10-28",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
-   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
-   "families": [
-    "Claude"
    ]
   },
   {
@@ -680,30 +680,6 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/ProbiusOfficial/world.execute.me",
-   "families": []
-  },
-  {
-   "repo": "MoYoez/MoYoez",
-   "name": "MoYoez",
-   "owner": "MoYoez",
-   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
-   "url": "https://github.com/MoYoez/MoYoez",
-   "description": "",
-   "stars": 6,
-   "forks": 0,
-   "language": "HTML",
-   "license": null,
-   "created": "2021-12-13",
-   "pushed": "2026-10-31",
-   "demo": "mo-yoez.vercel.app",
-   "homepage": "mo-yoez.vercel.app",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "human",
-   "form": "web",
-   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
-   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
    "families": []
   },
   {
@@ -3496,7 +3472,7 @@
    "language": null,
    "license": "MIT",
    "created": "2026-07-18",
-   "pushed": "2026-10-25",
+   "pushed": "2026-11-01",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5083,7 +5059,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-10-14",
-   "pushed": "2026-10-31",
+   "pushed": "2026-11-01",
    "demo": null,
    "homepage": "https://vibecruiser.com",
    "bilibili": [],
