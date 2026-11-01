@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T06:00:44Z",
- "count": 231,
+ "generated": "2026-11-01T13:18:57Z",
+ "count": 236,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1683,
+   "stars": 1685,
    "forks": 127,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 681,
+   "stars": 683,
    "forks": 62,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 488,
+   "stars": 490,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -291,6 +291,30 @@
    "families": []
   },
   {
+   "repo": "CrackerCat/feed",
+   "name": "feed",
+   "owner": "CrackerCat",
+   "avatar": "https://avatars.githubusercontent.com/u/17995064?v=4",
+   "url": "https://github.com/CrackerCat/feed",
+   "description": "",
+   "stars": 33,
+   "forks": 6,
+   "language": "Python",
+   "license": null,
+   "created": "2025-09-20",
+   "pushed": "2026-11-01",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
+   "families": []
+  },
+  {
    "repo": "zmrlft/world-execute-me-idea",
    "name": "world-execute-me-idea",
    "owner": "zmrlft",
@@ -321,7 +345,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 27,
+   "stars": 28,
    "forks": 6,
    "language": "TypeScript",
    "license": null,
@@ -1505,7 +1529,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-10-31",
+   "pushed": "2026-11-01",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1886,7 +1910,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-10-31",
+   "pushed": "2026-11-01",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -5883,6 +5907,119 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/grapeblowbubble/world.execute-me-",
+   "families": []
+  },
+  {
+   "repo": "Fy66666-fy/world-execute-me-qwen",
+   "name": "world-execute-me-qwen",
+   "owner": "Fy66666-fy",
+   "avatar": "https://avatars.githubusercontent.com/u/328680036?v=4",
+   "url": "https://github.com/Fy66666-fy/world-execute-me-qwen",
+   "description": "《world.execute (me);》千问版 — an unofficial fan lyric MV re-edited with Qwen (code, prompts, cover, release copy)",
+   "stars": 0,
+   "forks": 0,
+   "language": null,
+   "license": null,
+   "created": "2026-11-01",
+   "pushed": "2026-11-01",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Qwen"
+   ],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Fy66666-fy/world-execute-me-qwen",
+   "families": [
+    "Qwen"
+   ]
+  },
+  {
+   "repo": "NotTheOrange21/world-execute-me-minimax-m3.1-flash",
+   "name": "world-execute-me-minimax-m3.1-flash",
+   "owner": "NotTheOrange21",
+   "avatar": "https://avatars.githubusercontent.com/u/137871983?v=4",
+   "url": "https://github.com/NotTheOrange21/world-execute-me-minimax-m3.1-flash",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "license": "NOASSERTION",
+   "created": "2026-11-01",
+   "pushed": "2026-11-01",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "MiniMax M3.1"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/NotTheOrange21/world-execute-me-minimax-m3.1-flash/main/docs/poster.jpg",
+   "og": "https://opengraph.githubassets.com/1/NotTheOrange21/world-execute-me-minimax-m3.1-flash",
+   "families": [
+    "MiniMax"
+   ]
+  },
+  {
+   "repo": "neuwcodebox/world-execute-me-astra",
+   "name": "world-execute-me-astra",
+   "owner": "neuwcodebox",
+   "avatar": "https://avatars.githubusercontent.com/u/1130686?v=4",
+   "url": "https://github.com/neuwcodebox/world-execute-me-astra",
+   "description": "A fan-made motion graphics MV for Mili's world.execute(me);, created with GPT Astra.",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-11-01",
+   "pushed": "2026-11-01",
+   "demo": null,
+   "homepage": "https://youtu.be/MsAnz2ZeJyU",
+   "bilibili": [],
+   "youtube": [
+    "MsAnz2ZeJyU",
+    "ESx_hy1n7HA"
+   ],
+   "models": [
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/neuwcodebox/world-execute-me-astra/main/docs/preview.jpg",
+   "og": "https://opengraph.githubassets.com/1/neuwcodebox/world-execute-me-astra",
+   "families": [
+    "GPT / Codex"
+   ]
+  },
+  {
+   "repo": "nishidsb/partner-execute-me",
+   "name": "partner-execute-me",
+   "owner": "nishidsb",
+   "avatar": "https://avatars.githubusercontent.com/u/105271324?v=4",
+   "url": "https://github.com/nishidsb/partner-execute-me",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-11-01",
+   "pushed": "2026-11-01",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [
+    "ESx_hhx1N4A"
+   ],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/nishidsb/partner-execute-me",
    "families": []
   }
  ]
