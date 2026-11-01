@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T13:18:57Z",
- "count": 236,
+ "generated": "2026-11-01T22:01:45Z",
+ "count": 237,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1685,
-   "forks": 127,
+   "stars": 1689,
+   "forks": 128,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -34,7 +34,7 @@
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
    "stars": 683,
-   "forks": 62,
+   "forks": 63,
    "language": "Python",
    "license": "MIT",
    "created": "2026-09-29",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 490,
+   "stars": 494,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 370,
+   "stars": 371,
    "forks": 32,
    "language": "Python",
    "license": null,
@@ -119,7 +119,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/172923325?v=4",
    "url": "https://github.com/UM7lab/world.execute.me.html",
    "description": "Song world.execute (me) ; Presented in HTML",
-   "stars": 265,
+   "stars": 264,
    "forks": 52,
    "language": "HTML",
    "license": "MIT",
@@ -307,12 +307,16 @@
    "homepage": null,
    "bilibili": [],
    "youtube": [],
-   "models": [],
-   "maker": "unknown",
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
    "form": "terminal",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/CrackerCat/feed",
-   "families": []
+   "families": [
+    "Claude"
+   ]
   },
   {
    "repo": "zmrlft/world-execute-me-idea",
@@ -345,7 +349,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 28,
+   "stars": 29,
    "forks": 6,
    "language": "TypeScript",
    "license": null,
@@ -802,7 +806,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-10-31",
+   "pushed": "2026-11-01",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -5918,20 +5922,22 @@
    "description": "《world.execute (me);》千问版 — an unofficial fan lyric MV re-edited with Qwen (code, prompts, cover, release copy)",
    "stars": 0,
    "forks": 0,
-   "language": null,
-   "license": null,
+   "language": "JavaScript",
+   "license": "MIT",
    "created": "2026-11-01",
    "pushed": "2026-11-01",
    "demo": null,
    "homepage": null,
-   "bilibili": [],
+   "bilibili": [
+    "BV186pc65E68"
+   ],
    "youtube": [],
    "models": [
     "Qwen"
    ],
    "maker": "ai",
-   "form": "code",
-   "preview": null,
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/Fy66666-fy/world-execute-me-qwen/main/docs/images/cover.jpg",
    "og": "https://opengraph.githubassets.com/1/Fy66666-fy/world-execute-me-qwen",
    "families": [
     "Qwen"
@@ -6020,6 +6026,32 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/nishidsb/partner-execute-me",
+   "families": []
+  },
+  {
+   "repo": "wdswdss/world.execute-me",
+   "name": "world.execute-me",
+   "owner": "wdswdss",
+   "avatar": "https://avatars.githubusercontent.com/u/349915010?v=4",
+   "url": "https://github.com/wdswdss/world.execute-me",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created": "2026-11-01",
+   "pushed": "2026-11-01",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1yJxx61E4U"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/wdswdss/world.execute-me/main/media/cover_16x9.jpg",
+   "og": "https://opengraph.githubassets.com/1/wdswdss/world.execute-me",
    "families": []
   }
  ]
