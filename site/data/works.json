@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T05:59:57Z",
- "count": 236,
+ "generated": "2026-11-02T15:47:10Z",
+ "count": 239,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1691,
+   "stars": 1696,
    "forks": 128,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 684,
+   "stars": 686,
    "forks": 63,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 497,
+   "stars": 499,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -347,6 +347,34 @@
    ]
   },
   {
+   "repo": "xiaoming6680/xm-video-engine",
+   "name": "xm-video-engine",
+   "owner": "xiaoming6680",
+   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
+   "url": "https://github.com/xiaoming6680/xm-video-engine",
+   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
+   "stars": 24,
+   "forks": 1,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-03",
+   "pushed": "2026-10-28",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Claude"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
+   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "Galen563/world.execute-me",
    "name": "world.execute-me",
    "owner": "Galen563",
@@ -372,34 +400,6 @@
    "og": "https://opengraph.githubassets.com/1/Galen563/world.execute-me",
    "families": [
     "DeepSeek"
-   ]
-  },
-  {
-   "repo": "xiaoming6680/xm-video-engine",
-   "name": "xm-video-engine",
-   "owner": "xiaoming6680",
-   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
-   "url": "https://github.com/xiaoming6680/xm-video-engine",
-   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
-   "stars": 23,
-   "forks": 1,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-03",
-   "pushed": "2026-10-28",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Claude"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
-   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
-   "families": [
-    "Claude"
    ]
   },
   {
@@ -802,7 +802,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-11-01",
+   "pushed": "2026-11-02",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1529,7 +1529,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-11-01",
+   "pushed": "2026-11-02",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1910,7 +1910,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-11-01",
+   "pushed": "2026-11-02",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -2203,7 +2203,7 @@
    "language": null,
    "license": "NOASSERTION",
    "created": "2026-10-18",
-   "pushed": "2026-10-31",
+   "pushed": "2026-11-02",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -3682,6 +3682,30 @@
    "families": []
   },
   {
+   "repo": "aliyafarhana/arcarchive",
+   "name": "arcarchive",
+   "owner": "aliyafarhana",
+   "avatar": "https://avatars.githubusercontent.com/u/103151137?v=4",
+   "url": "https://github.com/aliyafarhana/arcarchive",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": null,
+   "license": null,
+   "created": "2026-09-15",
+   "pushed": "2026-09-19",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/aliyafarhana/arcarchive",
+   "families": []
+  },
+  {
    "repo": "AuthourAkson/DeepSeekFlash4.1-World-Exectue-ME",
    "name": "DeepSeekFlash4.1-World-Exectue-ME",
    "owner": "AuthourAkson",
@@ -4292,6 +4316,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/lingcat521/world-execute-me-live",
+   "families": []
+  },
+  {
+   "repo": "stone-beka/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "stone-beka",
+   "avatar": "https://avatars.githubusercontent.com/u/238415393?v=4",
+   "url": "https://github.com/stone-beka/world-execute-me-mv",
+   "description": "world.execute(me); code-driven MV + declarative scene engine (P0)",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-10-02",
+   "pushed": "2026-11-02",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/stone-beka/world-execute-me-mv",
    "families": []
   },
   {
@@ -5174,6 +5222,30 @@
    "families": []
   },
   {
+   "repo": "zaofenMachine/world.execute-Ralmia-",
+   "name": "world.execute-Ralmia-",
+   "owner": "zaofenMachine",
+   "avatar": "https://avatars.githubusercontent.com/u/56382103?v=4",
+   "url": "https://github.com/zaofenMachine/world.execute-Ralmia-",
+   "description": "",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-10-15",
+   "pushed": "2026-10-20",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/zaofenMachine/world.execute-Ralmia-",
+   "families": []
+  },
+  {
    "repo": "chenmoulaile/world-execute-pv-prompts",
    "name": "world-execute-pv-prompts",
    "owner": "chenmoulaile",
@@ -5424,30 +5496,6 @@
    "families": [
     "Claude"
    ]
-  },
-  {
-   "repo": "curealb/Tonkatsu.-me-",
-   "name": "Tonkatsu.-me-",
-   "owner": "curealb",
-   "avatar": "https://avatars.githubusercontent.com/u/107021959?v=4",
-   "url": "https://github.com/curealb/Tonkatsu.-me-",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-20",
-   "pushed": "2026-10-20",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/curealb/Tonkatsu.-me-",
-   "families": []
   },
   {
    "repo": "cxmzkla/world-execute-me-web",
@@ -6018,6 +6066,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/nishidsb/partner-execute-me",
+   "families": []
+  },
+  {
+   "repo": "Mephisto-roxy/world-execute-me-deepseek-whale-mv",
+   "name": "world-execute-me-deepseek-whale-mv",
+   "owner": "Mephisto-roxy",
+   "avatar": "https://avatars.githubusercontent.com/u/325292491?v=4",
+   "url": "https://github.com/Mephisto-roxy/world-execute-me-deepseek-whale-mv",
+   "description": " > Code-rendered fan MV: world.execute(me); × DeepSeek whale-girl (unofficial, non-commercial)",
+   "stars": 0,
+   "forks": 0,
+   "language": null,
+   "license": null,
+   "created": "2026-11-02",
+   "pushed": "2026-11-02",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Mephisto-roxy/world-execute-me-deepseek-whale-mv",
    "families": []
   }
  ]
