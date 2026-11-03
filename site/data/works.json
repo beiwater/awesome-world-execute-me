@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-03T00:59:30Z",
- "count": 239,
+ "generated": "2026-11-03T14:11:35Z",
+ "count": 238,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1700,
+   "stars": 1704,
    "forks": 128,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 686,
+   "stars": 689,
    "forks": 63,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 500,
+   "stars": 502,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -96,7 +96,7 @@
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
    "stars": 371,
-   "forks": 32,
+   "forks": 33,
    "language": "Python",
    "license": null,
    "created": "2026-09-26",
@@ -291,37 +291,13 @@
    "families": []
   },
   {
-   "repo": "zmrlft/world-execute-me-idea",
-   "name": "world-execute-me-idea",
-   "owner": "zmrlft",
-   "avatar": "https://avatars.githubusercontent.com/u/102027539?v=4",
-   "url": "https://github.com/zmrlft/world-execute-me-idea",
-   "description": "",
-   "stars": 30,
-   "forks": 0,
-   "language": "HTML",
-   "license": null,
-   "created": "2025-07-30",
-   "pushed": "2025-07-31",
-   "demo": "https://zmrlft.github.io/world-execute-me-idea/",
-   "homepage": "https://zmrlft.github.io/world-execute-me-idea/",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
-   "families": []
-  },
-  {
    "repo": "HuJK/world-execute-me-mv",
    "name": "world-execute-me-mv",
    "owner": "HuJK",
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 30,
+   "stars": 31,
    "forks": 6,
    "language": "TypeScript",
    "license": null,
@@ -347,13 +323,37 @@
    ]
   },
   {
+   "repo": "zmrlft/world-execute-me-idea",
+   "name": "world-execute-me-idea",
+   "owner": "zmrlft",
+   "avatar": "https://avatars.githubusercontent.com/u/102027539?v=4",
+   "url": "https://github.com/zmrlft/world-execute-me-idea",
+   "description": "",
+   "stars": 30,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2025-07-30",
+   "pushed": "2025-07-31",
+   "demo": "https://zmrlft.github.io/world-execute-me-idea/",
+   "homepage": "https://zmrlft.github.io/world-execute-me-idea/",
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
+   "families": []
+  },
+  {
    "repo": "xiaoming6680/xm-video-engine",
    "name": "xm-video-engine",
    "owner": "xiaoming6680",
    "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
    "url": "https://github.com/xiaoming6680/xm-video-engine",
    "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
-   "stars": 24,
+   "stars": 25,
    "forks": 1,
    "language": "TypeScript",
    "license": "NOASSERTION",
@@ -683,30 +683,6 @@
    "families": []
   },
   {
-   "repo": "MoYoez/MoYoez",
-   "name": "MoYoez",
-   "owner": "MoYoez",
-   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
-   "url": "https://github.com/MoYoez/MoYoez",
-   "description": "",
-   "stars": 6,
-   "forks": 0,
-   "language": "HTML",
-   "license": null,
-   "created": "2021-12-13",
-   "pushed": "2026-11-02",
-   "demo": "mo-yoez.vercel.app",
-   "homepage": "mo-yoez.vercel.app",
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "human",
-   "form": "web",
-   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
-   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
-   "families": []
-  },
-  {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "name": "DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "owner": "Sy2RK",
@@ -732,6 +708,37 @@
    "og": "https://opengraph.githubassets.com/1/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "families": [
     "DeepSeek"
+   ]
+  },
+  {
+   "repo": "coolbat/awesome-opus-5.5-usecase",
+   "name": "awesome-opus-5.5-usecase",
+   "owner": "coolbat",
+   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
+   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
+   "stars": 5,
+   "forks": 1,
+   "language": null,
+   "license": "CC0-1.0",
+   "created": "2026-09-24",
+   "pushed": "2026-11-02",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [
+    "EnmpDgFD3OI",
+    "mGLhVaXlIyg"
+   ],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
+   "families": [
+    "Claude"
    ]
   },
   {
@@ -789,37 +796,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/fangchudark/world-execute-me",
    "families": []
-  },
-  {
-   "repo": "coolbat/awesome-opus-5.5-usecase",
-   "name": "awesome-opus-5.5-usecase",
-   "owner": "coolbat",
-   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
-   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
-   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
-   "stars": 4,
-   "forks": 1,
-   "language": null,
-   "license": "CC0-1.0",
-   "created": "2026-09-24",
-   "pushed": "2026-11-02",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [
-    "EnmpDgFD3OI",
-    "mGLhVaXlIyg"
-   ],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "bywenshu/world-execute-me",
@@ -1529,7 +1505,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-11-02",
+   "pushed": "2026-11-03",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1910,7 +1886,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-11-02",
+   "pushed": "2026-11-03",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -6054,7 +6030,7 @@
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-11-01",
-   "pushed": "2026-11-01",
+   "pushed": "2026-11-03",
    "demo": null,
    "homepage": null,
    "bilibili": [],
