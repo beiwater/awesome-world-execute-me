@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T15:47:10Z",
+ "generated": "2026-11-03T00:59:30Z",
  "count": 239,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1696,
+   "stars": 1700,
    "forks": 128,
    "language": "HTML",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 499,
+   "stars": 500,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -170,7 +170,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/21135812?v=4",
    "url": "https://github.com/daun-io/world.execute.me.py",
    "description": "Python implementation of Mili - world.execute(me)",
-   "stars": 152,
+   "stars": 153,
    "forks": 7,
    "language": "Python",
    "license": null,
@@ -321,7 +321,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 29,
+   "stars": 30,
    "forks": 6,
    "language": "TypeScript",
    "license": null,
