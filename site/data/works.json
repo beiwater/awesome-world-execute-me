@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T23:22:10Z",
+ "generated": "2026-11-04T06:17:15Z",
  "count": 238,
  "works": [
   {
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1705,
-   "forks": 128,
+   "stars": 1711,
+   "forks": 129,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 504,
+   "stars": 506,
    "forks": 37,
    "language": "JavaScript",
    "license": "MIT",
@@ -5183,9 +5183,9 @@
    "stars": 0,
    "forks": 0,
    "language": "TypeScript",
-   "license": null,
+   "license": "NOASSERTION",
    "created": "2026-10-15",
-   "pushed": "2026-10-15",
+   "pushed": "2026-11-04",
    "demo": null,
    "homepage": null,
    "bilibili": [],
