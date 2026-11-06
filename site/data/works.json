@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-05T19:57:40Z",
- "count": 239,
+ "generated": "2026-11-06T06:40:26Z",
+ "count": 240,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1728,
+   "stars": 1731,
    "forks": 131,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 697,
+   "stars": 698,
    "forks": 64,
    "language": "Python",
    "license": "MIT",
@@ -535,6 +535,36 @@
    "families": []
   },
   {
+   "repo": "syydaniel/awesome-code-animation",
+   "name": "awesome-code-animation",
+   "owner": "syydaniel",
+   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
+   "url": "https://github.com/syydaniel/awesome-code-animation",
+   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
+   "stars": 11,
+   "forks": 1,
+   "language": "HTML",
+   "license": "CC0-1.0",
+   "created": "2026-11-03",
+   "pushed": "2026-11-05",
+   "demo": "https://syydaniel.github.io/awesome-code-animation/",
+   "homepage": null,
+   "bilibili": [
+    "BV1DNxU6WEqv"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "Lavandis/archworld.execute",
    "name": "archworld.execute",
    "owner": "Lavandis",
@@ -633,36 +663,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/dingmark1/world_execute_me_win",
    "families": []
-  },
-  {
-   "repo": "syydaniel/awesome-code-animation",
-   "name": "awesome-code-animation",
-   "owner": "syydaniel",
-   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
-   "url": "https://github.com/syydaniel/awesome-code-animation",
-   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 9,
-   "forks": 0,
-   "language": "HTML",
-   "license": "CC0-1.0",
-   "created": "2026-11-03",
-   "pushed": "2026-11-05",
-   "demo": "https://syydaniel.github.io/awesome-code-animation/",
-   "homepage": null,
-   "bilibili": [
-    "BV1DNxU6WEqv"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "sanaedesuyo/world-execute-me",
@@ -5363,7 +5363,7 @@
    "language": "TypeScript",
    "license": "MIT",
    "created": "2026-10-17",
-   "pushed": "2026-11-01",
+   "pushed": "2026-11-06",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -6060,7 +6060,7 @@
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-11-01",
-   "pushed": "2026-11-05",
+   "pushed": "2026-11-06",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -6096,6 +6096,34 @@
    "form": "code",
    "preview": "https://raw.githubusercontent.com/Mephisto-roxy/world-execute-me-deepseek-whale-mv/main/screenshots/cover_16x9.jpg",
    "og": "https://opengraph.githubassets.com/1/Mephisto-roxy/world-execute-me-deepseek-whale-mv",
+   "families": []
+  },
+  {
+   "repo": "Sanit819/KI-MV-Remake-Projekt",
+   "name": "KI-MV-Remake-Projekt",
+   "owner": "Sanit819",
+   "avatar": "https://avatars.githubusercontent.com/u/332951621?v=4",
+   "url": "https://github.com/Sanit819/KI-MV-Remake-Projekt",
+   "description": "Archived ASTRA world.execute(me); MV project: source artwork, Canvas renderer, production notes, and a reproducible v5.2 entry.",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-11-06",
+   "pushed": "2026-11-06",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xCai6aE9g",
+    "BV1Jwhy6BEMJ",
+    "BV1RzHG6SEHy"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Sanit819/KI-MV-Remake-Projekt",
    "families": []
   }
  ]
