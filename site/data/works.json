@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-07T12:58:34Z",
- "count": 240,
+ "generated": "2026-11-07T21:49:49Z",
+ "count": 241,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1739,
+   "stars": 1741,
    "forks": 131,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 701,
+   "stars": 702,
    "forks": 64,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 523,
+   "stars": 524,
    "forks": 38,
    "language": "JavaScript",
    "license": "MIT",
@@ -273,7 +273,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/173586187?v=4",
    "url": "https://github.com/pdog9963/littlecat",
    "description": "DeepSeek全能越狱",
-   "stars": 42,
+   "stars": 43,
    "forks": 7,
    "language": "JavaScript",
    "license": "GPL-3.0",
@@ -403,6 +403,36 @@
    ]
   },
   {
+   "repo": "lvy010/world-execute-me-kimi",
+   "name": "world-execute-me-kimi",
+   "owner": "lvy010",
+   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
+   "url": "https://github.com/lvy010/world-execute-me-kimi",
+   "description": "",
+   "stars": 24,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-04",
+   "pushed": "2026-10-08",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1A6HC6HEij"
+   ],
+   "youtube": [],
+   "models": [
+    "Kimi"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
+   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "families": [
+    "Kimi"
+   ]
+  },
+  {
    "repo": "Galen563/world.execute-me",
    "name": "world.execute-me",
    "owner": "Galen563",
@@ -431,33 +461,33 @@
    ]
   },
   {
-   "repo": "lvy010/world-execute-me-kimi",
-   "name": "world-execute-me-kimi",
-   "owner": "lvy010",
-   "avatar": "https://avatars.githubusercontent.com/u/175585268?v=4",
-   "url": "https://github.com/lvy010/world-execute-me-kimi",
-   "description": "",
-   "stars": 23,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-04",
-   "pushed": "2026-10-08",
-   "demo": null,
+   "repo": "syydaniel/awesome-code-animation",
+   "name": "awesome-code-animation",
+   "owner": "syydaniel",
+   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
+   "url": "https://github.com/syydaniel/awesome-code-animation",
+   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
+   "stars": 20,
+   "forks": 3,
+   "language": "HTML",
+   "license": "CC0-1.0",
+   "created": "2026-11-03",
+   "pushed": "2026-11-05",
+   "demo": "https://syydaniel.github.io/awesome-code-animation/",
    "homepage": null,
    "bilibili": [
-    "BV1A6HC6HEij"
+    "BV1DNxU6WEqv"
    ],
    "youtube": [],
    "models": [
-    "Kimi"
+    "Claude Opus 5.5"
    ],
    "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/lvy010/world-execute-me-kimi/main/data/png/1006.jpg",
-   "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
    "families": [
-    "Kimi"
+    "Claude"
    ]
   },
   {
@@ -483,36 +513,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/bilixxb/world-execute-me-ascii-rust",
    "families": []
-  },
-  {
-   "repo": "syydaniel/awesome-code-animation",
-   "name": "awesome-code-animation",
-   "owner": "syydaniel",
-   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
-   "url": "https://github.com/syydaniel/awesome-code-animation",
-   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 17,
-   "forks": 2,
-   "language": "HTML",
-   "license": "CC0-1.0",
-   "created": "2026-11-03",
-   "pushed": "2026-11-05",
-   "demo": "https://syydaniel.github.io/awesome-code-animation/",
-   "homepage": null,
-   "bilibili": [
-    "BV1DNxU6WEqv"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "LeonspaceX/world-execute-me",
@@ -780,7 +780,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-11-06",
+   "pushed": "2026-11-07",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -798,6 +798,34 @@
    "families": [
     "Claude"
    ]
+  },
+  {
+   "repo": "SelinLee/ai-moe-atlas",
+   "name": "ai-moe-atlas",
+   "owner": "SelinLee",
+   "avatar": "https://avatars.githubusercontent.com/u/8092113?v=4",
+   "url": "https://github.com/SelinLee/ai-moe-atlas",
+   "description": "AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets",
+   "stars": 6,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-09-27",
+   "pushed": "2026-11-07",
+   "demo": "https://selinlee.github.io/ai-moe-atlas/",
+   "homepage": "https://selinlee.github.io/ai-moe-atlas/",
+   "bilibili": [
+    "BV1fYpn6SEk9",
+    "BV1XXHD6sEe7",
+    "BV1LBnb6aERV"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/main/public/generated/ai-models-v5/openai-preview.webp",
+   "og": "https://opengraph.githubassets.com/1/SelinLee/ai-moe-atlas",
+   "families": []
   },
   {
    "repo": "seasnakes/world.execute-me-wallpaper",
@@ -1191,7 +1219,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-10-03",
+   "pushed": "2026-11-07",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -3655,7 +3683,7 @@
    "language": "HTML",
    "license": null,
    "created": "2026-08-22",
-   "pushed": "2026-10-30",
+   "pushed": "2026-11-07",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -3948,11 +3976,11 @@
    "families": []
   },
   {
-   "repo": "SugarNekoE/world.execute",
+   "repo": "asaineko/world.execute",
    "name": "world.execute",
-   "owner": "SugarNekoE",
+   "owner": "asaineko",
    "avatar": "https://avatars.githubusercontent.com/u/25338540?v=4",
-   "url": "https://github.com/SugarNekoE/world.execute",
+   "url": "https://github.com/asaineko/world.execute",
    "description": "Fun terminal art, mirror of the asnk forge project, my own project, just not hosted on GitHub.",
    "stars": 0,
    "forks": 0,
@@ -3968,7 +3996,7 @@
    "maker": "unknown",
    "form": "terminal",
    "preview": null,
-   "og": "https://opengraph.githubassets.com/1/SugarNekoE/world.execute",
+   "og": "https://opengraph.githubassets.com/1/asaineko/world.execute",
    "families": []
   },
   {
