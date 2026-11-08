@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T05:59:11Z",
+ "generated": "2026-11-08T13:22:04Z",
  "count": 245,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1743,
+   "stars": 1745,
    "forks": 131,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 702,
+   "stars": 703,
    "forks": 64,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 525,
+   "stars": 527,
    "forks": 38,
    "language": "JavaScript",
    "license": "MIT",
@@ -295,37 +295,13 @@
    ]
   },
   {
-   "repo": "DeflatedPickle/GodDrinksJava",
-   "name": "GodDrinksJava",
-   "owner": "DeflatedPickle",
-   "avatar": "https://avatars.githubusercontent.com/u/24986480?v=4",
-   "url": "https://github.com/DeflatedPickle/GodDrinksJava",
-   "description": "A somewhat working project of the code found in the \"world.execute(me);\" music video by Mili.",
-   "stars": 40,
-   "forks": 8,
-   "language": "Java",
-   "license": "GPL-3.0",
-   "created": "2018-03-17",
-   "pushed": "2018-03-26",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "human",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/DeflatedPickle/GodDrinksJava",
-   "families": []
-  },
-  {
    "repo": "HuJK/world-execute-me-mv",
    "name": "world-execute-me-mv",
    "owner": "HuJK",
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 38,
+   "stars": 42,
    "forks": 6,
    "language": "TypeScript",
    "license": null,
@@ -349,6 +325,30 @@
     "Claude",
     "GPT / Codex"
    ]
+  },
+  {
+   "repo": "DeflatedPickle/GodDrinksJava",
+   "name": "GodDrinksJava",
+   "owner": "DeflatedPickle",
+   "avatar": "https://avatars.githubusercontent.com/u/24986480?v=4",
+   "url": "https://github.com/DeflatedPickle/GodDrinksJava",
+   "description": "A somewhat working project of the code found in the \"world.execute(me);\" music video by Mili.",
+   "stars": 40,
+   "forks": 8,
+   "language": "Java",
+   "license": "GPL-3.0",
+   "created": "2018-03-17",
+   "pushed": "2018-03-26",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "human",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/DeflatedPickle/GodDrinksJava",
+   "families": []
   },
   {
    "repo": "zmrlft/world-execute-me-idea",
@@ -386,7 +386,7 @@
    "language": "TypeScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-11-06",
+   "pushed": "2026-11-08",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -467,7 +467,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
    "url": "https://github.com/syydaniel/awesome-code-animation",
    "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 20,
+   "stars": 23,
    "forks": 3,
    "language": "HTML",
    "license": "CC0-1.0",
@@ -741,6 +741,34 @@
    "families": []
   },
   {
+   "repo": "SelinLee/ai-moe-atlas",
+   "name": "ai-moe-atlas",
+   "owner": "SelinLee",
+   "avatar": "https://avatars.githubusercontent.com/u/8092113?v=4",
+   "url": "https://github.com/SelinLee/ai-moe-atlas",
+   "description": "AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets",
+   "stars": 7,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-09-27",
+   "pushed": "2026-11-07",
+   "demo": "https://selinlee.github.io/ai-moe-atlas/",
+   "homepage": "https://selinlee.github.io/ai-moe-atlas/",
+   "bilibili": [
+    "BV1fYpn6SEk9",
+    "BV1XXHD6sEe7",
+    "BV1LBnb6aERV"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/main/public/generated/ai-models-v5/openai-preview.webp",
+   "og": "https://opengraph.githubassets.com/1/SelinLee/ai-moe-atlas",
+   "families": []
+  },
+  {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "name": "DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
    "owner": "Sy2RK",
@@ -798,34 +826,6 @@
    "families": [
     "Claude"
    ]
-  },
-  {
-   "repo": "SelinLee/ai-moe-atlas",
-   "name": "ai-moe-atlas",
-   "owner": "SelinLee",
-   "avatar": "https://avatars.githubusercontent.com/u/8092113?v=4",
-   "url": "https://github.com/SelinLee/ai-moe-atlas",
-   "description": "AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets",
-   "stars": 6,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-09-27",
-   "pushed": "2026-11-07",
-   "demo": "https://selinlee.github.io/ai-moe-atlas/",
-   "homepage": "https://selinlee.github.io/ai-moe-atlas/",
-   "bilibili": [
-    "BV1fYpn6SEk9",
-    "BV1XXHD6sEe7",
-    "BV1LBnb6aERV"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/main/public/generated/ai-models-v5/openai-preview.webp",
-   "og": "https://opengraph.githubassets.com/1/SelinLee/ai-moe-atlas",
-   "families": []
   },
   {
    "repo": "seasnakes/world.execute-me-wallpaper",
@@ -1208,18 +1208,18 @@
    "families": []
   },
   {
-   "repo": "f0909172434/world-execute-me-claude-code",
+   "repo": "Chih-Kai-Wang/world-execute-me-claude-code",
    "name": "world-execute-me-claude-code",
-   "owner": "f0909172434",
+   "owner": "Chih-Kai-Wang",
    "avatar": "https://avatars.githubusercontent.com/u/290806361?v=4",
-   "url": "https://github.com/f0909172434/world-execute-me-claude-code",
+   "url": "https://github.com/Chih-Kai-Wang/world-execute-me-claude-code",
    "description": "world.execute(me); as a Claude Code session, played live in your terminal — an unofficial fan PV (pure Node, no dependencies)",
    "stars": 2,
    "forks": 0,
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-11-07",
+   "pushed": "2026-11-08",
    "demo": null,
    "homepage": null,
    "bilibili": [
@@ -1229,17 +1229,12 @@
    "youtube": [
     "iEsGiRECytY"
    ],
-   "models": [
-    "Claude Opus 5.5",
-    "Claude Sonnet 5.5"
-   ],
+   "models": [],
    "maker": "ai",
    "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/f0909172434/world-execute-me-claude-code/main/docs/preview.png",
-   "og": "https://opengraph.githubassets.com/1/f0909172434/world-execute-me-claude-code",
-   "families": [
-    "Claude"
-   ]
+   "preview": "https://raw.githubusercontent.com/Chih-Kai-Wang/world-execute-me-claude-code/main/docs/preview.png",
+   "og": "https://opengraph.githubassets.com/1/Chih-Kai-Wang/world-execute-me-claude-code",
+   "families": []
   },
   {
    "repo": "ZioyeaMu/world.execute-me",
@@ -1972,7 +1967,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-11-07",
+   "pushed": "2026-11-08",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -3669,18 +3664,18 @@
    "families": []
   },
   {
-   "repo": "f0909172434/f0909172434",
-   "name": "f0909172434",
-   "owner": "f0909172434",
+   "repo": "Chih-Kai-Wang/Chih-Kai-Wang",
+   "name": "Chih-Kai-Wang",
+   "owner": "Chih-Kai-Wang",
    "avatar": "https://avatars.githubusercontent.com/u/290806361?v=4",
-   "url": "https://github.com/f0909172434/f0909172434",
+   "url": "https://github.com/Chih-Kai-Wang/Chih-Kai-Wang",
    "description": "Python and TypeScript tools for inspectable AI and mathematical research. Engineering and AI research portfolio by Chih-Kai Wang.",
    "stars": 0,
    "forks": 0,
    "language": "Python",
    "license": null,
    "created": "2026-08-02",
-   "pushed": "2026-11-07",
+   "pushed": "2026-11-08",
    "demo": "https://f0909172434.github.io/",
    "homepage": "https://f0909172434.github.io/",
    "bilibili": [],
@@ -3692,7 +3687,7 @@
    "maker": "ai",
    "form": "web",
    "preview": null,
-   "og": "https://opengraph.githubassets.com/1/f0909172434/f0909172434",
+   "og": "https://opengraph.githubassets.com/1/Chih-Kai-Wang/Chih-Kai-Wang",
    "families": []
   },
   {
