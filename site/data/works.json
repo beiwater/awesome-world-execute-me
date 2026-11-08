@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T13:22:04Z",
+ "generated": "2026-11-08T22:03:13Z",
  "count": 245,
  "works": [
   {
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 372,
+   "stars": 373,
    "forks": 34,
    "language": "Python",
    "license": null,
@@ -301,7 +301,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 42,
+   "stars": 43,
    "forks": 6,
    "language": "TypeScript",
    "license": null,
@@ -433,6 +433,36 @@
    ]
   },
   {
+   "repo": "syydaniel/awesome-code-animation",
+   "name": "awesome-code-animation",
+   "owner": "syydaniel",
+   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
+   "url": "https://github.com/syydaniel/awesome-code-animation",
+   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
+   "stars": 24,
+   "forks": 3,
+   "language": "HTML",
+   "license": "CC0-1.0",
+   "created": "2026-11-03",
+   "pushed": "2026-11-05",
+   "demo": "https://syydaniel.github.io/awesome-code-animation/",
+   "homepage": null,
+   "bilibili": [
+    "BV1DNxU6WEqv"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "Galen563/world.execute-me",
    "name": "world.execute-me",
    "owner": "Galen563",
@@ -458,36 +488,6 @@
    "og": "https://opengraph.githubassets.com/1/Galen563/world.execute-me",
    "families": [
     "DeepSeek"
-   ]
-  },
-  {
-   "repo": "syydaniel/awesome-code-animation",
-   "name": "awesome-code-animation",
-   "owner": "syydaniel",
-   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
-   "url": "https://github.com/syydaniel/awesome-code-animation",
-   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 23,
-   "forks": 3,
-   "language": "HTML",
-   "license": "CC0-1.0",
-   "created": "2026-11-03",
-   "pushed": "2026-11-05",
-   "demo": "https://syydaniel.github.io/awesome-code-animation/",
-   "homepage": null,
-   "bilibili": [
-    "BV1DNxU6WEqv"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
-   "families": [
-    "Claude"
    ]
   },
   {
@@ -717,6 +717,34 @@
    "families": []
   },
   {
+   "repo": "SelinLee/ai-moe-atlas",
+   "name": "ai-moe-atlas",
+   "owner": "SelinLee",
+   "avatar": "https://avatars.githubusercontent.com/u/8092113?v=4",
+   "url": "https://github.com/SelinLee/ai-moe-atlas",
+   "description": "AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets",
+   "stars": 8,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-09-27",
+   "pushed": "2026-11-07",
+   "demo": "https://selinlee.github.io/ai-moe-atlas/",
+   "homepage": "https://selinlee.github.io/ai-moe-atlas/",
+   "bilibili": [
+    "BV1fYpn6SEk9",
+    "BV1XXHD6sEe7",
+    "BV1LBnb6aERV"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/main/public/generated/ai-models-v5/openai-preview.webp",
+   "og": "https://opengraph.githubassets.com/1/SelinLee/ai-moe-atlas",
+   "families": []
+  },
+  {
    "repo": "ProbiusOfficial/world.execute.me",
    "name": "world.execute.me",
    "owner": "ProbiusOfficial",
@@ -738,34 +766,6 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/ProbiusOfficial/world.execute.me",
-   "families": []
-  },
-  {
-   "repo": "SelinLee/ai-moe-atlas",
-   "name": "ai-moe-atlas",
-   "owner": "SelinLee",
-   "avatar": "https://avatars.githubusercontent.com/u/8092113?v=4",
-   "url": "https://github.com/SelinLee/ai-moe-atlas",
-   "description": "AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets",
-   "stars": 7,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-09-27",
-   "pushed": "2026-11-07",
-   "demo": "https://selinlee.github.io/ai-moe-atlas/",
-   "homepage": "https://selinlee.github.io/ai-moe-atlas/",
-   "bilibili": [
-    "BV1fYpn6SEk9",
-    "BV1XXHD6sEe7",
-    "BV1LBnb6aERV"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/main/public/generated/ai-models-v5/openai-preview.webp",
-   "og": "https://opengraph.githubassets.com/1/SelinLee/ai-moe-atlas",
    "families": []
   },
   {
@@ -808,7 +808,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-11-07",
+   "pushed": "2026-11-08",
    "demo": null,
    "homepage": null,
    "bilibili": [],
