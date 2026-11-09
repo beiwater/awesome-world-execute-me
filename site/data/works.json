@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T06:22:19Z",
+ "generated": "2026-11-09T22:21:29Z",
  "count": 245,
  "works": [
   {
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1751,
-   "forks": 131,
+   "stars": 1755,
+   "forks": 133,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 527,
+   "stars": 533,
    "forks": 38,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 373,
+   "stars": 375,
    "forks": 34,
    "language": "Python",
    "license": null,
@@ -119,7 +119,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/172923325?v=4",
    "url": "https://github.com/UM7lab/world.execute.me.html",
    "description": "Song world.execute (me) ; Presented in HTML",
-   "stars": 264,
+   "stars": 263,
    "forks": 51,
    "language": "HTML",
    "license": "MIT",
@@ -240,6 +240,38 @@
    "families": []
   },
   {
+   "repo": "HuJK/world-execute-me-mv",
+   "name": "world-execute-me-mv",
+   "owner": "HuJK",
+   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
+   "url": "https://github.com/HuJK/world-execute-me-mv",
+   "description": "",
+   "stars": 45,
+   "forks": 6,
+   "language": "TypeScript",
+   "license": null,
+   "created": "2026-10-22",
+   "pushed": "2026-10-24",
+   "demo": null,
+   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
+   "bilibili": [],
+   "youtube": [
+    "q89Eze8hYSE"
+   ],
+   "models": [
+    "Claude",
+    "GPT"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
+   "families": [
+    "Claude",
+    "GPT / Codex"
+   ]
+  },
+  {
    "repo": "alipbudiman/sustain-and-World.Execute-me-but-in-py3",
    "name": "sustain-and-World.Execute-me-but-in-py3",
    "owner": "alipbudiman",
@@ -274,7 +306,7 @@
    "url": "https://github.com/pdog9963/littlecat",
    "description": "DeepSeek全能越狱",
    "stars": 43,
-   "forks": 7,
+   "forks": 8,
    "language": "JavaScript",
    "license": "GPL-3.0",
    "created": "2026-09-05",
@@ -292,38 +324,6 @@
    "og": "https://opengraph.githubassets.com/1/pdog9963/littlecat",
    "families": [
     "DeepSeek"
-   ]
-  },
-  {
-   "repo": "HuJK/world-execute-me-mv",
-   "name": "world-execute-me-mv",
-   "owner": "HuJK",
-   "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
-   "url": "https://github.com/HuJK/world-execute-me-mv",
-   "description": "",
-   "stars": 43,
-   "forks": 6,
-   "language": "TypeScript",
-   "license": null,
-   "created": "2026-10-22",
-   "pushed": "2026-10-24",
-   "demo": null,
-   "homepage": "https://www.youtube.com/watch?v=q89Eze8hYSE",
-   "bilibili": [],
-   "youtube": [
-    "q89Eze8hYSE"
-   ],
-   "models": [
-    "Claude",
-    "GPT"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/HuJK/world-execute-me-mv",
-   "families": [
-    "Claude",
-    "GPT / Codex"
    ]
   },
   {
@@ -375,6 +375,36 @@
    "families": []
   },
   {
+   "repo": "syydaniel/awesome-code-animation",
+   "name": "awesome-code-animation",
+   "owner": "syydaniel",
+   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
+   "url": "https://github.com/syydaniel/awesome-code-animation",
+   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
+   "stars": 30,
+   "forks": 3,
+   "language": "HTML",
+   "license": "CC0-1.0",
+   "created": "2026-11-03",
+   "pushed": "2026-11-09",
+   "demo": "https://syydaniel.github.io/awesome-code-animation/",
+   "homepage": null,
+   "bilibili": [
+    "BV1DNxU6WEqv"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "xiaoming6680/xm-video-engine",
    "name": "xm-video-engine",
    "owner": "xiaoming6680",
@@ -386,7 +416,7 @@
    "language": "TypeScript",
    "license": "NOASSERTION",
    "created": "2026-10-03",
-   "pushed": "2026-11-08",
+   "pushed": "2026-11-09",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -430,36 +460,6 @@
    "og": "https://opengraph.githubassets.com/1/lvy010/world-execute-me-kimi",
    "families": [
     "Kimi"
-   ]
-  },
-  {
-   "repo": "syydaniel/awesome-code-animation",
-   "name": "awesome-code-animation",
-   "owner": "syydaniel",
-   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
-   "url": "https://github.com/syydaniel/awesome-code-animation",
-   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 24,
-   "forks": 3,
-   "language": "HTML",
-   "license": "CC0-1.0",
-   "created": "2026-11-03",
-   "pushed": "2026-11-05",
-   "demo": "https://syydaniel.github.io/awesome-code-animation/",
-   "homepage": null,
-   "bilibili": [
-    "BV1DNxU6WEqv"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
-   "families": [
-    "Claude"
    ]
   },
   {
@@ -808,7 +808,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-11-08",
+   "pushed": "2026-11-09",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -932,6 +932,32 @@
    "families": []
   },
   {
+   "repo": "KeithTMaxwell/dsh-skin-deepsea-tui",
+   "name": "dsh-skin-deepsea-tui",
+   "owner": "KeithTMaxwell",
+   "avatar": "https://avatars.githubusercontent.com/u/24669432?v=4",
+   "url": "https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui",
+   "description": "深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验。",
+   "stars": 4,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-16",
+   "pushed": "2026-10-31",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xCai6aE9g"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
+   "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
+   "families": []
+  },
+  {
    "repo": "tomokaitoh/world.execute_me",
    "name": "world.execute_me",
    "owner": "tomokaitoh",
@@ -1008,32 +1034,6 @@
    "families": []
   },
   {
-   "repo": "KeithTMaxwell/dsh-skin-deepsea-tui",
-   "name": "dsh-skin-deepsea-tui",
-   "owner": "KeithTMaxwell",
-   "avatar": "https://avatars.githubusercontent.com/u/24669432?v=4",
-   "url": "https://github.com/KeithTMaxwell/dsh-skin-deepsea-tui",
-   "description": "深海终端：DeepSeek Harness Desktop 的终端风格皮肤与大肥鱼陪伴体验。",
-   "stars": 3,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-16",
-   "pushed": "2026-10-31",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1xCai6aE9g"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/KeithTMaxwell/dsh-skin-deepsea-tui/main/docs/screenshots/deepsea-desktop.png",
-   "og": "https://opengraph.githubassets.com/1/KeithTMaxwell/dsh-skin-deepsea-tui",
-   "families": []
-  },
-  {
    "repo": "xunfe/mv-renderer",
    "name": "mv-renderer",
    "owner": "xunfe",
@@ -1103,6 +1103,30 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/1914018426/world.execute-me",
+   "families": []
+  },
+  {
+   "repo": "Harris1121/awesome-deepseek-harness",
+   "name": "awesome-deepseek-harness",
+   "owner": "Harris1121",
+   "avatar": "https://avatars.githubusercontent.com/u/24668322?v=4",
+   "url": "https://github.com/Harris1121/awesome-deepseek-harness",
+   "description": "Find the right DeepSeek Harness tools faster — see what’s popular, rising and worth using.",
+   "stars": 2,
+   "forks": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created": "2026-08-15",
+   "pushed": "2026-11-06",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "code",
+   "preview": "https://opengraph.githubassets.com/1/deepseek-ai/deepseek-harness",
+   "og": "https://opengraph.githubassets.com/1/Harris1121/awesome-deepseek-harness",
    "families": []
   },
   {
@@ -1575,30 +1599,6 @@
    "families": []
   },
   {
-   "repo": "Harris1121/awesome-deepseek-harness",
-   "name": "awesome-deepseek-harness",
-   "owner": "Harris1121",
-   "avatar": "https://avatars.githubusercontent.com/u/24668322?v=4",
-   "url": "https://github.com/Harris1121/awesome-deepseek-harness",
-   "description": "Find the right DeepSeek Harness tools faster — see what’s popular, rising and worth using.",
-   "stars": 1,
-   "forks": 0,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "created": "2026-08-15",
-   "pushed": "2026-11-06",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "code",
-   "preview": "https://opengraph.githubassets.com/1/deepseek-ai/deepseek-harness",
-   "og": "https://opengraph.githubassets.com/1/Harris1121/awesome-deepseek-harness",
-   "families": []
-  },
-  {
    "repo": "CogiToast/World.Execute-me-",
    "name": "World.Execute-me-",
    "owner": "CogiToast",
@@ -1967,7 +1967,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-11-08",
+   "pushed": "2026-11-09",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -3750,7 +3750,7 @@
    "language": "HTML",
    "license": null,
    "created": "2026-08-22",
-   "pushed": "2026-11-07",
+   "pushed": "2026-11-09",
    "demo": null,
    "homepage": null,
    "bilibili": [],
