@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T22:03:13Z",
+ "generated": "2026-11-09T06:22:19Z",
  "count": 245,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1745,
+   "stars": 1751,
    "forks": 131,
    "language": "HTML",
    "license": "MIT",
@@ -599,7 +599,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
    "url": "https://github.com/Lavandis/archworld.execute",
    "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
-   "stars": 10,
+   "stars": 11,
    "forks": 0,
    "language": "Python",
    "license": "MIT",
@@ -728,7 +728,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-09-27",
-   "pushed": "2026-11-07",
+   "pushed": "2026-11-09",
    "demo": "https://selinlee.github.io/ai-moe-atlas/",
    "homepage": "https://selinlee.github.io/ai-moe-atlas/",
    "bilibili": [
@@ -6135,7 +6135,7 @@
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-11-01",
-   "pushed": "2026-11-08",
+   "pushed": "2026-11-09",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -6185,7 +6185,7 @@
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-11-04",
-   "pushed": "2026-11-08",
+   "pushed": "2026-11-09",
    "demo": null,
    "homepage": null,
    "bilibili": [],
