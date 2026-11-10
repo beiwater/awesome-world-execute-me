@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T22:21:29Z",
+ "generated": "2026-11-10T07:16:01Z",
  "count": 245,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1755,
+   "stars": 1756,
    "forks": 133,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 703,
+   "stars": 705,
    "forks": 64,
    "language": "Python",
    "license": "MIT",
@@ -222,7 +222,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 53,
+   "stars": 52,
    "forks": 7,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -246,7 +246,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 45,
+   "stars": 48,
    "forks": 6,
    "language": "TypeScript",
    "license": null,
@@ -269,6 +269,34 @@
    "families": [
     "Claude",
     "GPT / Codex"
+   ]
+  },
+  {
+   "repo": "pdog9963/littlecat",
+   "name": "littlecat",
+   "owner": "pdog9963",
+   "avatar": "https://avatars.githubusercontent.com/u/173586187?v=4",
+   "url": "https://github.com/pdog9963/littlecat",
+   "description": "DeepSeek全能越狱",
+   "stars": 44,
+   "forks": 8,
+   "language": "JavaScript",
+   "license": "GPL-3.0",
+   "created": "2026-09-05",
+   "pushed": "2026-11-07",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "DeepSeek"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/pdog9963/littlecat/main/cat.png/%E7%A4%BA%E4%BE%8B1.png",
+   "og": "https://opengraph.githubassets.com/1/pdog9963/littlecat",
+   "families": [
+    "DeepSeek"
    ]
   },
   {
@@ -299,34 +327,6 @@
    "families": []
   },
   {
-   "repo": "pdog9963/littlecat",
-   "name": "littlecat",
-   "owner": "pdog9963",
-   "avatar": "https://avatars.githubusercontent.com/u/173586187?v=4",
-   "url": "https://github.com/pdog9963/littlecat",
-   "description": "DeepSeek全能越狱",
-   "stars": 43,
-   "forks": 8,
-   "language": "JavaScript",
-   "license": "GPL-3.0",
-   "created": "2026-09-05",
-   "pushed": "2026-11-07",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "DeepSeek"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/pdog9963/littlecat/main/cat.png/%E7%A4%BA%E4%BE%8B1.png",
-   "og": "https://opengraph.githubassets.com/1/pdog9963/littlecat",
-   "families": [
-    "DeepSeek"
-   ]
-  },
-  {
    "repo": "DeflatedPickle/GodDrinksJava",
    "name": "GodDrinksJava",
    "owner": "DeflatedPickle",
@@ -351,6 +351,36 @@
    "families": []
   },
   {
+   "repo": "syydaniel/awesome-code-animation",
+   "name": "awesome-code-animation",
+   "owner": "syydaniel",
+   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
+   "url": "https://github.com/syydaniel/awesome-code-animation",
+   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
+   "stars": 33,
+   "forks": 3,
+   "language": "HTML",
+   "license": "CC0-1.0",
+   "created": "2026-11-03",
+   "pushed": "2026-11-09",
+   "demo": "https://syydaniel.github.io/awesome-code-animation/",
+   "homepage": null,
+   "bilibili": [
+    "BV1DNxU6WEqv"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "zmrlft/world-execute-me-idea",
    "name": "world-execute-me-idea",
    "owner": "zmrlft",
@@ -373,36 +403,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
    "families": []
-  },
-  {
-   "repo": "syydaniel/awesome-code-animation",
-   "name": "awesome-code-animation",
-   "owner": "syydaniel",
-   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
-   "url": "https://github.com/syydaniel/awesome-code-animation",
-   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 30,
-   "forks": 3,
-   "language": "HTML",
-   "license": "CC0-1.0",
-   "created": "2026-11-03",
-   "pushed": "2026-11-09",
-   "demo": "https://syydaniel.github.io/awesome-code-animation/",
-   "homepage": null,
-   "bilibili": [
-    "BV1DNxU6WEqv"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
-   "families": [
-    "Claude"
-   ]
   },
   {
    "repo": "xiaoming6680/xm-video-engine",
