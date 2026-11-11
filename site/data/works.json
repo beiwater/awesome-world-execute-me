@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T19:44:41Z",
+ "generated": "2026-11-11T06:12:07Z",
  "count": 245,
  "works": [
   {
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1759,
-   "forks": 133,
+   "stars": 1760,
+   "forks": 134,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 536,
+   "stars": 537,
    "forks": 38,
    "language": "JavaScript",
    "license": "MIT",
@@ -143,7 +143,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/8733829?v=4",
    "url": "https://github.com/syuchan1005/Mili-song-source-codes",
    "description": "",
-   "stars": 174,
+   "stars": 175,
    "forks": 18,
    "language": "Java",
    "license": null,
@@ -357,8 +357,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
    "url": "https://github.com/syydaniel/awesome-code-animation",
    "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 35,
-   "forks": 3,
+   "stars": 36,
+   "forks": 4,
    "language": "HTML",
    "license": "CC0-1.0",
    "created": "2026-11-03",
@@ -410,7 +410,7 @@
    "owner": "xiaoming6680",
    "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
    "url": "https://github.com/xiaoming6680/xm-video-engine",
-   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！内置claude提示词模板/流程",
+   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！",
    "stars": 26,
    "forks": 1,
    "language": "TypeScript",
@@ -421,16 +421,12 @@
    "homepage": null,
    "bilibili": [],
    "youtube": [],
-   "models": [
-    "Claude"
-   ],
+   "models": [],
    "maker": "ai",
    "form": "web",
    "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
    "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
-   "families": [
-    "Claude"
-   ]
+   "families": []
   },
   {
    "repo": "lvy010/world-execute-me-kimi",
