@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T14:19:30Z",
- "count": 246,
+ "generated": "2026-11-12T15:12:20Z",
+ "count": 244,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1762,
-   "forks": 134,
+   "stars": 1773,
+   "forks": 135,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 704,
+   "stars": 705,
    "forks": 64,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 538,
+   "stars": 542,
    "forks": 39,
    "language": "JavaScript",
    "license": "MIT",
@@ -222,7 +222,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/274984793?v=4",
    "url": "https://github.com/FrostNovaOrg/world-execute-web",
    "description": "The web player for a fully code-generated music video of Mili's \"world.execute (me) ;\": every frame rendered live in your browser",
-   "stars": 52,
+   "stars": 53,
    "forks": 7,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -269,6 +269,36 @@
    "families": [
     "Claude",
     "GPT / Codex"
+   ]
+  },
+  {
+   "repo": "syydaniel/awesome-code-animation",
+   "name": "awesome-code-animation",
+   "owner": "syydaniel",
+   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
+   "url": "https://github.com/syydaniel/awesome-code-animation",
+   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
+   "stars": 45,
+   "forks": 5,
+   "language": "HTML",
+   "license": "CC0-1.0",
+   "created": "2026-11-03",
+   "pushed": "2026-11-09",
+   "demo": "https://syydaniel.github.io/awesome-code-animation/",
+   "homepage": null,
+   "bilibili": [
+    "BV1DNxU6WEqv"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
+   "families": [
+    "Claude"
    ]
   },
   {
@@ -351,36 +381,6 @@
    "families": []
   },
   {
-   "repo": "syydaniel/awesome-code-animation",
-   "name": "awesome-code-animation",
-   "owner": "syydaniel",
-   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
-   "url": "https://github.com/syydaniel/awesome-code-animation",
-   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 37,
-   "forks": 4,
-   "language": "HTML",
-   "license": "CC0-1.0",
-   "created": "2026-11-03",
-   "pushed": "2026-11-09",
-   "demo": "https://syydaniel.github.io/awesome-code-animation/",
-   "homepage": null,
-   "bilibili": [
-    "BV1DNxU6WEqv"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
-   "families": [
-    "Claude"
-   ]
-  },
-  {
    "repo": "zmrlft/world-execute-me-idea",
    "name": "world-execute-me-idea",
    "owner": "zmrlft",
@@ -402,30 +402,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/zmrlft/world-execute-me-idea",
-   "families": []
-  },
-  {
-   "repo": "xiaoming6680/xm-video-engine",
-   "name": "xm-video-engine",
-   "owner": "xiaoming6680",
-   "avatar": "https://avatars.githubusercontent.com/u/124993353?v=4",
-   "url": "https://github.com/xiaoming6680/xm-video-engine",
-   "description": "代码生成 MV 的渲染引擎 | 自动分析歌曲。three.js + Canvas 2D，内置 3D 地形、体素、景深、手绘抽帧等模块！",
-   "stars": 26,
-   "forks": 1,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-03",
-   "pushed": "2026-11-11",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/xiaoming6680/xm-video-engine/main/docs/images/showreel.webp",
-   "og": "https://opengraph.githubassets.com/1/xiaoming6680/xm-video-engine",
    "families": []
   },
   {
@@ -563,6 +539,30 @@
    "families": []
   },
   {
+   "repo": "Lavandis/archworld.execute",
+   "name": "archworld.execute",
+   "owner": "Lavandis",
+   "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
+   "url": "https://github.com/Lavandis/archworld.execute",
+   "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
+   "stars": 12,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-10-18",
+   "pushed": "2026-10-18",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
+   "families": []
+  },
+  {
    "repo": "Cryolitia/artworks",
    "name": "artworks",
    "owner": "Cryolitia",
@@ -586,30 +586,6 @@
    "form": "web",
    "preview": "https://raw.githubusercontent.com/Cryolitia/artworks/main/biocard/BioCard_v0.3.png",
    "og": "https://opengraph.githubassets.com/1/Cryolitia/artworks",
-   "families": []
-  },
-  {
-   "repo": "Lavandis/archworld.execute",
-   "name": "archworld.execute",
-   "owner": "Lavandis",
-   "avatar": "https://avatars.githubusercontent.com/u/174431270?v=4",
-   "url": "https://github.com/Lavandis/archworld.execute",
-   "description": "A Unix → GNU/Linux → Arch character music animation in your terminal, with real tmux and synchronized audio.",
-   "stars": 11,
-   "forks": 0,
-   "language": "Python",
-   "license": "MIT",
-   "created": "2026-10-18",
-   "pushed": "2026-10-18",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "terminal",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/Lavandis/archworld.execute",
    "families": []
   },
   {
@@ -804,7 +780,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-11-11",
+   "pushed": "2026-11-12",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1027,30 +1003,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/blueink66/world-execute-me",
-   "families": []
-  },
-  {
-   "repo": "xunfe/mv-renderer",
-   "name": "mv-renderer",
-   "owner": "xunfe",
-   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
-   "url": "https://github.com/xunfe/mv-renderer",
-   "description": "MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0。",
-   "stars": 3,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "AGPL-3.0",
-   "created": "2026-10-23",
-   "pushed": "2026-10-25",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
    "families": []
   },
   {
@@ -1365,6 +1317,30 @@
    "families": [
     "GPT / Codex"
    ]
+  },
+  {
+   "repo": "xunfe/mv-renderer",
+   "name": "mv-renderer",
+   "owner": "xunfe",
+   "avatar": "https://avatars.githubusercontent.com/u/156742259?v=4",
+   "url": "https://github.com/xunfe/mv-renderer",
+   "description": "MV渲染器 1.0.0：完全离线的代码音乐视频播放器（Android WebView + Windows Electron），内置六部代码 MV。AGPL-3.0。",
+   "stars": 2,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-10-23",
+   "pushed": "2026-10-25",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/xunfe/mv-renderer",
+   "families": []
   },
   {
    "repo": "Algeran-iw/WorldExecute",
@@ -2090,6 +2066,34 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/waseda20/world-execute-galaxy-demo",
    "families": []
+  },
+  {
+   "repo": "Banxia-520/world.execute-me-MV",
+   "name": "world.execute-me-MV",
+   "owner": "Banxia-520",
+   "avatar": "https://avatars.githubusercontent.com/u/154871952?v=4",
+   "url": "https://github.com/Banxia-520/world.execute-me-MV",
+   "description": "【Deepseek v4.1-flash】大肥鱼眼中的world.execute (me)；",
+   "stars": 1,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-11",
+   "pushed": "2026-10-11",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "DeepSeek V4.1 Flash"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Banxia-520/world.execute-me-MV",
+   "families": [
+    "DeepSeek"
+   ]
   },
   {
    "repo": "SOH4C4759/dsh-pv-home",
@@ -5059,34 +5063,6 @@
    "families": []
   },
   {
-   "repo": "Banxia-520/world.execute-me-MV",
-   "name": "world.execute-me-MV",
-   "owner": "Banxia-520",
-   "avatar": "https://avatars.githubusercontent.com/u/154871952?v=4",
-   "url": "https://github.com/Banxia-520/world.execute-me-MV",
-   "description": "【Deepseek v4.1-flash】大肥鱼眼中的world.execute (me)；",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-10-11",
-   "pushed": "2026-10-11",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "DeepSeek V4.1 Flash"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/Banxia-520/world.execute-me-MV",
-   "families": [
-    "DeepSeek"
-   ]
-  },
-  {
    "repo": "gzwz21/gpt_mv",
    "name": "gpt_mv",
    "owner": "gzwz21",
@@ -5904,30 +5880,6 @@
    "families": []
   },
   {
-   "repo": "ArtificialAngels/world-execute-me-matrix",
-   "name": "world-execute-me-matrix",
-   "owner": "ArtificialAngels",
-   "avatar": "https://avatars.githubusercontent.com/u/125657695?v=4",
-   "url": "https://github.com/ArtificialAngels/world-execute-me-matrix",
-   "description": "world.execute(me); - realtime browser MV (tech-blue matrix skin). 100-cue deterministic engine, kinetic lyrics, 10 scene transitions, generated lyric-object plates, build/verify/mp4 export tooling. Code only: song mp3/video not included.",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-10-27",
-   "pushed": "2026-10-27",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/ArtificialAngels/world-execute-me-matrix/main/media/hero-sheet.png",
-   "og": "https://opengraph.githubassets.com/1/ArtificialAngels/world-execute-me-matrix",
-   "families": []
-  },
-  {
    "repo": "Jimesarrice/ni-shuo-zhongwen-le",
    "name": "ni-shuo-zhongwen-le",
    "owner": "Jimesarrice",
@@ -6257,7 +6209,7 @@
    "language": "C",
    "license": null,
    "created": "2026-11-11",
-   "pushed": "2026-11-11",
+   "pushed": "2026-11-12",
    "demo": null,
    "homepage": null,
    "bilibili": [],
