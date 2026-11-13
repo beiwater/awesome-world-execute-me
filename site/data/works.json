@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T23:39:35Z",
- "count": 244,
+ "generated": "2026-11-13T06:42:15Z",
+ "count": 245,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1774,
+   "stars": 1775,
    "forks": 135,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 705,
+   "stars": 704,
    "forks": 64,
    "language": "Python",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 374,
+   "stars": 375,
    "forks": 34,
    "language": "Python",
    "license": null,
@@ -240,6 +240,36 @@
    "families": []
   },
   {
+   "repo": "syydaniel/awesome-code-animation",
+   "name": "awesome-code-animation",
+   "owner": "syydaniel",
+   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
+   "url": "https://github.com/syydaniel/awesome-code-animation",
+   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
+   "stars": 53,
+   "forks": 7,
+   "language": "HTML",
+   "license": "CC0-1.0",
+   "created": "2026-11-03",
+   "pushed": "2026-11-09",
+   "demo": "https://syydaniel.github.io/awesome-code-animation/",
+   "homepage": null,
+   "bilibili": [
+    "BV1DNxU6WEqv"
+   ],
+   "youtube": [],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
+   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "HuJK/world-execute-me-mv",
    "name": "world-execute-me-mv",
    "owner": "HuJK",
@@ -269,36 +299,6 @@
    "families": [
     "Claude",
     "GPT / Codex"
-   ]
-  },
-  {
-   "repo": "syydaniel/awesome-code-animation",
-   "name": "awesome-code-animation",
-   "owner": "syydaniel",
-   "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
-   "url": "https://github.com/syydaniel/awesome-code-animation",
-   "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 47,
-   "forks": 5,
-   "language": "HTML",
-   "license": "CC0-1.0",
-   "created": "2026-11-03",
-   "pushed": "2026-11-09",
-   "demo": "https://syydaniel.github.io/awesome-code-animation/",
-   "homepage": null,
-   "bilibili": [
-    "BV1DNxU6WEqv"
-   ],
-   "youtube": [],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/syydaniel/awesome-code-animation/main/docs/showcase/huafeng-buhe-cover.jpg",
-   "og": "https://opengraph.githubassets.com/1/syydaniel/awesome-code-animation",
-   "families": [
-    "Claude"
    ]
   },
   {
@@ -770,6 +770,30 @@
    "families": [
     "Claude"
    ]
+  },
+  {
+   "repo": "MoYoez/MoYoez",
+   "name": "MoYoez",
+   "owner": "MoYoez",
+   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
+   "url": "https://github.com/MoYoez/MoYoez",
+   "description": "",
+   "stars": 6,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2021-12-13",
+   "pushed": "2026-11-13",
+   "demo": "mo-yoez.vercel.app",
+   "homepage": "mo-yoez.vercel.app",
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "human",
+   "form": "web",
+   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
+   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
+   "families": []
   },
   {
    "repo": "Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-",
