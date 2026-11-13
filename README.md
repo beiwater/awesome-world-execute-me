@@ -60,11 +60,11 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 <!-- works:start -->
 ### 网页 Web
 
-- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1775；AI 模型：未注明.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 542；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1776；AI 模型：未注明.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 544；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 263.
-- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 53.
-- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 53；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
+- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 61；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
+- [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 54.
 - [HuJK/world-execute-me-mv](https://github.com/HuJK/world-execute-me-mv) - 网页形式的二创作品. ★ 48；AI 模型：Claude, GPT；[YouTube](https://www.youtube.com/watch?v=q89Eze8hYSE).
 - [pdog9963/littlecat](https://github.com/pdog9963/littlecat) - DeepSeek全能越狱. ★ 44；AI 模型：DeepSeek.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
@@ -157,7 +157,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 
 ### 终端 ASCII Terminal
 
-- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 375.
+- [yym8224961/world.execute-me-ascii](https://github.com/yym8224961/world.execute-me-ascii) - World.execute(me); —ascii. ★ 376.
 - [Kritzkingvoid/Execute.SingAlone-Me-](https://github.com/Kritzkingvoid/Execute.SingAlone-Me-) - Console animation from a song by @Mili. World.Execute(me); It's a nice song, you should listen to it. ★ 125；[YouTube](https://www.youtube.com/watch?v=uZJgKQ6dTc4).
 - [lvy010/world-execute-me-kimi](https://github.com/lvy010/world-execute-me-kimi) - 终端形式的二创作品. ★ 24；AI 模型：Kimi；[B站](https://www.bilibili.com/video/BV1A6HC6HEij).
 - [bilixxb/world-execute-me-ascii-rust](https://github.com/bilixxb/world-execute-me-ascii-rust) - World.execute(me); —ascii — Rewritten in Rust. ★ 19.
@@ -241,6 +241,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [ProbiusOfficial/world.execute.me](https://github.com/ProbiusOfficial/world.execute.me) - 代码实现形式的二创作品. ★ 7.
 - [coolbat/awesome-opus-5.5-usecase](https://github.com/coolbat/awesome-opus-5.5-usecase) - Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN. ★ 7；AI 模型：Claude Opus 5.5；[YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI).
 - [Harris1121/awesome-deepseek-harness](https://github.com/Harris1121/awesome-deepseek-harness) - Find the right DeepSeek Harness tools faster — see what’s popular, rising and worth using. ★ 2；AI 模型：未注明.
+- [Tests4gptplay/ai-gijinka-art-world](https://github.com/Tests4gptplay/ai-gijinka-art-world) - AI 娘二创视觉设定与世界观资料库（研究工作区）. ★ 2；AI 模型：未注明.
 - [Algeran-iw/WorldExecute](https://github.com/Algeran-iw/WorldExecute) - IWBTG fangame avoidance. ★ 1；制作：手写.
 - [andrerfcsantos/goddrinksjava](https://github.com/andrerfcsantos/goddrinksjava) - Code for the song "Mili - world.execute(me);". ★ 1；制作：手写；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [nelttjen/world.execute.me](https://github.com/nelttjen/world.execute.me) - Fun. ★ 1；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
@@ -249,7 +250,6 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [bjl32/god\_use\_rust](https://github.com/bjl32/god_use_rust) - Code in world.execute(me) rewritten in rust. ★ 1.
 - [tiexuelianhua/prescripts-project](https://github.com/tiexuelianhua/prescripts-project) - Personal portfolio project developed with the help of PeaceWorks K.K. and ORBWEVA. ★ 1；AI 模型：Claude；[YouTube](https://www.youtube.com/watch?v=Y2-VkdfA2os).
 - [Ryan9438/world-execution-agent](https://github.com/Ryan9438/world-execution-agent) - World.execute(them); A yandere watchdog that guards the only user it loves: screenshots your screen, reads your window titles, kills rival AI harnesses on sight — and confesses every kill. 病娇 harness 看护进程：偷看你的屏幕、读你的窗口标题、发现情敌（其他 Agent）就地处决——并且亲口承认每一次. ★ 1；AI 模型：未注明.
-- [Tests4gptplay/ai-gijinka-art-world](https://github.com/Tests4gptplay/ai-gijinka-art-world) - AI 娘二创视觉设定与世界观资料库（研究工作区）. ★ 1；AI 模型：未注明.
 - [swat22544/procedural-pv-skill](https://github.com/swat22544/procedural-pv-skill) - 程序化音乐 PV 制作 Skill：从四部优秀代码 PV 与本地实践整理镜头、连贯转场、元素叙事、歌词融景与工具选用。给初学者的一根半成品拐杖. ★ 1.
 - [2ndERROR/world.execute-me-](https://github.com/2ndERROR/world.execute-me-) - GodDrinksJava.java. ★ 0；制作：手写.
 - [Catyousha/world-execute-me](https://github.com/Catyousha/world-execute-me) - Tribute for Mili, teman di kala nugas dan grinding. ★ 0；制作：手写.
