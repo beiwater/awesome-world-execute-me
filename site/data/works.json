@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T06:24:54Z",
+ "generated": "2026-11-16T22:01:34Z",
  "count": 251,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1790,
+   "stars": 1796,
    "forks": 136,
    "language": "HTML",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 551,
+   "stars": 557,
    "forks": 39,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 378,
+   "stars": 380,
    "forks": 34,
    "language": "Python",
    "license": null,
@@ -222,12 +222,12 @@
    "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
    "url": "https://github.com/syydaniel/awesome-code-animation",
    "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 96,
+   "stars": 101,
    "forks": 9,
    "language": "HTML",
    "license": "CC0-1.0",
    "created": "2026-11-03",
-   "pushed": "2026-11-15",
+   "pushed": "2026-11-16",
    "demo": "https://syydaniel.github.io/awesome-code-animation/",
    "homepage": null,
    "bilibili": [
@@ -595,7 +595,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/206544727?v=4",
    "url": "https://github.com/Sy2RK/DeepSeek-V4-1-Flash-world.execute-me-",
    "description": "AGI",
-   "stars": 9,
+   "stars": 10,
    "forks": 1,
    "language": "JavaScript",
    "license": "NOASSERTION",
@@ -752,7 +752,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-11-15",
+   "pushed": "2026-11-16",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1041,7 +1041,7 @@
    "language": "JavaScript",
    "license": null,
    "created": "2026-11-14",
-   "pushed": "2026-11-15",
+   "pushed": "2026-11-16",
    "demo": "https://xinyi-she.github.io/spectra/",
    "homepage": null,
    "bilibili": [
@@ -2037,7 +2037,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-11-15",
+   "pushed": "2026-11-16",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -2087,6 +2087,36 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/penyuhao/terminal-opera",
    "families": []
+  },
+  {
+   "repo": "Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
+   "name": "Kimi-K3-opus5-World.execute-me-",
+   "owner": "Anontokyo-Mygo",
+   "avatar": "https://avatars.githubusercontent.com/u/231736170?v=4",
+   "url": "https://github.com/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
+   "description": "",
+   "stars": 1,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": null,
+   "created": "2026-10-05",
+   "pushed": "2026-10-05",
+   "demo": "https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/",
+   "homepage": "https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/",
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Kimi K3",
+    "Claude Opus 5"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
+   "families": [
+    "Kimi",
+    "Claude"
+   ]
   },
   {
    "repo": "Minghao-Fan/world-execute-cmd",
@@ -3826,7 +3856,7 @@
    "language": "HTML",
    "license": null,
    "created": "2026-08-22",
-   "pushed": "2026-11-09",
+   "pushed": "2026-11-16",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -4704,36 +4734,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/KaedeharaKazuha1029/world.execute-me-opus5.5-1",
    "families": [
-    "Claude"
-   ]
-  },
-  {
-   "repo": "Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
-   "name": "Kimi-K3-opus5-World.execute-me-",
-   "owner": "Anontokyo-Mygo",
-   "avatar": "https://avatars.githubusercontent.com/u/231736170?v=4",
-   "url": "https://github.com/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": null,
-   "created": "2026-10-05",
-   "pushed": "2026-10-05",
-   "demo": "https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/",
-   "homepage": "https://anontokyo-mygo.github.io/Kimi-K3-opus5-World.execute-me-/",
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "Kimi K3",
-    "Claude Opus 5"
-   ],
-   "maker": "ai",
-   "form": "web",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/Anontokyo-Mygo/Kimi-K3-opus5-World.execute-me-",
-   "families": [
-    "Kimi",
     "Claude"
    ]
   },
@@ -6309,7 +6309,7 @@
    "language": null,
    "license": null,
    "created": "2026-11-14",
-   "pushed": "2026-11-15",
+   "pushed": "2026-11-16",
    "demo": null,
    "homepage": null,
    "bilibili": [],
