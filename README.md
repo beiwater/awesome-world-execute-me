@@ -60,12 +60,12 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 <!-- works:start -->
 ### 网页 Web
 
-- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1797；AI 模型：未注明.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 558；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1802；AI 模型：未注明.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 560；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 263.
-- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 112；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
+- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 122；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
 - [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 57.
-- [HuJK/world-execute-me-mv](https://github.com/HuJK/world-execute-me-mv) - 网页形式的二创作品. ★ 51；AI 模型：Claude, GPT；[YouTube](https://www.youtube.com/watch?v=q89Eze8hYSE).
+- [HuJK/world-execute-me-mv](https://github.com/HuJK/world-execute-me-mv) - 网页形式的二创作品. ★ 52；AI 模型：Claude, GPT；[YouTube](https://www.youtube.com/watch?v=q89Eze8hYSE).
 - [pdog9963/littlecat](https://github.com/pdog9963/littlecat) - DeepSeek全能越狱. ★ 45；AI 模型：DeepSeek.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
 - [SelinLee/ai-moe-atlas](https://github.com/SelinLee/ai-moe-atlas) - AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets. ★ 8；AI 模型：未注明；[在线 demo](https://selinlee.github.io/ai-moe-atlas/)；[B站](https://www.bilibili.com/video/BV1fYpn6SEk9).
@@ -155,6 +155,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Sanit819/KI-MV-Remake-Projekt](https://github.com/Sanit819/KI-MV-Remake-Projekt) - Archived ASTRA world.execute(me); MV project: source artwork, Canvas renderer, production notes, and a reproducible v5.2 entry. ★ 0；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 - [MindofGhost/echo\_animation](https://github.com/MindofGhost/echo_animation) - 网页形式的二创作品. ★ 0；[在线 demo](https://mindofghost.github.io/echo_animation/).
 - [yumechiyomi/Render-google](https://github.com/yumechiyomi/Render-google) - 网页形式的二创作品. ★ 0；AI 模型：Claude, GPT.
+- [seasnakes/gloria-xmb](https://github.com/seasnakes/gloria-xmb) - GLORIA XMB · 次世代 B 站启动器：实时视效主题、影像与声音碎片收藏馆. ★ 0.
 
 ### 终端 ASCII Terminal
 
@@ -305,6 +306,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [yumechiyomi/world\_execute\_me\_PV](https://github.com/yumechiyomi/world_execute_me_PV) - 代码实现形式的二创作品. ★ 0.
 - [Najabom/World.Execute-Me-MV-PROMPT-Arebia](https://github.com/Najabom/World.Execute-Me-MV-PROMPT-Arebia) - 因源网站文本长度限制，遂将完整提示词放到这里；注意本仓库不包含音乐原曲和歌词，烦请另寻资源，在测试时自行提供. ★ 0；AI 模型：未注明.
 - [eryuemu/eryuemu](https://github.com/eryuemu/eryuemu) - 代码实现形式的二创作品. ★ 0.
+- [AdamBurdik/world.execute-me-](https://github.com/AdamBurdik/world.execute-me-) - World.execute(me). ★ 0.
 <!-- works:end -->
 
 ## 本地运行
