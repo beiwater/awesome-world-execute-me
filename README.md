@@ -60,15 +60,16 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 <!-- works:start -->
 ### 网页 Web
 
-- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1802；AI 模型：未注明.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 560；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1806；AI 模型：未注明.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 562；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 263.
-- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 122；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
+- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 128；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
 - [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 57.
 - [HuJK/world-execute-me-mv](https://github.com/HuJK/world-execute-me-mv) - 网页形式的二创作品. ★ 52；AI 模型：Claude, GPT；[YouTube](https://www.youtube.com/watch?v=q89Eze8hYSE).
 - [pdog9963/littlecat](https://github.com/pdog9963/littlecat) - DeepSeek全能越狱. ★ 45；AI 模型：DeepSeek.
 - [Cryolitia/artworks](https://github.com/Cryolitia/artworks) - Cryolitia's artworks. ★ 11；[在线 demo](https://cryolitia.github.io/artworks/)；[B站](https://www.bilibili.com/video/BV1RKNAePEKD).
 - [SelinLee/ai-moe-atlas](https://github.com/SelinLee/ai-moe-atlas) - AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets. ★ 8；AI 模型：未注明；[在线 demo](https://selinlee.github.io/ai-moe-atlas/)；[B站](https://www.bilibili.com/video/BV1fYpn6SEk9).
+- [MoYoez/MoYoez](https://github.com/MoYoez/MoYoez) - 网页形式的二创作品. ★ 6；制作：手写；[在线 demo](mo-yoez.vercel.app).
 - [Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-](https://github.com/Sy2RK/DeepSeek-V4-Flash-Vision-Exp-World.Execute-me-) - 网页形式的二创作品. ★ 6；AI 模型：DeepSeek V4 Flash.
 - [seasnakes/world.execute-me-wallpaper](https://github.com/seasnakes/world.execute-me-wallpaper) - B站《Opus5.5 一句话生成 world.execute(me); mv》配套网页源码. ★ 5；AI 模型：Claude Opus 5.5；[B站](https://www.bilibili.com/video/BV1RHhU63ESq).
 - [bywenshu/world-execute-me](https://github.com/bywenshu/world-execute-me) - 网页形式的二创作品. ★ 4.
@@ -155,6 +156,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [Sanit819/KI-MV-Remake-Projekt](https://github.com/Sanit819/KI-MV-Remake-Projekt) - Archived ASTRA world.execute(me); MV project: source artwork, Canvas renderer, production notes, and a reproducible v5.2 entry. ★ 0；[B站](https://www.bilibili.com/video/BV1xCai6aE9g).
 - [MindofGhost/echo\_animation](https://github.com/MindofGhost/echo_animation) - 网页形式的二创作品. ★ 0；[在线 demo](https://mindofghost.github.io/echo_animation/).
 - [yumechiyomi/Render-google](https://github.com/yumechiyomi/Render-google) - 网页形式的二创作品. ★ 0；AI 模型：Claude, GPT.
+- [byronwai/lr-sidecar](https://github.com/byronwai/lr-sidecar) - Browser-based Lightroom sidecar compiler and animated Reel exporter. ★ 0.
 - [seasnakes/gloria-xmb](https://github.com/seasnakes/gloria-xmb) - GLORIA XMB · 次世代 B 站启动器：实时视效主题、影像与声音碎片收藏馆. ★ 0.
 
 ### 终端 ASCII Terminal
@@ -225,6 +227,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [2719126468-ship-it/world-execute-me-mv](https://github.com/2719126468-ship-it/world-execute-me-mv) - World.execute(me); fan MV — deterministic Node software renderer, proof-sheet art direction, GitHub Actions render pipeline. ★ 0.
 - [lqx211/JadenScript](https://github.com/lqx211/JadenScript) - Make Scratch (TurboWarp) blocks into codes which is losslessly reversible, and make Scratch AI-coding being possible (and proofed). ★ 0；AI 模型：未注明.
 - [ZEH-Denia/code-rendered-pv](https://github.com/ZEH-Denia/code-rendered-pv) - 逐帧渲染 PV 的技能：工作流、模板与 macOS 复刻记录（基于 MisakaZentai 的开源工程）. ★ 0.
+- [zz3195143-ops/world-execute-me-hydrogen](https://github.com/zz3195143-ops/world-execute-me-hydrogen) - 终端形式的二创作品. ★ 0；[B站](https://www.bilibili.com/video/BV186pc65E68).
 
 ### 代码渲染视频 PV Video
 
@@ -240,8 +243,8 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [DeflatedPickle/GodDrinksJava](https://github.com/DeflatedPickle/GodDrinksJava) - A somewhat working project of the code found in the "world.execute(me);" music video by Mili. ★ 40；制作：手写.
 - [LeonspaceX/world-execute-me](https://github.com/LeonspaceX/world-execute-me) - 代码实现形式的二创作品. ★ 15；[YouTube](https://www.youtube.com/watch?v=ESx_hy1n7HA).
 - [OyogurtO/GodDrinksJava](https://github.com/OyogurtO/GodDrinksJava) - Java implementation of Mili - world.execute(me);. ★ 13；[B站](https://www.bilibili.com/video/BV1aa4y1y7dU).
+- [coolbat/awesome-opus-5.5-usecase](https://github.com/coolbat/awesome-opus-5.5-usecase) - Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN. ★ 8；AI 模型：Claude Opus 5.5；[YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI).
 - [ProbiusOfficial/world.execute.me](https://github.com/ProbiusOfficial/world.execute.me) - 代码实现形式的二创作品. ★ 7.
-- [coolbat/awesome-opus-5.5-usecase](https://github.com/coolbat/awesome-opus-5.5-usecase) - Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN. ★ 7；AI 模型：Claude Opus 5.5；[YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI).
 - [Harris1121/awesome-deepseek-harness](https://github.com/Harris1121/awesome-deepseek-harness) - Find the right DeepSeek Harness tools faster — see what’s popular, rising and worth using. ★ 2；AI 模型：未注明.
 - [Tests4gptplay/ai-gijinka-art-world](https://github.com/Tests4gptplay/ai-gijinka-art-world) - AI 娘二创视觉设定与世界观资料库（研究工作区）. ★ 2；AI 模型：未注明.
 - [Algeran-iw/WorldExecute](https://github.com/Algeran-iw/WorldExecute) - IWBTG fangame avoidance. ★ 1；制作：手写.
