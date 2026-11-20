@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20T07:12:25Z",
- "count": 256,
+ "generated": "2026-11-20T20:13:57Z",
+ "count": 258,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1822,
-   "forks": 140,
+   "stars": 1826,
+   "forks": 141,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 567,
+   "stars": 569,
    "forks": 40,
    "language": "JavaScript",
    "license": "MIT",
@@ -95,7 +95,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/25396929?v=4",
    "url": "https://github.com/yym8224961/world.execute-me-ascii",
    "description": "world.execute(me); —ascii",
-   "stars": 382,
+   "stars": 383,
    "forks": 34,
    "language": "Python",
    "license": null,
@@ -196,8 +196,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
    "url": "https://github.com/syydaniel/awesome-code-animation",
    "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 144,
-   "forks": 15,
+   "stars": 149,
+   "forks": 16,
    "language": "HTML",
    "license": "CC0-1.0",
    "created": "2026-11-03",
@@ -308,8 +308,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/173586187?v=4",
    "url": "https://github.com/pdog9963/littlecat",
    "description": "DeepSeek全能越狱",
-   "stars": 45,
-   "forks": 8,
+   "stars": 47,
+   "forks": 9,
    "language": "JavaScript",
    "license": "GPL-3.0",
    "created": "2026-09-05",
@@ -641,6 +641,37 @@
    "families": []
   },
   {
+   "repo": "coolbat/awesome-opus-5.5-usecase",
+   "name": "awesome-opus-5.5-usecase",
+   "owner": "coolbat",
+   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
+   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
+   "stars": 9,
+   "forks": 2,
+   "language": null,
+   "license": "CC0-1.0",
+   "created": "2026-09-24",
+   "pushed": "2026-11-20",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [
+    "EnmpDgFD3OI",
+    "mGLhVaXlIyg"
+   ],
+   "models": [
+    "Claude Opus 5.5"
+   ],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
+   "families": [
+    "Claude"
+   ]
+  },
+  {
    "repo": "dingmark1/world_execute_me_win",
    "name": "world_execute_me_win",
    "owner": "dingmark1",
@@ -689,37 +720,6 @@
    "families": []
   },
   {
-   "repo": "coolbat/awesome-opus-5.5-usecase",
-   "name": "awesome-opus-5.5-usecase",
-   "owner": "coolbat",
-   "avatar": "https://avatars.githubusercontent.com/u/26573413?v=4",
-   "url": "https://github.com/coolbat/awesome-opus-5.5-usecase",
-   "description": "Awesome list of Claude Opus 5.5 demos — games, 3D, films, agents — curated from GitHub, X, and HN.",
-   "stars": 8,
-   "forks": 2,
-   "language": null,
-   "license": "CC0-1.0",
-   "created": "2026-09-24",
-   "pushed": "2026-11-19",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [
-    "EnmpDgFD3OI",
-    "mGLhVaXlIyg"
-   ],
-   "models": [
-    "Claude Opus 5.5"
-   ],
-   "maker": "ai",
-   "form": "code",
-   "preview": null,
-   "og": "https://opengraph.githubassets.com/1/coolbat/awesome-opus-5.5-usecase",
-   "families": [
-    "Claude"
-   ]
-  },
-  {
    "repo": "SelinLee/ai-moe-atlas",
    "name": "ai-moe-atlas",
    "owner": "SelinLee",
@@ -731,7 +731,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-09-27",
-   "pushed": "2026-11-18",
+   "pushed": "2026-11-20",
    "demo": "https://selinlee.github.io/ai-moe-atlas/",
    "homepage": "https://selinlee.github.io/ai-moe-atlas/",
    "bilibili": [
@@ -1089,7 +1089,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-11-19",
+   "pushed": "2026-11-20",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -2035,7 +2035,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-11-19",
+   "pushed": "2026-11-20",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -6398,6 +6398,33 @@
    ]
   },
   {
+   "repo": "feverZHONG/world-execute-zh",
+   "name": "world-execute-zh",
+   "owner": "feverZHONG",
+   "avatar": "https://avatars.githubusercontent.com/u/219907693?v=4",
+   "url": "https://github.com/feverZHONG/world-execute-zh",
+   "description": "world.execute (me) ; 简体中文二创 MV（上游 Nyankomintsu/world-execute-me-lyric-mv v4；代码 MIT，剪影 CC BY-NC-SA 4.0）",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "created": "2026-11-16",
+   "pushed": "2026-11-20",
+   "demo": null,
+   "homepage": "https://www.bilibili.com/video/BV19My4zoEkF",
+   "bilibili": [
+    "BV19My4zoEkF",
+    "BV186pc65E68"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "unknown",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/feverZHONG/world-execute-zh/main/docs/images/film-still.jpg",
+   "og": "https://opengraph.githubassets.com/1/feverZHONG/world-execute-zh",
+   "families": []
+  },
+  {
    "repo": "AdamBurdik/world.execute-me-",
    "name": "world.execute-me-",
    "owner": "AdamBurdik",
@@ -6494,6 +6521,34 @@
    "preview": "https://raw.githubusercontent.com/zz3195143-ops/world-execute-me-hydrogen/main/preview.png",
    "og": "https://opengraph.githubassets.com/1/zz3195143-ops/world-execute-me-hydrogen",
    "families": []
+  },
+  {
+   "repo": "HikaQ/world-execute-pv-seran",
+   "name": "world-execute-pv-seran",
+   "owner": "HikaQ",
+   "avatar": "https://avatars.githubusercontent.com/u/106595546?v=4",
+   "url": "https://github.com/HikaQ/world-execute-pv-seran",
+   "description": "Code-rendered particle music film: SERAN / 希苒. JavaScript, Three.js and WebGL. V24 source archive.",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "created": "2026-11-20",
+   "pushed": "2026-11-20",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Codex"
+   ],
+   "maker": "ai",
+   "form": "web",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/HikaQ/world-execute-pv-seran",
+   "families": [
+    "GPT / Codex"
+   ]
   },
   {
    "repo": "oliverlancaster651-svg/gu-xing-ge-darling",
