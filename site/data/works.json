@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T19:36:37Z",
+ "generated": "2026-11-23T07:34:21Z",
  "count": 259,
  "works": [
   {
@@ -9,8 +9,8 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1835,
-   "forks": 141,
+   "stars": 1843,
+   "forks": 142,
    "language": "HTML",
    "license": "MIT",
    "created": "2026-04-11",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 585,
+   "stars": 586,
    "forks": 40,
    "language": "JavaScript",
    "license": "MIT",
@@ -2447,6 +2447,34 @@
    "preview": "https://raw.githubusercontent.com/mayi661/world-execute-me-making-of/main/images/cover-4k.jpg",
    "og": "https://opengraph.githubassets.com/1/mayi661/world-execute-me-making-of",
    "families": []
+  },
+  {
+   "repo": "ASAW67/first-mv-made-with-deepseek",
+   "name": "first-mv-made-with-deepseek",
+   "owner": "ASAW67",
+   "avatar": "https://avatars.githubusercontent.com/u/345383300?v=4",
+   "url": "https://github.com/ASAW67/first-mv-made-with-deepseek",
+   "description": "用 DeepSeek 做的第一个 MV — world.execute(me);",
+   "stars": 1,
+   "forks": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created": "2026-11-22",
+   "pushed": "2026-11-22",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "DeepSeek"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/ASAW67/first-mv-made-with-deepseek/main/stills/01_chorus1_if_i_can.jpg",
+   "og": "https://opengraph.githubassets.com/1/ASAW67/first-mv-made-with-deepseek",
+   "families": [
+    "DeepSeek"
+   ]
   },
   {
    "repo": "2ndERROR/world.execute-me-",
@@ -6573,34 +6601,6 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/UIB1/world-execute-mv-windows",
    "families": []
-  },
-  {
-   "repo": "ASAW67/first-mv-made-with-deepseek",
-   "name": "first-mv-made-with-deepseek",
-   "owner": "ASAW67",
-   "avatar": "https://avatars.githubusercontent.com/u/345383300?v=4",
-   "url": "https://github.com/ASAW67/first-mv-made-with-deepseek",
-   "description": "用 DeepSeek 做的第一个 MV — world.execute(me);",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "created": "2026-11-22",
-   "pushed": "2026-11-22",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [],
-   "models": [
-    "DeepSeek"
-   ],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/ASAW67/first-mv-made-with-deepseek/main/stills/01_chorus1_if_i_can.jpg",
-   "og": "https://opengraph.githubassets.com/1/ASAW67/first-mv-made-with-deepseek",
-   "families": [
-    "DeepSeek"
-   ]
   }
  ]
 }
