@@ -60,10 +60,10 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 <!-- works:start -->
 ### 网页 Web
 
-- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1846；AI 模型：未注明.
-- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 587；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
+- [Unclecheng-li/AI\_Animation](https://github.com/Unclecheng-li/AI_Animation) - 本项目整理了用于生成\[炫酷 HTML 动画网页\]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别. ★ 1848；AI 模型：未注明.
+- [Nyankomintsu/world-execute-me-lyric-mv](https://github.com/Nyankomintsu/world-execute-me-lyric-mv) - World.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞. ★ 588；AI 模型：Claude；[B站](https://www.bilibili.com/video/BV186pc65E68).
 - [UM7lab/world.execute.me.html](https://github.com/UM7lab/world.execute.me.html) - Song world.execute (me) ; Presented in HTML. ★ 263.
-- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 170；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
+- [syydaniel/awesome-code-animation](https://github.com/syydaniel/awesome-code-animation) - 按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations &amp; music videos with code, indexed by visual style. ★ 173；AI 模型：Claude Opus 5.5；[在线 demo](https://syydaniel.github.io/awesome-code-animation/)；[B站](https://www.bilibili.com/video/BV1DNxU6WEqv).
 - [FrostNovaOrg/world-execute-web](https://github.com/FrostNovaOrg/world-execute-web) - The web player for a fully code-generated music video of Mili's "world.execute (me) ;": every frame rendered live in your browser. ★ 59.
 - [HuJK/world-execute-me-mv](https://github.com/HuJK/world-execute-me-mv) - 网页形式的二创作品. ★ 54；AI 模型：Claude, GPT；[YouTube](https://www.youtube.com/watch?v=q89Eze8hYSE).
 - [pdog9963/littlecat](https://github.com/pdog9963/littlecat) - DeepSeek全能越狱. ★ 47；AI 模型：DeepSeek.
@@ -309,6 +309,7 @@ Mili《world.execute(me);》的非官方同人作品馆，收录 GitHub 上的�
 - [zaofenMachine/world.execute-Ralmia-](https://github.com/zaofenMachine/world.execute-Ralmia-) - 代码实现形式的二创作品. ★ 0.
 - [chenmoulaile/world-execute-pv-prompts](https://github.com/chenmoulaile/world-execute-pv-prompts) - 制作《world.execute(me);》Qwen 代码渲染 PV 的完整提示词链：主提示词、26 段任务书、子智能体派发、真实模型台词采集、验收闸与反例。不含歌词原文. ★ 0；AI 模型：Qwen.
 - [aaabushinanniang/world.execute-me-](https://github.com/aaabushinanniang/world.execute-me-) - World.execute (me) ;重制版. ★ 0.
+- [llz121517/WorldExecuteMe](https://github.com/llz121517/WorldExecuteMe) - World.execute(me); as a live UEFI performance - Wem.efi draws the show on GOP and prints the lyrics in sync with audio DMA position. ★ 0.
 - [Mephisto-roxy/world-execute-me-deepseek-whale-mv](https://github.com/Mephisto-roxy/world-execute-me-deepseek-whale-mv) - &gt; Code-rendered fan MV: world.execute(me); × DeepSeek whale-girl (unofficial, non-commercial). ★ 0.
 - [yumechiyomi/world\_execute\_me\_PV](https://github.com/yumechiyomi/world_execute_me_PV) - 代码实现形式的二创作品. ★ 0.
 - [Najabom/World.Execute-Me-MV-PROMPT-Arebia](https://github.com/Najabom/World.Execute-Me-MV-PROMPT-Arebia) - 因源网站文本长度限制，遂将完整提示词放到这里；注意本仓库不包含音乐原曲和歌词，烦请另寻资源，在测试时自行提供. ★ 0；AI 模型：未注明.
