@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:26:05Z",
+ "generated": "2026-11-25T08:29:36Z",
  "count": 260,
  "works": [
   {
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1851,
+   "stars": 1857,
    "forks": 141,
    "language": "HTML",
    "license": "MIT",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 720,
+   "stars": 721,
    "forks": 64,
    "language": "Python",
    "license": "MIT",
@@ -143,7 +143,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
    "url": "https://github.com/syydaniel/awesome-code-animation",
    "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 176,
+   "stars": 180,
    "forks": 19,
    "language": "HTML",
    "license": "CC0-1.0",
@@ -589,6 +589,34 @@
    "families": []
   },
   {
+   "repo": "SelinLee/ai-moe-atlas",
+   "name": "ai-moe-atlas",
+   "owner": "SelinLee",
+   "avatar": "https://avatars.githubusercontent.com/u/8092113?v=4",
+   "url": "https://github.com/SelinLee/ai-moe-atlas",
+   "description": "AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets",
+   "stars": 11,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-09-27",
+   "pushed": "2026-11-22",
+   "demo": "https://selinlee.github.io/ai-moe-atlas/",
+   "homepage": "https://selinlee.github.io/ai-moe-atlas/",
+   "bilibili": [
+    "BV1fYpn6SEk9",
+    "BV1mThC6LEbA",
+    "BV1fzs26bETg"
+   ],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "web",
+   "preview": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/main/public/generated/ai-models-v5/openai-preview.webp",
+   "og": "https://opengraph.githubassets.com/1/SelinLee/ai-moe-atlas",
+   "families": []
+  },
+  {
    "repo": "Sy2RK/DeepSeek-V4-1-Flash-world.execute-me-",
    "name": "DeepSeek-V4-1-Flash-world.execute-me-",
    "owner": "Sy2RK",
@@ -615,34 +643,6 @@
    "families": [
     "DeepSeek"
    ]
-  },
-  {
-   "repo": "SelinLee/ai-moe-atlas",
-   "name": "ai-moe-atlas",
-   "owner": "SelinLee",
-   "avatar": "https://avatars.githubusercontent.com/u/8092113?v=4",
-   "url": "https://github.com/SelinLee/ai-moe-atlas",
-   "description": "AI character atlas and asset toolkit · 中文 / English / 日本語 · Collect existing artwork, preserve provenance, normalize assets",
-   "stars": 10,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-09-27",
-   "pushed": "2026-11-22",
-   "demo": "https://selinlee.github.io/ai-moe-atlas/",
-   "homepage": "https://selinlee.github.io/ai-moe-atlas/",
-   "bilibili": [
-    "BV1fYpn6SEk9",
-    "BV1mThC6LEbA",
-    "BV1fzs26bETg"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "ai",
-   "form": "web",
-   "preview": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/main/public/generated/ai-models-v5/openai-preview.webp",
-   "og": "https://opengraph.githubassets.com/1/SelinLee/ai-moe-atlas",
-   "families": []
   },
   {
    "repo": "user-lqt/world-execute-me",
@@ -769,6 +769,30 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/ProbiusOfficial/world.execute.me",
+   "families": []
+  },
+  {
+   "repo": "MoYoez/MoYoez",
+   "name": "MoYoez",
+   "owner": "MoYoez",
+   "avatar": "https://avatars.githubusercontent.com/u/30306672?v=4",
+   "url": "https://github.com/MoYoez/MoYoez",
+   "description": "",
+   "stars": 6,
+   "forks": 0,
+   "language": "HTML",
+   "license": null,
+   "created": "2021-12-13",
+   "pushed": "2026-11-25",
+   "demo": "mo-yoez.vercel.app",
+   "homepage": "mo-yoez.vercel.app",
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "human",
+   "form": "web",
+   "preview": "https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg",
+   "og": "https://opengraph.githubassets.com/1/MoYoez/MoYoez",
    "families": []
   },
   {
@@ -980,6 +1004,35 @@
    "families": [
     "GPT / Codex"
    ]
+  },
+  {
+   "repo": "Chih-Kai-Wang/world-execute-me-claude-code",
+   "name": "world-execute-me-claude-code",
+   "owner": "Chih-Kai-Wang",
+   "avatar": "https://avatars.githubusercontent.com/u/290806361?v=4",
+   "url": "https://github.com/Chih-Kai-Wang/world-execute-me-claude-code",
+   "description": "world.execute(me); as a Claude Code session, played live in your terminal — an unofficial fan PV (pure Node, no dependencies)",
+   "stars": 3,
+   "forks": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "created": "2026-10-03",
+   "pushed": "2026-11-08",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [
+    "BV1xFHi6vEBq",
+    "BV1oxam6kEVh"
+   ],
+   "youtube": [
+    "iEsGiRECytY"
+   ],
+   "models": [],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/Chih-Kai-Wang/world-execute-me-claude-code/main/docs/preview.png",
+   "og": "https://opengraph.githubassets.com/1/Chih-Kai-Wang/world-execute-me-claude-code",
+   "families": []
   },
   {
    "repo": "blueink66/world-execute-me",
@@ -1201,35 +1254,6 @@
    "form": "web",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/CENSEDAXIS20025/AI-Music-MV-Remake",
-   "families": []
-  },
-  {
-   "repo": "Chih-Kai-Wang/world-execute-me-claude-code",
-   "name": "world-execute-me-claude-code",
-   "owner": "Chih-Kai-Wang",
-   "avatar": "https://avatars.githubusercontent.com/u/290806361?v=4",
-   "url": "https://github.com/Chih-Kai-Wang/world-execute-me-claude-code",
-   "description": "world.execute(me); as a Claude Code session, played live in your terminal — an unofficial fan PV (pure Node, no dependencies)",
-   "stars": 2,
-   "forks": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "created": "2026-10-03",
-   "pushed": "2026-11-08",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1xFHi6vEBq",
-    "BV1oxam6kEVh"
-   ],
-   "youtube": [
-    "iEsGiRECytY"
-   ],
-   "models": [],
-   "maker": "ai",
-   "form": "terminal",
-   "preview": "https://raw.githubusercontent.com/Chih-Kai-Wang/world-execute-me-claude-code/main/docs/preview.png",
-   "og": "https://opengraph.githubassets.com/1/Chih-Kai-Wang/world-execute-me-claude-code",
    "families": []
   },
   {
@@ -3301,33 +3325,6 @@
    "form": "code",
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/lzwazb/world.execute.me.html",
-   "families": []
-  },
-  {
-   "repo": "ammarramma/mili",
-   "name": "mili",
-   "owner": "ammarramma",
-   "avatar": "https://avatars.githubusercontent.com/u/147894810?v=4",
-   "url": "https://github.com/ammarramma/mili",
-   "description": "",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "license": null,
-   "created": "2025-09-21",
-   "pushed": "2025-09-21",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [],
-   "youtube": [
-    "OnWktOJHrjQ",
-    "GteSuAwHwFg"
-   ],
-   "models": [],
-   "maker": "unknown",
-   "form": "code",
-   "preview": "https://user-images.githubusercontent.com/82330418/137039756-2f5477ce-a791-48cf-a1f2-660896702f39.png",
-   "og": "https://opengraph.githubassets.com/1/ammarramma/mili",
    "families": []
   },
   {
@@ -6235,7 +6232,7 @@
    "language": "Python",
    "license": "MIT",
    "created": "2026-11-04",
-   "pushed": "2026-11-24",
+   "pushed": "2026-11-25",
    "demo": null,
    "homepage": null,
    "bilibili": [],
