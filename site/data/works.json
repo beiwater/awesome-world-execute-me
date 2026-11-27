@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T08:25:42Z",
- "count": 259,
+ "generated": "2026-11-27T21:16:32Z",
+ "count": 260,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -33,7 +33,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/47909752?v=4",
    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
    "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
-   "stars": 723,
+   "stars": 725,
    "forks": 65,
    "language": "Python",
    "license": "MIT",
@@ -65,7 +65,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/233780972?v=4",
    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv",
    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
-   "stars": 595,
+   "stars": 598,
    "forks": 40,
    "language": "JavaScript",
    "license": "MIT",
@@ -143,7 +143,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
    "url": "https://github.com/syydaniel/awesome-code-animation",
    "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 191,
+   "stars": 194,
    "forks": 19,
    "language": "HTML",
    "license": "CC0-1.0",
@@ -605,7 +605,7 @@
    "homepage": "https://selinlee.github.io/ai-moe-atlas/",
    "bilibili": [
     "BV1fYpn6SEk9",
-    "BV1mThC6LEbA",
+    "BV14Cnu64ErL",
     "BV1kxWV6KE6o"
    ],
    "youtube": [],
@@ -680,7 +680,7 @@
    "language": null,
    "license": "CC0-1.0",
    "created": "2026-09-24",
-   "pushed": "2026-11-26",
+   "pushed": "2026-11-27",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -1059,34 +1059,6 @@
    "families": []
   },
   {
-   "repo": "ruziniuuuuu/awesome-hajimi",
-   "name": "awesome-hajimi",
-   "owner": "ruziniuuuuu",
-   "avatar": "https://avatars.githubusercontent.com/u/54934297?v=4",
-   "url": "https://github.com/ruziniuuuuu/awesome-hajimi",
-   "description": "A collection of hajimi (哈基米 in Chinese) on the Internet.",
-   "stars": 2,
-   "forks": 0,
-   "language": "Python",
-   "license": null,
-   "created": "2025-07-04",
-   "pushed": "2026-11-26",
-   "demo": null,
-   "homepage": null,
-   "bilibili": [
-    "BV1r3yUzNERj",
-    "BV1hDymzSEhx",
-    "BV1mpySz2EdZ"
-   ],
-   "youtube": [],
-   "models": [],
-   "maker": "unknown",
-   "form": "code",
-   "preview": "https://raw.githubusercontent.com/ruziniuuuuu/awesome-hajimi/main/assets/covers/BV1r3yUzNERj.jpg",
-   "og": "https://opengraph.githubassets.com/1/ruziniuuuuu/awesome-hajimi",
-   "families": []
-  },
-  {
    "repo": "chaxiteamat/word-execute-me",
    "name": "word-execute-me",
    "owner": "chaxiteamat",
@@ -1146,7 +1118,7 @@
    "language": "Python",
    "license": "NOASSERTION",
    "created": "2026-08-15",
-   "pushed": "2026-11-26",
+   "pushed": "2026-11-27",
    "demo": null,
    "homepage": null,
    "bilibili": [],
@@ -2009,7 +1981,7 @@
    "language": "Python",
    "license": "CC0-1.0",
    "created": "2026-10-04",
-   "pushed": "2026-11-26",
+   "pushed": "2026-11-27",
    "demo": "https://beiwater.github.io/awesome-world-execute-me/",
    "homepage": "https://beiwater.github.io/awesome-world-execute-me/",
    "bilibili": [
@@ -2449,6 +2421,30 @@
    "families": [
     "DeepSeek"
    ]
+  },
+  {
+   "repo": "Quanwanzi/DSHwithqun-creation",
+   "name": "DSHwithqun-creation",
+   "owner": "Quanwanzi",
+   "avatar": "https://avatars.githubusercontent.com/u/361994533?v=4",
+   "url": "https://github.com/Quanwanzi/DSHwithqun-creation",
+   "description": "基于AI为主的编程项目",
+   "stars": 1,
+   "forks": 1,
+   "language": "PowerShell",
+   "license": null,
+   "created": "2026-11-27",
+   "pushed": "2026-11-27",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [],
+   "maker": "ai",
+   "form": "code",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/Quanwanzi/DSHwithqun-creation",
+   "families": []
   },
   {
    "repo": "XYX-CN/GPT6.2Astra-world-execute-me",
@@ -3470,7 +3466,7 @@
    "language": "HTML",
    "license": null,
    "created": "2026-01-18",
-   "pushed": "2026-11-08",
+   "pushed": "2026-11-27",
    "demo": "https://unionsploit.github.io/",
    "homepage": "https://github.com/UnionSploit/world-execute-me-lyric-mv",
    "bilibili": [],
@@ -3494,7 +3490,7 @@
    "language": "JavaScript",
    "license": "MIT",
    "created": "2026-01-18",
-   "pushed": "2026-11-08",
+   "pushed": "2026-11-27",
    "demo": "https://unionsploit.github.io",
    "homepage": "https://unionsploit.github.io",
    "bilibili": [],
@@ -6606,6 +6602,34 @@
    "preview": null,
    "og": "https://opengraph.githubassets.com/1/UIB1/world-execute-mv-windows",
    "families": []
+  },
+  {
+   "repo": "OiCkilL/gemini-neon-world-execute-me",
+   "name": "gemini-neon-world-execute-me",
+   "owner": "OiCkilL",
+   "avatar": "https://avatars.githubusercontent.com/u/613988?v=4",
+   "url": "https://github.com/OiCkilL/gemini-neon-world-execute-me",
+   "description": "Gemini Neon 眼中的 world.execute(me); — 纯终端 24-bit TrueColor ASCII / Braille 字符动画 MV (macOS / Linux / Windows)",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created": "2026-11-27",
+   "pushed": "2026-11-27",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "Gemini"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": null,
+   "og": "https://opengraph.githubassets.com/1/OiCkilL/gemini-neon-world-execute-me",
+   "families": [
+    "Gemini"
+   ]
   }
  ]
 }
