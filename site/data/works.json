@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26T21:30:28Z",
- "count": 258,
+ "generated": "2026-11-27T08:25:42Z",
+ "count": 259,
  "works": [
   {
    "repo": "Unclecheng-li/AI_Animation",
@@ -9,7 +9,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/55303635?v=4",
    "url": "https://github.com/Unclecheng-li/AI_Animation",
    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-   "stars": 1863,
+   "stars": 1866,
    "forks": 141,
    "language": "HTML",
    "license": "MIT",
@@ -143,7 +143,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/157094672?v=4",
    "url": "https://github.com/syydaniel/awesome-code-animation",
    "description": "按画风索引的「代码做动画 / 代码做 MV」开源项目合集 · Awesome open-source tools for making animations & music videos with code, indexed by visual style",
-   "stars": 187,
+   "stars": 191,
    "forks": 19,
    "language": "HTML",
    "license": "CC0-1.0",
@@ -276,7 +276,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/15907444?v=4",
    "url": "https://github.com/HuJK/world-execute-me-mv",
    "description": "",
-   "stars": 54,
+   "stars": 55,
    "forks": 7,
    "language": "TypeScript",
    "license": null,
@@ -600,7 +600,7 @@
    "language": "JavaScript",
    "license": "NOASSERTION",
    "created": "2026-09-27",
-   "pushed": "2026-11-26",
+   "pushed": "2026-11-27",
    "demo": "https://selinlee.github.io/ai-moe-atlas/",
    "homepage": "https://selinlee.github.io/ai-moe-atlas/",
    "bilibili": [
@@ -2448,6 +2448,34 @@
    "og": "https://opengraph.githubassets.com/1/ASAW67/first-mv-made-with-deepseek",
    "families": [
     "DeepSeek"
+   ]
+  },
+  {
+   "repo": "XYX-CN/GPT6.2Astra-world-execute-me",
+   "name": "GPT6.2Astra-world-execute-me",
+   "owner": "XYX-CN",
+   "avatar": "https://avatars.githubusercontent.com/u/234514732?v=4",
+   "url": "https://github.com/XYX-CN/GPT6.2Astra-world-execute-me",
+   "description": "Astra 终端音乐影像 · 第四次修订 | Python, Canvas & FFmpeg",
+   "stars": 1,
+   "forks": 0,
+   "language": "Python",
+   "license": null,
+   "created": "2026-11-27",
+   "pushed": "2026-11-27",
+   "demo": null,
+   "homepage": null,
+   "bilibili": [],
+   "youtube": [],
+   "models": [
+    "GPT-6.2 Astra"
+   ],
+   "maker": "ai",
+   "form": "terminal",
+   "preview": "https://raw.githubusercontent.com/XYX-CN/GPT6.2Astra-world-execute-me/main/docs/images/r4-queue.webp",
+   "og": "https://opengraph.githubassets.com/1/XYX-CN/GPT6.2Astra-world-execute-me",
+   "families": [
+    "GPT / Codex"
    ]
   },
   {
@@ -6188,7 +6216,7 @@
    "language": "Python",
    "license": "MIT",
    "created": "2026-11-04",
-   "pushed": "2026-11-26",
+   "pushed": "2026-11-27",
    "demo": null,
    "homepage": null,
    "bilibili": [],
